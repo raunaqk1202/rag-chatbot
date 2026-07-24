@@ -100,6 +100,7 @@ def retrieve(query: str, top_k: int = TOP_K) -> List[Dict[str, Any]]:
                     "source_url": meta.get("source_url", ""),
                     "scheme_name": meta.get("scheme_name", ""),
                     "section": meta.get("section", ""),
+                    "scrape_date": meta.get("scrape_date", "Unknown"),
                     "distance": dist,
                 }
             )

@@ -123,7 +123,10 @@ def ask(query: str) -> dict:
     # Extract unique source URLs from retrieved chunks to pass to the UI
     unique_urls = list({c.get("source_url") for c in chunks if c.get("source_url")})
 
-    return {"answer": raw_answer, "citations": unique_urls, "query": query}
+    # Extract scrape date from the first chunk that has one (assuming all chunks from the same ingestion have similar dates)
+    scrape_date = next((c.get("scrape_date") for c in chunks if c.get("scrape_date") and c.get("scrape_date") != "Unknown"), "2026-07-14")
+
+    return {"answer": raw_answer, "citations": unique_urls, "query": query, "scrape_date": scrape_date}
 
 
 if __name__ == "__main__":

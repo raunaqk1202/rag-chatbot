@@ -32,7 +32,7 @@ def process_query(query: str) -> str:
         # Run RAG
         try:
             result = ask(query)
-            formatted = format_response(result["answer"], result.get("citations", []))
+            formatted = format_response(result["answer"], result.get("citations", []), result.get("scrape_date", "2026-07-14"))
 
             # Response validation check
             if not validate_response(formatted):
