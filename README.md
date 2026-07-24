@@ -81,6 +81,15 @@ python -m streamlit run src/app.py
 ```
 This will start the Streamlit server, accessible at `http://localhost:8501`.
 
+## Scheduler
+
+This project uses a GitHub Actions workflow (`.github/workflows/daily_ingestion.yml`) to automatically run the scraping and ingestion pipeline daily at 10:30 AM IST. 
+
+The workflow performs the following steps:
+1. Sets up the Python environment.
+2. Runs the scraper, chunker, and embedder scripts to update the ChromaDB vector database.
+3. Automatically commits and pushes the updated `chroma_db` files back to the repository so the live application always serves the most up-to-date data.
+
 ## How to Re-Scrape & Ingest Data
 
 A daily background job via GitHub Actions automatically keeps the database updated at 10:30 AM IST every day.
