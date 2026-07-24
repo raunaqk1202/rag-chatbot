@@ -36,6 +36,8 @@ flowchart LR
     RAG -->|Extract Entity| Parser[Query Parser]
     Parser --> Retriever
     
+    Scheduler[GitHub Actions\nScheduler] -->|Daily at 10:30 AM| Scraper
+    
     subgraph Ingestion
     Scraper[Groww Scraper] --> Chunker
     Chunker --> Embedder
