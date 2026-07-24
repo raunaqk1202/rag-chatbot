@@ -1,0 +1,157 @@
+SCHEME: HDFC Large Cap Fund – Direct Growth
+SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+SCRAPED: 2026-07-14T22:17:16.461551+00:00
+
+============================================================
+  FUND OVERVIEW
+============================================================
+Fund Name: HDFC Large Cap Fund Direct Growth
+Category: Equity
+Sub Category: Large Cap
+Amc: HDFC Mutual Fund
+Plan Type: Direct Growth
+Description: The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.
+Launch Date: 01-Jan-2013
+Registrar Agent: CAMS
+Isin: INF179K01YV8
+Risk Level: Very High
+Groww Rating: 4 out of 5
+
+============================================================
+  FUND DETAILS
+============================================================
+Nav: ₹1228.902
+Nav Date: 14-Jul-2026
+Aum: ₹39,023.69 Cr
+Expense Ratio: 1.02%
+Exit Load: Exit load of 1% if redeemed within 1 year
+Min Sip Investment: ₹100
+Min Lumpsum Investment: ₹100
+Min Additional Investment: ₹100
+Lock In Period: No lock-in period
+Stamp Duty: 0.005% (from July 1st, 2020)
+Portfolio Turnover: 18.0%
+
+============================================================
+  RETURNS
+============================================================
+
+Annualised Returns Cagr:
+  1 Day: 0.02%
+  1 Week: -0.34%
+  1 Month: 4.23%
+  3 Months: 4.57%
+  6 Months: -2.71%
+  1 Year: 0.41%
+  3 Years: 11.76%
+  5 Years: 13.27%
+  10 Years: 13.16%
+  Since Inception: 13.08%
+
+Category Average Returns:
+  1 Year: 7.15%
+  3 Years: 15.07%
+  5 Years: 14.96%
+  10 Years: 13.16%
+
+Category Rankings:
+  1 Year: Rank 42
+  3 Years: Rank 37
+  5 Years: Rank 16
+  10 Years: Rank 12
+
+Risk Metrics:
+  Sharpe Ratio: 0.43
+  Beta: 0.95
+  Alpha: 1.04
+  Standard Deviation: 13.93
+  Sortino Ratio: 0.52
+
+Sip Returns:
+  1 Year: 2.97%
+  3 Years: 5.44%
+  5 Years: 10.78%
+  10 Years: 13.25%
+  Since Inception: 13.35%
+
+============================================================
+  RISK
+============================================================
+Riskometer Category: Very High
+Nfo Riskometer: Moderately High Riskometer
+Standard Deviation: 13.93
+Beta: 0.95
+
+============================================================
+  BENCHMARK
+============================================================
+Benchmark Index: NIFTY 100 TRI
+Benchmark Full Name: NIFTY 100 Total Return Index
+
+============================================================
+  HOLDINGS
+============================================================
+
+Top 10 Holdings:
+  - ICICI Bank Ltd: 9.73% (Financial)
+  - HDFC Bank Ltd: 7.92% (Financial)
+  - Bharti Airtel Ltd: 5.66% (Technology)
+  - Kotak Mahindra Bank Ltd: 5.46% (Financial)
+  - Reliance Industries Ltd: 4.96% (Energy & Utilities)
+  - Titan Company Ltd: 4.65% (Consumer Discretionary)
+  - Torrent Pharmaceuticals Ltd: 3.77% (Healthcare)
+  - Axis Bank Ltd: 3.69% (Financial)
+  - Bajaj Finserv Ltd: 3.0% (Financial)
+  - Lupin Ltd: 2.86% (Healthcare)
+
+Asset Allocation:
+  Equity: 96.76%
+  Debt: 0.50%
+  Cash: 2.74%
+
+Sector Allocation:
+  Financial: 38.37%
+  Consumer Discretionary: 12.51%
+  Technology: 11.33%
+  Healthcare: 10.33%
+  Industrials: 8.01%
+  Energy & Utilities: 7.00%
+  Consumer Staples: 5.27%
+  Materials: 3.60%
+  Real Estate: 0.34%
+Portfolio Date: 2026-06-29
+Total Holdings: 44
+
+============================================================
+  TAX
+============================================================
+Tax Implications: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+Category Description: Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.
+
+============================================================
+  FUND MANAGEMENT
+============================================================
+
+Fund Managers:
+  - Rahul Baijal (since 2022-07-28). Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering. Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.
+  - Dhruv Muchhal (since 2023-06-21). Mr. Dhruv has done B.Com, CA and CFA. Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells
+
+============================================================
+  AMC INFO
+============================================================
+Amc Name: HDFC Mutual Fund
+Total Amc Aum: ₹944,244.21 Cr
+Contact Email: shareholders.relations@hdfcfund.com
+Contact Phone: 022 – 66316333
+Website: http://www.hdfcfund.com
+
+============================================================
+  ANALYSIS
+============================================================
+
+Pros:
+  - Lower expense ratio: 1.02%
+  - 10Y annualised returns higher than category average by 0.0%
+
+Cons:
+  - Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y

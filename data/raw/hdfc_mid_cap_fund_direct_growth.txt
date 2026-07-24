@@ -1,0 +1,157 @@
+SCHEME: HDFC Mid Cap Fund – Direct Growth
+SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
+SCRAPED: 2026-07-14T22:17:17.646962+00:00
+
+============================================================
+  FUND OVERVIEW
+============================================================
+Fund Name: HDFC Mid Cap Fund Direct Growth
+Category: Equity
+Sub Category: Mid Cap
+Amc: HDFC Mutual Fund
+Plan Type: Direct Growth
+Description: The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.
+Launch Date: 01-Jan-2013
+Registrar Agent: CAMS
+Isin: INF179K01XQ0
+Risk Level: Very High
+Groww Rating: 5 out of 5
+
+============================================================
+  FUND DETAILS
+============================================================
+Nav: ₹230.008
+Nav Date: 14-Jul-2026
+Aum: ₹100,858.31 Cr
+Expense Ratio: 0.75%
+Exit Load: Exit load of 1% if redeemed within 1 year.
+Min Sip Investment: ₹100
+Min Lumpsum Investment: ₹100
+Min Additional Investment: ₹100
+Lock In Period: No lock-in period
+Stamp Duty: 0.005% (from July 1st, 2020)
+Portfolio Turnover: 13.0%
+
+============================================================
+  RETURNS
+============================================================
+
+Annualised Returns Cagr:
+  1 Day: -0.67%
+  1 Week: -0.47%
+  1 Month: 4.48%
+  3 Months: 7.64%
+  6 Months: 3.5%
+  1 Year: 6.08%
+  3 Years: 20.31%
+  5 Years: 20.37%
+  10 Years: 18.36%
+  Since Inception: 19.3%
+
+Category Average Returns:
+  1 Year: 1.96%
+  3 Years: 21.62%
+  5 Years: 21.53%
+  10 Years: 16.00%
+
+Category Rankings:
+  1 Year: Rank 23
+  3 Years: Rank 13
+  5 Years: Rank 4
+  10 Years: Rank 5
+
+Risk Metrics:
+  Sharpe Ratio: 0.9185022565
+  Beta: 0.83929812439337
+  Alpha: 2.83082542012366
+  Standard Deviation: 15.513184148162246
+  Sortino Ratio: 1.105274768958516
+
+Sip Returns:
+  1 Year: 13.33661129882766%
+  3 Years: 13.639496228813657%
+  5 Years: 19.95429161233701%
+  10 Years: 20.22973884746948%
+
+============================================================
+  RISK
+============================================================
+Riskometer Category: Very High
+Nfo Riskometer: Moderately High
+Standard Deviation: 15.513184148162246
+Beta: 0.83929812439337
+
+============================================================
+  BENCHMARK
+============================================================
+Benchmark Index: NIFTY Midcap 150 TRI
+Benchmark Full Name: NIFTY Midcap 150 Total Return Index
+
+============================================================
+  HOLDINGS
+============================================================
+
+Top 10 Holdings:
+  - The Federal Bank Ltd: 4.18% (Financial)
+  - Max Financial Services Ltd: 4.1% (Financial)
+  - AU Small Finance Bank Ltd: 4.08% (Financial)
+  - Balkrishna Industries Ltd: 3.1% (Consumer Discretionary)
+  - Fortis Healthcare Ltd: 3.07% (Healthcare)
+  - Ipca Laboratories Ltd: 3.05% (Healthcare)
+  - Indian Bank: 2.98% (Financial)
+  - Glenmark Pharmaceuticals Ltd: 2.93% (Healthcare)
+  - Vishal Mega Mart Ltd.: 2.64% (Consumer Staples)
+  - Cummins India Ltd: 2.52% (Industrials)
+
+Asset Allocation:
+  Equity: 92.06%
+  Cash: 7.94%
+
+Sector Allocation:
+  Financial: 26.88%
+  Healthcare: 14.84%
+  Consumer Discretionary: 11.99%
+  Technology: 10.50%
+  Consumer Staples: 9.60%
+  Industrials: 9.52%
+  Materials: 5.15%
+  Energy & Utilities: 3.11%
+  Diversified: 0.47%
+Portfolio Date: 2026-06-29
+Total Holdings: 76
+
+============================================================
+  TAX
+============================================================
+Tax Implications: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+Category Description: Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.
+
+============================================================
+  FUND MANAGEMENT
+============================================================
+
+Fund Managers:
+  - Chirag Setalvad (since 2012-12-31). Mr. Setalvad is a B. Sc and MBA from University of North Carolina.. Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.
+  - Dhruv Muchhal (since 2023-06-21). Mr. Dhruv has done B.Com, CA and CFA. Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells
+
+============================================================
+  AMC INFO
+============================================================
+Amc Name: HDFC Mutual Fund
+Total Amc Aum: ₹944,244.21 Cr
+Contact Email: shareholders.relations@hdfcfund.com
+Contact Phone: 022 – 66316333
+Website: http://www.hdfcfund.com
+
+============================================================
+  ANALYSIS
+============================================================
+
+Pros:
+  - 1Y and 10Y annualised returns higher than category average
+  - Lower expense ratio: 0.75%
+  - Higher alpha: 2.83 
+The fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y 
+
+Cons:
+  - 3Y and 5Y annualised returns lower than category average

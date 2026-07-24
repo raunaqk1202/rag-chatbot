@@ -1,0 +1,115 @@
+SCHEME: HDFC Silver ETF FoF – Direct Growth
+SOURCE: https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth
+SCRAPED: 2026-07-14T22:17:21.145002+00:00
+
+============================================================
+  FUND OVERVIEW
+============================================================
+Fund Name: HDFC Silver ETF FoF Direct Growth
+Category: Commodities
+Sub Category: Silver
+Amc: HDFC Mutual Fund
+Plan Type: Direct Growth
+Description: The scheme is seek to capital appreciation by investing in units of HDFC Silver ETF (HSETF).
+Launch Date: 28-Oct-2022
+Registrar Agent: Cams
+Isin: INF179KC1DU7
+Risk Level: Very High
+
+============================================================
+  FUND DETAILS
+============================================================
+Nav: ₹35.9302
+Nav Date: 14-Jul-2026
+Aum: ₹4,326.56 Cr
+Expense Ratio: 0.22%
+Exit Load: Exit load of 1%, if redeemed within 15 days.
+Min Sip Investment: ₹100
+Min Lumpsum Investment: ₹100
+Min Additional Investment: ₹100
+Lock In Period: No lock-in period
+Stamp Duty: 0.005% (from July 1st, 2020)
+
+============================================================
+  RETURNS
+============================================================
+
+Annualised Returns Cagr:
+  1 Day: 0.22%
+  1 Week: -3.78%
+  1 Month: -9.6%
+  3 Months: -7.57%
+  6 Months: -21.37%
+  1 Year: 86.91%
+  3 Years: 40.79%
+
+Category Average Returns:
+  1 Year: 154.77%
+  3 Years: 47.07%
+
+Category Rankings:
+  1 Year: Rank 7
+  3 Years: Rank 4
+
+Risk Metrics:
+  Sharpe Ratio: 1.1799402077
+  Beta: 0.9739075785654
+  Alpha: -0.8860469666793
+  Standard Deviation: 22.931348482653195
+  Sortino Ratio: 2.7084629411633165
+
+Sip Returns:
+  1 Year: 155.93696128788386%
+  3 Years: 76.37916771903399%
+
+============================================================
+  RISK
+============================================================
+Riskometer Category: Very High
+Nfo Riskometer: Very High
+Standard Deviation: 22.931348482653195
+Beta: 0.9739075785654
+
+============================================================
+  BENCHMARK
+============================================================
+Benchmark Index: Domestic Price of Silver
+Benchmark Full Name: Domestic Price of Silver
+
+============================================================
+  HOLDINGS
+============================================================
+Portfolio Date: 2026-06-29
+Total Holdings: 0
+
+============================================================
+  TAX
+============================================================
+Tax Implications: If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.
+
+============================================================
+  FUND MANAGEMENT
+============================================================
+
+Fund Managers:
+  - Arun Agarwal (since 2023-02-14). Mr. Agarwal is a B.Com. and Chartered Accountant. Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd.
+  - Nandita Menezes (since 2025-03-28). CA (ICAI, INDIA), B.Com (University of Mumbai). Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP.
+
+============================================================
+  AMC INFO
+============================================================
+Amc Name: HDFC Mutual Fund
+Total Amc Aum: ₹944,244.21 Cr
+Contact Email: shareholders.relations@hdfcfund.com
+Contact Phone: 022 – 66316333
+Website: http://www.hdfcfund.com
+
+============================================================
+  ANALYSIS
+============================================================
+
+Pros:
+  - Lower expense ratio: 0.22%
+
+Cons:
+  - Consistently lower annualised returns than category average for the past 1Y and 3Y

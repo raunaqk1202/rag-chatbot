@@ -1,0 +1,144 @@
+{
+  "scheme_name": "HDFC Small Cap Fund – Direct Growth",
+  "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+  "sections": {
+    "fund_overview": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "category": "Equity",
+      "sub_category": "Small Cap",
+      "amc": "HDFC Mutual Fund",
+      "plan_type": "Direct Growth",
+      "description": "The scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.",
+      "launch_date": "01-Jan-2013",
+      "registrar_agent": "CAMS",
+      "isin": "INF179KA1RW5",
+      "risk_level": "Very High",
+      "groww_rating": "3 out of 5"
+    },
+    "fund_details": {
+      "nav": "₹159.603",
+      "nav_date": "14-Jul-2026",
+      "aum": "₹40,416.80 Cr",
+      "expense_ratio": "0.76%",
+      "exit_load": "Exit load of 1% if redeemed within 1 year",
+      "min_sip_investment": "₹100",
+      "min_lumpsum_investment": "₹100",
+      "min_additional_investment": "₹100",
+      "lock_in_period": "No lock-in period",
+      "stamp_duty": "0.005% (from July 1st, 2020)",
+      "portfolio_turnover": "6.0%"
+    },
+    "returns": {
+      "annualised_returns_cagr": {
+        "1_day": "0.48%",
+        "1_week": "1.28%",
+        "1_month": "4.87%",
+        "3_months": "10.04%",
+        "6_months": "4.02%",
+        "1_year": "0.15%",
+        "3_years": "14.54%",
+        "5_years": "16.6%",
+        "10_years": "18.46%",
+        "since_inception": "16.3%"
+      },
+      "category_average_returns": {
+        "1_year": "-6.29%",
+        "3_years": "19.70%",
+        "5_years": "22.63%",
+        "10_years": "16.07%"
+      },
+      "category_rankings": {
+        "1_year": "Rank 42",
+        "3_years": "Rank 31",
+        "5_years": "Rank 17",
+        "10_years": "Rank 4"
+      },
+      "risk_metrics": {
+        "sharpe_ratio": "0.52",
+        "beta": "0.79",
+        "alpha": "-0.9",
+        "standard_deviation": "17.87",
+        "sortino_ratio": "0.74"
+      },
+      "sip_returns": {
+        "1_year": "7.93%",
+        "3_years": "7.73%",
+        "5_years": "14.91%",
+        "10_years": "18.81%",
+        "since_inception": "18.9%"
+      }
+    },
+    "risk": {
+      "riskometer_category": "Very High",
+      "nfo_riskometer": "Moderately High Riskometer",
+      "standard_deviation": "17.87",
+      "beta": "0.79"
+    },
+    "benchmark": {
+      "benchmark_index": "BSE 250 SmallCap TRI",
+      "benchmark_full_name": "BSE 250 SmallCap Total Return Index"
+    },
+    "holdings": {
+      "top_10_holdings": [
+        "Aster DM Healthcare Ltd: 3.83% (Healthcare)",
+        "Firstsource Solutions Ltd: 3.31% (Industrials)",
+        "Bank Of Baroda: 3.16% (Financial)",
+        "Gabriel India Ltd: 3.0% (Consumer Discretionary)",
+        "Eris Lifesciences Ltd: 2.33% (Healthcare)",
+        "Krishna Institute Of Medical Sciences Ltd: 2.24% (Healthcare)",
+        "Fortis Healthcare Ltd: 2.24% (Healthcare)",
+        "eClerx Services Ltd: 2.1% (Technology)",
+        "Apar Industries Ltd: 1.96% (Diversified)",
+        "Indian Bank: 1.96% (Financial)"
+      ],
+      "asset_allocation": {
+        "equity": "89.84%",
+        "cash": "10.16%"
+      },
+      "sector_allocation": {
+        "Industrials": "22.24%",
+        "Consumer Discretionary": "19.52%",
+        "Financial": "12.77%",
+        "Healthcare": "12.32%",
+        "Materials": "7.78%",
+        "Technology": "5.77%",
+        "Consumer Staples": "5.18%",
+        "Diversified": "2.60%",
+        "Energy & Utilities": "1.66%"
+      },
+      "portfolio_date": "2026-06-29",
+      "total_holdings": "83"
+    },
+    "tax": {
+      "tax_implications": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+      "category_description": "Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%."
+    },
+    "fund_management": {
+      "fund_managers": [
+        "Dhruv Muchhal (since 2023-06-21). Mr. Dhruv has done B.Com, CA and CFA. Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
+        "Chirag Setalvad (since 2014-06-27). Mr. Setalvad is a B. Sc and MBA from University of North Carolina.. Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V."
+      ]
+    },
+    "amc_info": {
+      "amc_name": "HDFC Mutual Fund",
+      "total_amc_aum": "₹944,244.21 Cr",
+      "contact_email": "shareholders.relations@hdfcfund.com",
+      "contact_phone": "022 – 66316333",
+      "website": "http://www.hdfcfund.com"
+    },
+    "analysis": {
+      "pros": [
+        "Lower expense ratio: 0.76%",
+        "1Y and 10Y annualised returns higher than category average"
+      ],
+      "cons": [
+        "3Y and 5Y annualised returns lower than category average"
+      ]
+    }
+  },
+  "sections_extracted": 10,
+  "js_rendered_flag": false,
+  "parse_timestamp": "2026-07-14T22:17:18.840715+00:00",
+  "fetched_at": "2026-07-14T22:17:18.839249+00:00",
+  "http_status": 200
+}

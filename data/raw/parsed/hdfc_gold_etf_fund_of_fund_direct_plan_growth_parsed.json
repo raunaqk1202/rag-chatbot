@@ -1,0 +1,118 @@
+{
+  "scheme_name": "HDFC Gold ETF Fund of Fund – Direct Growth",
+  "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+  "sections": {
+    "fund_overview": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "category": "Commodities",
+      "sub_category": "Gold",
+      "amc": "HDFC Mutual Fund",
+      "plan_type": "Direct Growth",
+      "description": "The Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund.",
+      "launch_date": "01-Jan-2013",
+      "registrar_agent": "CAMS",
+      "isin": "INF179K01VX0",
+      "risk_level": "High",
+      "groww_rating": "3 out of 5"
+    },
+    "fund_details": {
+      "nav": "₹43.7747",
+      "nav_date": "14-Jul-2026",
+      "aum": "₹11,019.45 Cr",
+      "expense_ratio": "0.2%",
+      "exit_load": "Exit load of 1%, if redeemed within 15 days.",
+      "min_sip_investment": "₹100",
+      "min_lumpsum_investment": "₹100",
+      "min_additional_investment": "₹100",
+      "lock_in_period": "No lock-in period",
+      "stamp_duty": "0.005% (from July 1st, 2020)",
+      "portfolio_turnover": "1.0%"
+    },
+    "returns": {
+      "annualised_returns_cagr": {
+        "1_day": "-0.67%",
+        "1_week": "-2.18%",
+        "1_month": "-4.74%",
+        "3_months": "-6.24%",
+        "6_months": "-1.97%",
+        "1_year": "41.42%",
+        "3_years": "31.82%",
+        "5_years": "22.74%",
+        "10_years": "15.14%",
+        "since_inception": "10.83%"
+      },
+      "category_average_returns": {
+        "1_year": "76.00%",
+        "3_years": "34.07%",
+        "5_years": "20.95%",
+        "10_years": "17.04%"
+      },
+      "category_rankings": {
+        "1_year": "Rank 6",
+        "3_years": "Rank 9",
+        "5_years": "Rank 7",
+        "10_years": "Rank 4"
+      },
+      "risk_metrics": {
+        "sharpe_ratio": "1.3408405494",
+        "beta": "0.90374552239454",
+        "alpha": "0.98471287053739",
+        "standard_deviation": "18.325047845325184",
+        "sortino_ratio": "2.141164735915761"
+      },
+      "sip_returns": {
+        "1_year": "52.63552746083535%",
+        "3_years": "46.4806467625982%",
+        "5_years": "34.42283466303333%",
+        "10_years": "22.466145897989765%"
+      }
+    },
+    "risk": {
+      "riskometer_category": "High",
+      "nfo_riskometer": "Moderately High Riskometer",
+      "standard_deviation": "18.325047845325184",
+      "beta": "0.90374552239454"
+    },
+    "benchmark": {
+      "benchmark_index": "Domestic Price of Gold",
+      "benchmark_full_name": "Domestic Price of Gold"
+    },
+    "holdings": {
+      "asset_allocation": {
+        "cash": "0.01%"
+      },
+      "portfolio_date": "2026-06-29",
+      "total_holdings": "0"
+    },
+    "tax": {
+      "tax_implications": "If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%."
+    },
+    "fund_management": {
+      "fund_managers": [
+        "Arun Agarwal (since 2023-02-14). Mr. Agarwal is a B.Com. and Chartered Accountant. Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd.",
+        "Nandita Menezes (since 2025-03-28). CA (ICAI, INDIA), B.Com (University of Mumbai). Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP."
+      ]
+    },
+    "amc_info": {
+      "amc_name": "HDFC Mutual Fund",
+      "total_amc_aum": "₹944,244.21 Cr",
+      "contact_email": "shareholders.relations@hdfcfund.com",
+      "contact_phone": "022 – 66316333",
+      "website": "http://www.hdfcfund.com"
+    },
+    "analysis": {
+      "pros": [
+        "5Y annualised returns higher than category average by 2.04%",
+        "Lower expense ratio: 0.2%"
+      ],
+      "cons": [
+        "Consistently lower annualised returns than category average for the past 1Y and 3Y"
+      ]
+    }
+  },
+  "sections_extracted": 10,
+  "js_rendered_flag": false,
+  "parse_timestamp": "2026-07-14T22:17:19.983426+00:00",
+  "fetched_at": "2026-07-14T22:17:19.982162+00:00",
+  "http_status": 200
+}

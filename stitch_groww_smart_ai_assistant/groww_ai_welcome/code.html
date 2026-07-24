@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Groww AI - Welcome</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "outline": "#85948c",
+                        "on-error": "#690005",
+                        "on-primary-container": "#00533c",
+                        "surface-dim": "#111417",
+                        "on-surface": "#e1e2e7",
+                        "error": "#ffb4ab",
+                        "tertiary": "#cbd4dd",
+                        "on-tertiary-fixed": "#141d23",
+                        "on-tertiary-fixed-variant": "#3f484f",
+                        "surface-container-highest": "#323538",
+                        "secondary-fixed": "#dfe2eb",
+                        "surface-tint": "#2fe0aa",
+                        "on-tertiary": "#293138",
+                        "on-background": "#e1e2e7",
+                        "tertiary-container": "#afb8c1",
+                        "surface": "#111417",
+                        "tertiary-fixed": "#dbe4ed",
+                        "secondary": "#c3c6ce",
+                        "surface-bright": "#37393d",
+                        "on-primary": "#003828",
+                        "primary-container": "#00d09c",
+                        "surface-container": "#1d2023",
+                        "inverse-on-surface": "#2e3134",
+                        "on-primary-fixed": "#002116",
+                        "on-secondary-container": "#b2b5bd",
+                        "inverse-primary": "#006c4f",
+                        "on-secondary-fixed": "#181c22",
+                        "on-error-container": "#ffdad6",
+                        "on-surface-variant": "#bacac1",
+                        "surface-variant": "#323538",
+                        "on-primary-fixed-variant": "#00513b",
+                        "primary": "#44edb7",
+                        "on-secondary": "#2d3137",
+                        "secondary-fixed-dim": "#c3c6ce",
+                        "tertiary-fixed-dim": "#bfc8d0",
+                        "primary-fixed-dim": "#2fe0aa",
+                        "on-secondary-fixed-variant": "#43474e",
+                        "surface-container-high": "#272a2e",
+                        "on-tertiary-container": "#404950",
+                        "background": "#111417",
+                        "inverse-surface": "#e1e2e7",
+                        "secondary-container": "#43474e",
+                        "surface-container-lowest": "#0b0e11",
+                        "error-container": "#93000a",
+                        "primary-fixed": "#59fdc5",
+                        "outline-variant": "#3c4a43",
+                        "surface-container-low": "#191c1f"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                    "spacing": {
+                        "container-padding-mobile": "20px",
+                        "container-padding-desktop": "40px",
+                        "gutter": "24px",
+                        "component-gap": "16px",
+                        "unit": "4px"
+                    },
+                    "fontFamily": {
+                        "headline-md": ["Geist"],
+                        "headline-lg": ["Geist"],
+                        "body-sm": ["Geist"],
+                        "headline-lg-mobile": ["Geist"],
+                        "body-lg": ["Geist"],
+                        "label-caps": ["Geist"]
+                    },
+                    "fontSize": {
+                        "headline-md": ["20px", { "lineHeight": "1.4", "fontWeight": "500" }],
+                        "headline-lg": ["32px", { "lineHeight": "1.2", "letterSpacing": "-0.02em", "fontWeight": "600" }],
+                        "body-sm": ["14px", { "lineHeight": "1.6", "fontWeight": "400" }],
+                        "headline-lg-mobile": ["24px", { "lineHeight": "1.2", "fontWeight": "600" }],
+                        "body-lg": ["16px", { "lineHeight": "1.6", "fontWeight": "400" }],
+                        "label-caps": ["12px", { "lineHeight": "1", "letterSpacing": "0.05em", "fontWeight": "700" }]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        /* Geist Font import placeholder if not available system-wide */
+        @import url('https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&display=swap');
+        
+        body {
+            font-family: 'Geist', sans-serif;
+            background-color: #0b0e11; /* surface-container-lowest */
+            color: #e1e2e7; /* on-surface */
+        }
+        
+        /* Custom scrollbar for webkit */
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #323538; /* surface-variant */
+            border-radius: 9999px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #43474e;
+        }
+    </style>
+</head>
+<body class="bg-surface-container-lowest text-on-surface h-screen w-screen overflow-hidden flex flex-col md:flex-row">
+<!-- SideNavBar (Desktop Only) -->
+<nav class="hidden md:flex flex-col h-full overflow-hidden bg-surface-container/60 backdrop-blur-xl h-screen w-64 border-r border-outline-variant shadow-2xl backdrop-blur-16 border-r border-white/10 shrink-0">
+<!-- Header / New Chat -->
+<div class="p-gutter border-b border-outline-variant/30">
+<div class="flex items-center gap-3 mb-6">
+<div class="w-8 h-8 rounded-full bg-primary-container/20 flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-primary text-xl">psychology</span>
+</div>
+<div>
+<h1 class="font-headline-md text-headline-md font-bold text-primary">Investment Intelligence</h1>
+<p class="font-body-sm text-body-sm text-on-surface-variant">Premium Tier</p>
+</div>
+</div>
+<button class="w-full flex items-center justify-between px-4 py-2 bg-primary-container text-on-primary-container rounded-lg hover:bg-primary transition-colors font-body-lg text-body-lg font-medium group">
+<span>New Chat</span>
+<span class="material-symbols-outlined text-lg group-hover:translate-x-1 transition-transform">add</span>
+</button>
+</div>
+<!-- Chat History -->
+<div class="flex-1 overflow-y-auto p-4 space-y-6">
+<!-- Main Nav Tabs from JSON -->
+<div class="space-y-1 mb-8">
+<div class="text-label-caps font-label-caps text-on-surface-variant mb-2 px-3">CORE</div>
+<a class="flex items-center gap-3 px-3 py-2 rounded-lg text-primary font-bold bg-white/5 transition-colors group" href="#">
+<span class="material-symbols-outlined">home</span>
+<span class="font-body-sm text-body-sm">Home</span>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded-lg text-on-surface-variant hover:text-on-surface hover:bg-white/5 transition-colors group" href="#">
+<span class="material-symbols-outlined">account_balance_wallet</span>
+<span class="font-body-sm text-body-sm">Portfolio</span>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded-lg text-on-surface-variant hover:text-on-surface hover:bg-white/5 transition-colors group" href="#">
+<span class="material-symbols-outlined">monitoring</span>
+<span class="font-body-sm text-body-sm">Market Insights</span>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded-lg text-on-surface-variant hover:text-on-surface hover:bg-white/5 transition-colors group" href="#">
+<span class="material-symbols-outlined">description</span>
+<span class="font-body-sm text-body-sm">Reports</span>
+</a>
+</div>
+<!-- Recents -->
+<div>
+<h3 class="text-label-caps font-label-caps text-on-surface-variant mb-2 px-3">TODAY</h3>
+<div class="space-y-1">
+<button class="w-full text-left px-3 py-2 rounded-lg font-body-sm text-body-sm text-on-surface-variant hover:text-on-surface hover:bg-white/5 transition-colors truncate">
+                        Portfolio Analysis
+                    </button>
+<button class="w-full text-left px-3 py-2 rounded-lg font-body-sm text-body-sm text-on-surface-variant hover:text-on-surface hover:bg-white/5 transition-colors truncate">
+                        Tax Saving Options 2024
+                    </button>
+</div>
+</div>
+<div>
+<h3 class="text-label-caps font-label-caps text-on-surface-variant mb-2 px-3">YESTERDAY</h3>
+<div class="space-y-1">
+<button class="w-full text-left px-3 py-2 rounded-lg font-body-sm text-body-sm text-on-surface-variant hover:text-on-surface hover:bg-white/5 transition-colors truncate">
+                        Best SIP Funds
+                    </button>
+</div>
+</div>
+<div>
+<h3 class="text-label-caps font-label-caps text-on-surface-variant mb-2 px-3">LAST 7 DAYS</h3>
+<div class="space-y-1">
+<button class="w-full text-left px-3 py-2 rounded-lg font-body-sm text-body-sm text-on-surface-variant hover:text-on-surface hover:bg-white/5 transition-colors truncate">
+                        Market Trends 2024
+                    </button>
+<button class="w-full text-left px-3 py-2 rounded-lg font-body-sm text-body-sm text-on-surface-variant hover:text-on-surface hover:bg-white/5 transition-colors truncate">
+                        Gold vs Equity
+                    </button>
+</div>
+</div>
+</div>
+<!-- Footer Settings/Help -->
+<div class="p-4 border-t border-outline-variant/30 space-y-1">
+<a class="flex items-center gap-3 px-3 py-2 rounded-lg text-on-surface-variant hover:text-on-surface hover:bg-white/5 transition-colors group" href="#">
+<span class="material-symbols-outlined">help</span>
+<span class="font-body-sm text-body-sm">Help Center</span>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded-lg text-on-surface-variant hover:text-on-surface hover:bg-white/5 transition-colors group" href="#">
+<span class="material-symbols-outlined">settings</span>
+<span class="font-body-sm text-body-sm">Settings</span>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded-lg text-on-surface-variant hover:text-on-surface hover:bg-white/5 transition-colors group" href="#">
+<span class="material-symbols-outlined">person</span>
+<span class="font-body-sm text-body-sm">Account</span>
+</a>
+</div>
+</nav>
+<!-- Main Content Area -->
+<main class="flex-1 flex flex-col h-full relative overflow-hidden bg-background">
+<!-- TopNavBar (Mobile Only / Responsive Header) -->
+<header class="md:hidden flex justify-between items-center w-full px-container-mobile h-16 bg-surface/40 backdrop-blur-md docked full-width top border-b border-outline-variant z-50">
+<div class="font-headline-md text-headline-md font-black text-primary">Groww AI</div>
+<div class="flex items-center gap-4">
+<button class="text-on-surface-variant hover:text-primary transition-all">
+<span class="material-symbols-outlined">notifications</span>
+</button>
+<button class="w-8 h-8 rounded-full overflow-hidden border border-outline-variant">
+<img alt="Investor Profile" class="object-cover w-full h-full" data-alt="A macro shot of a sleek, abstract metallic sphere reflecting a deep space galaxy with vibrant green and blue hues. The lighting is dramatic, emphasizing high-tech minimalism and premium aesthetic. Smooth textures, dark mode vibe." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBOxiosOXNyoyCtbjZ9vcMQg-sladjFk2JL7u9C9icvmLRmD6Zx-l_mQX2TEOL1cvxc1Kmp7XZFUNnvBIin00Nm9gVtcay7W4rG4kUPOeVGrU_Lobjldc07iSQfhdqRAOiZGJ-n8DpQwk2qbLjGmbJ2hg97iIyNRTBvAYlVuGk-PKkgKZ5JHaaHTIK9DpCFbJs_mC7GKEUVUhAYMDOsqPyAJqvJ3UD44-gY3qi1R1kuxRF8E6syEZji-VL5U-kghZ6HS_MXUc3LOZA"/>
+</button>
+</div>
+</header>
+<!-- Ambient Background Glow -->
+<div class="absolute inset-0 pointer-events-none overflow-hidden flex items-center justify-center opacity-30">
+<div class="w-[800px] h-[800px] rounded-full bg-primary/10 blur-[120px]"></div>
+</div>
+<!-- Scrollable Canvas -->
+<div class="flex-1 overflow-y-auto px-container-mobile md:px-container-desktop pt-12 md:pt-24 pb-32 flex flex-col items-center">
+<div class="w-full max-w-[800px] mx-auto flex flex-col items-center justify-center min-h-[512px]">
+<!-- Hero Greeting -->
+<div class="text-center mb-12 space-y-4">
+<div class="inline-flex items-center justify-center p-4 rounded-2xl bg-surface-container/50 border border-outline-variant/50 backdrop-blur-md mb-6 shadow-[0_0_40px_rgba(0,208,156,0.1)]">
+<span class="material-symbols-outlined text-4xl text-primary" style="font-variation-settings: 'FILL' 1;">auto_awesome</span>
+</div>
+<h2 class="font-headline-lg-mobile md:font-headline-lg text-headline-lg-mobile md:text-headline-lg text-on-surface">
+                        Welcome to <span class="text-primary font-bold">Groww AI</span>
+</h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant max-w-lg mx-auto">
+                        How can I help you navigate the markets today?
+                    </p>
+</div>
+<!-- Example Chips Grid -->
+<div class="w-full grid grid-cols-1 md:grid-cols-2 gap-4 max-w-3xl">
+<button class="flex items-center gap-3 p-4 rounded-xl bg-surface-container/30 border border-outline-variant hover:border-primary/50 hover:bg-surface-container/50 transition-all text-left group backdrop-blur-md">
+<div class="w-8 h-8 rounded-full bg-surface-variant flex items-center justify-center group-hover:bg-primary/20 transition-colors shrink-0">
+<span class="material-symbols-outlined text-sm text-on-surface-variant group-hover:text-primary">compare_arrows</span>
+</div>
+<span class="font-body-sm text-body-sm text-on-surface group-hover:text-primary transition-colors">Compare top small cap funds</span>
+</button>
+<button class="flex items-center gap-3 p-4 rounded-xl bg-surface-container/30 border border-outline-variant hover:border-primary/50 hover:bg-surface-container/50 transition-all text-left group backdrop-blur-md">
+<div class="w-8 h-8 rounded-full bg-surface-variant flex items-center justify-center group-hover:bg-primary/20 transition-colors shrink-0">
+<span class="material-symbols-outlined text-sm text-on-surface-variant group-hover:text-primary">query_stats</span>
+</div>
+<span class="font-body-sm text-body-sm text-on-surface group-hover:text-primary transition-colors">Analyze my current portfolio</span>
+</button>
+<button class="flex items-center gap-3 p-4 rounded-xl bg-surface-container/30 border border-outline-variant hover:border-primary/50 hover:bg-surface-container/50 transition-all text-left group backdrop-blur-md">
+<div class="w-8 h-8 rounded-full bg-surface-variant flex items-center justify-center group-hover:bg-primary/20 transition-colors shrink-0">
+<span class="material-symbols-outlined text-sm text-on-surface-variant group-hover:text-primary">info</span>
+</div>
+<span class="font-body-sm text-body-sm text-on-surface group-hover:text-primary transition-colors">Explain index fund tracking error</span>
+</button>
+<button class="flex items-center gap-3 p-4 rounded-xl bg-surface-container/30 border border-outline-variant hover:border-primary/50 hover:bg-surface-container/50 transition-all text-left group backdrop-blur-md">
+<div class="w-8 h-8 rounded-full bg-surface-variant flex items-center justify-center group-hover:bg-primary/20 transition-colors shrink-0">
+<span class="material-symbols-outlined text-sm text-on-surface-variant group-hover:text-primary">trending_up</span>
+</div>
+<span class="font-body-sm text-body-sm text-on-surface group-hover:text-primary transition-colors">Top performing ELSS funds</span>
+</button>
+<button class="flex items-center gap-3 p-4 rounded-xl bg-surface-container/30 border border-outline-variant hover:border-primary/50 hover:bg-surface-container/50 transition-all text-left group backdrop-blur-md">
+<div class="w-8 h-8 rounded-full bg-surface-variant flex items-center justify-center group-hover:bg-primary/20 transition-colors shrink-0">
+<span class="material-symbols-outlined text-sm text-on-surface-variant group-hover:text-primary">receipt_long</span>
+</div>
+<span class="font-body-sm text-body-sm text-on-surface group-hover:text-primary transition-colors">Tax implications of debt funds</span>
+</button>
+<button class="flex items-center gap-3 p-4 rounded-xl bg-surface-container/30 border border-outline-variant hover:border-primary/50 hover:bg-surface-container/50 transition-all text-left group backdrop-blur-md">
+<div class="w-8 h-8 rounded-full bg-surface-variant flex items-center justify-center group-hover:bg-primary/20 transition-colors shrink-0">
+<span class="material-symbols-outlined text-sm text-on-surface-variant group-hover:text-primary">play_arrow</span>
+</div>
+<span class="font-body-sm text-body-sm text-on-surface group-hover:text-primary transition-colors">How to start a SIP?</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Input Area (Docked Bottom) -->
+<div class="absolute bottom-0 left-0 right-0 p-container-mobile md:p-container-desktop bg-gradient-to-t from-background via-background to-transparent pt-12">
+<div class="max-w-[800px] mx-auto relative">
+<div class="flex items-center bg-surface-container-high/80 backdrop-blur-xl border border-outline-variant rounded-2xl p-2 shadow-2xl transition-all focus-within:border-primary focus-within:ring-1 focus-within:ring-primary/50">
+<!-- Context Filter Dropdown -->
+<button class="flex items-center gap-2 px-3 py-2 rounded-xl hover:bg-surface-variant transition-colors text-on-surface-variant shrink-0 border-r border-outline-variant/30 rounded-r-none">
+<span class="font-body-sm text-body-sm font-medium">All Funds</span>
+<span class="material-symbols-outlined text-sm">expand_more</span>
+</button>
+<!-- Text Input -->
+<input class="flex-1 bg-transparent border-none text-on-surface placeholder:text-on-surface-variant/50 focus:ring-0 font-body-lg text-body-lg px-4 py-3 min-w-0" placeholder="Ask anything about investments..." type="text"/>
+<!-- Actions -->
+<div class="flex items-center gap-1 pr-1 shrink-0">
+<button class="p-2 text-on-surface-variant hover:text-on-surface transition-colors rounded-full hover:bg-surface-variant">
+<span class="material-symbols-outlined">attach_file</span>
+</button>
+<button class="p-3 bg-primary-container text-on-primary-container rounded-xl hover:bg-primary transition-colors flex items-center justify-center shadow-[0_0_15px_rgba(0,208,156,0.2)]">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">send</span>
+</button>
+</div>
+</div>
+<div class="text-center mt-3">
+<p class="font-body-sm text-body-sm text-on-surface-variant/50 text-[11px]">Groww AI can make mistakes. Verify important financial data.</p>
+</div>
+</div>
+</div>
+</main>
+</body></html>

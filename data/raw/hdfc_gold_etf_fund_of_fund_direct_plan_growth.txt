@@ -1,0 +1,130 @@
+SCHEME: HDFC Gold ETF Fund of Fund – Direct Growth
+SOURCE: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
+SCRAPED: 2026-07-14T22:17:19.983426+00:00
+
+============================================================
+  FUND OVERVIEW
+============================================================
+Fund Name: HDFC Gold ETF Fund of Fund Direct Plan Growth
+Category: Commodities
+Sub Category: Gold
+Amc: HDFC Mutual Fund
+Plan Type: Direct Growth
+Description: The Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund.
+Launch Date: 01-Jan-2013
+Registrar Agent: CAMS
+Isin: INF179K01VX0
+Risk Level: High
+Groww Rating: 3 out of 5
+
+============================================================
+  FUND DETAILS
+============================================================
+Nav: ₹43.7747
+Nav Date: 14-Jul-2026
+Aum: ₹11,019.45 Cr
+Expense Ratio: 0.2%
+Exit Load: Exit load of 1%, if redeemed within 15 days.
+Min Sip Investment: ₹100
+Min Lumpsum Investment: ₹100
+Min Additional Investment: ₹100
+Lock In Period: No lock-in period
+Stamp Duty: 0.005% (from July 1st, 2020)
+Portfolio Turnover: 1.0%
+
+============================================================
+  RETURNS
+============================================================
+
+Annualised Returns Cagr:
+  1 Day: -0.67%
+  1 Week: -2.18%
+  1 Month: -4.74%
+  3 Months: -6.24%
+  6 Months: -1.97%
+  1 Year: 41.42%
+  3 Years: 31.82%
+  5 Years: 22.74%
+  10 Years: 15.14%
+  Since Inception: 10.83%
+
+Category Average Returns:
+  1 Year: 76.00%
+  3 Years: 34.07%
+  5 Years: 20.95%
+  10 Years: 17.04%
+
+Category Rankings:
+  1 Year: Rank 6
+  3 Years: Rank 9
+  5 Years: Rank 7
+  10 Years: Rank 4
+
+Risk Metrics:
+  Sharpe Ratio: 1.3408405494
+  Beta: 0.90374552239454
+  Alpha: 0.98471287053739
+  Standard Deviation: 18.325047845325184
+  Sortino Ratio: 2.141164735915761
+
+Sip Returns:
+  1 Year: 52.63552746083535%
+  3 Years: 46.4806467625982%
+  5 Years: 34.42283466303333%
+  10 Years: 22.466145897989765%
+
+============================================================
+  RISK
+============================================================
+Riskometer Category: High
+Nfo Riskometer: Moderately High Riskometer
+Standard Deviation: 18.325047845325184
+Beta: 0.90374552239454
+
+============================================================
+  BENCHMARK
+============================================================
+Benchmark Index: Domestic Price of Gold
+Benchmark Full Name: Domestic Price of Gold
+
+============================================================
+  HOLDINGS
+============================================================
+
+Asset Allocation:
+  Cash: 0.01%
+Portfolio Date: 2026-06-29
+Total Holdings: 0
+
+============================================================
+  TAX
+============================================================
+Tax Implications: If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.
+
+============================================================
+  FUND MANAGEMENT
+============================================================
+
+Fund Managers:
+  - Arun Agarwal (since 2023-02-14). Mr. Agarwal is a B.Com. and Chartered Accountant. Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd.
+  - Nandita Menezes (since 2025-03-28). CA (ICAI, INDIA), B.Com (University of Mumbai). Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP.
+
+============================================================
+  AMC INFO
+============================================================
+Amc Name: HDFC Mutual Fund
+Total Amc Aum: ₹944,244.21 Cr
+Contact Email: shareholders.relations@hdfcfund.com
+Contact Phone: 022 – 66316333
+Website: http://www.hdfcfund.com
+
+============================================================
+  ANALYSIS
+============================================================
+
+Pros:
+  - 5Y annualised returns higher than category average by 2.04%
+  - Lower expense ratio: 0.2%
+
+Cons:
+  - Consistently lower annualised returns than category average for the past 1Y and 3Y

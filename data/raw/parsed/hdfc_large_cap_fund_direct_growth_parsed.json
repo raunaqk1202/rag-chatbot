@@ -1,0 +1,145 @@
+{
+  "scheme_name": "HDFC Large Cap Fund – Direct Growth",
+  "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+  "sections": {
+    "fund_overview": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "category": "Equity",
+      "sub_category": "Large Cap",
+      "amc": "HDFC Mutual Fund",
+      "plan_type": "Direct Growth",
+      "description": "The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.",
+      "launch_date": "01-Jan-2013",
+      "registrar_agent": "CAMS",
+      "isin": "INF179K01YV8",
+      "risk_level": "Very High",
+      "groww_rating": "4 out of 5"
+    },
+    "fund_details": {
+      "nav": "₹1228.902",
+      "nav_date": "14-Jul-2026",
+      "aum": "₹39,023.69 Cr",
+      "expense_ratio": "1.02%",
+      "exit_load": "Exit load of 1% if redeemed within 1 year",
+      "min_sip_investment": "₹100",
+      "min_lumpsum_investment": "₹100",
+      "min_additional_investment": "₹100",
+      "lock_in_period": "No lock-in period",
+      "stamp_duty": "0.005% (from July 1st, 2020)",
+      "portfolio_turnover": "18.0%"
+    },
+    "returns": {
+      "annualised_returns_cagr": {
+        "1_day": "0.02%",
+        "1_week": "-0.34%",
+        "1_month": "4.23%",
+        "3_months": "4.57%",
+        "6_months": "-2.71%",
+        "1_year": "0.41%",
+        "3_years": "11.76%",
+        "5_years": "13.27%",
+        "10_years": "13.16%",
+        "since_inception": "13.08%"
+      },
+      "category_average_returns": {
+        "1_year": "7.15%",
+        "3_years": "15.07%",
+        "5_years": "14.96%",
+        "10_years": "13.16%"
+      },
+      "category_rankings": {
+        "1_year": "Rank 42",
+        "3_years": "Rank 37",
+        "5_years": "Rank 16",
+        "10_years": "Rank 12"
+      },
+      "risk_metrics": {
+        "sharpe_ratio": "0.43",
+        "beta": "0.95",
+        "alpha": "1.04",
+        "standard_deviation": "13.93",
+        "sortino_ratio": "0.52"
+      },
+      "sip_returns": {
+        "1_year": "2.97%",
+        "3_years": "5.44%",
+        "5_years": "10.78%",
+        "10_years": "13.25%",
+        "since_inception": "13.35%"
+      }
+    },
+    "risk": {
+      "riskometer_category": "Very High",
+      "nfo_riskometer": "Moderately High Riskometer",
+      "standard_deviation": "13.93",
+      "beta": "0.95"
+    },
+    "benchmark": {
+      "benchmark_index": "NIFTY 100 TRI",
+      "benchmark_full_name": "NIFTY 100 Total Return Index"
+    },
+    "holdings": {
+      "top_10_holdings": [
+        "ICICI Bank Ltd: 9.73% (Financial)",
+        "HDFC Bank Ltd: 7.92% (Financial)",
+        "Bharti Airtel Ltd: 5.66% (Technology)",
+        "Kotak Mahindra Bank Ltd: 5.46% (Financial)",
+        "Reliance Industries Ltd: 4.96% (Energy & Utilities)",
+        "Titan Company Ltd: 4.65% (Consumer Discretionary)",
+        "Torrent Pharmaceuticals Ltd: 3.77% (Healthcare)",
+        "Axis Bank Ltd: 3.69% (Financial)",
+        "Bajaj Finserv Ltd: 3.0% (Financial)",
+        "Lupin Ltd: 2.86% (Healthcare)"
+      ],
+      "asset_allocation": {
+        "equity": "96.76%",
+        "debt": "0.50%",
+        "cash": "2.74%"
+      },
+      "sector_allocation": {
+        "Financial": "38.37%",
+        "Consumer Discretionary": "12.51%",
+        "Technology": "11.33%",
+        "Healthcare": "10.33%",
+        "Industrials": "8.01%",
+        "Energy & Utilities": "7.00%",
+        "Consumer Staples": "5.27%",
+        "Materials": "3.60%",
+        "Real Estate": "0.34%"
+      },
+      "portfolio_date": "2026-06-29",
+      "total_holdings": "44"
+    },
+    "tax": {
+      "tax_implications": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+      "category_description": "Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%."
+    },
+    "fund_management": {
+      "fund_managers": [
+        "Rahul Baijal (since 2022-07-28). Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering. Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.",
+        "Dhruv Muchhal (since 2023-06-21). Mr. Dhruv has done B.Com, CA and CFA. Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells"
+      ]
+    },
+    "amc_info": {
+      "amc_name": "HDFC Mutual Fund",
+      "total_amc_aum": "₹944,244.21 Cr",
+      "contact_email": "shareholders.relations@hdfcfund.com",
+      "contact_phone": "022 – 66316333",
+      "website": "http://www.hdfcfund.com"
+    },
+    "analysis": {
+      "pros": [
+        "Lower expense ratio: 1.02%",
+        "10Y annualised returns higher than category average by 0.0%"
+      ],
+      "cons": [
+        "Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y"
+      ]
+    }
+  },
+  "sections_extracted": 10,
+  "js_rendered_flag": false,
+  "parse_timestamp": "2026-07-14T22:17:16.461551+00:00",
+  "fetched_at": "2026-07-14T22:17:16.460093+00:00",
+  "http_status": 200
+}
