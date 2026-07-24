@@ -25,6 +25,7 @@ flowchart TB
     end
 
     subgraph Data["💾 Data Layer"]
+        SCH["Scheduler (GitHub Actions)"]
         SC["Web Scraper"]
         CH["Chunker & Preprocessor"]
         VS["Vector Store (ChromaDB)"]
@@ -48,6 +49,7 @@ flowchart TB
     LLM -->|Generated Answer| RP
     RP -->|Formatted Response + Citation| UI
 
+    SCH -->|Triggers Daily| SC
     Sources -->|Scrape| SC
     SC -->|Raw HTML/Text| CH
     CH -->|Chunks + Metadata| EMB
@@ -206,6 +208,14 @@ Maintains a lightweight JSON/SQLite record of:
 }
 ```
 
+#### Scheduler (GitHub Actions)
+
+| Attribute       | Detail |
+|-----------------|--------|
+| **Platform**    | GitHub Actions (`.github/workflows/daily_ingestion.yml`) |
+| **Schedule**    | Daily at 10:30 AM IST (`0 5 * * *`) |
+| **Workflow**    | Scrape → Chunk → Embed → Commit updated data to repo |
+
 ---
 
 ## 3. Project Structure
@@ -257,7 +267,8 @@ RAG chatbot/
 ```mermaid
 flowchart TB
     subgraph Ingest["📥 Ingestion Pipeline (Offline)"]
-        S1["1. Scrape Groww Pages"] --> S2["2. Clean & Extract Text"]
+        SCH["0. Scheduler (10:30 AM IST)"] --> S1["1. Scrape Groww Pages"]
+        S1 --> S2["2. Clean & Extract Text"]
         S2 --> S3["3. Section-Aware Chunking"]
         S3 --> S4["4. Generate Embeddings"]
         S4 --> S5["5. Store in ChromaDB"]
@@ -274,16 +285,18 @@ flowchart TB
     end
 ```
 
-### Ingestion Pipeline (Offline — Run Once / On-Demand)
+### Ingestion Pipeline (Offline — Run Daily)
 
 | Step | Action | Tool/Library |
 |------|--------|-------------|
+| 0 | GitHub Action triggers at 10:30 AM IST | `cron` |
 | 1 | Scrape 5 Groww URLs | `requests` + `BeautifulSoup4` |
 | 2 | Strip HTML, extract scheme info sections | Custom parser |
 | 3 | Chunk text (~300–500 tokens, 50 overlap) | `langchain.text_splitter` |
 | 4 | Generate embeddings | `sentence-transformers` (BGE) |
 | 5 | Upsert into ChromaDB | `chromadb` |
 | 6 | Record scrape date & chunk count | `metadata.json` |
+| 7 | Commit updated `data/` and `chroma_db/` | `git` |
 
 ### Query Pipeline (Online — Per Request)
 
@@ -389,7 +402,6 @@ Every refusal response follows this structure:
 
 | Enhancement | Description |
 |-------------|-------------|
-| **Scheduled scraping** | Cron job to re-scrape sources weekly and re-index |
 | **Multi-AMC support** | Extend corpus to other AMCs (ICICI, SBI, Axis) |
 | **Hybrid search** | Combine vector search with BM25 keyword search |
 | **Feedback loop** | Thumbs up/down on responses for quality tracking |
