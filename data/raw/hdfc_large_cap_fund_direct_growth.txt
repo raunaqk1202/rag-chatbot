@@ -1,6 +1,6 @@
 SCHEME: HDFC Large Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-SCRAPED: 2026-07-14T22:17:16.461551+00:00
+SCRAPED: 2026-07-24T14:49:56.322970+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,10 +20,10 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹1228.902
-Nav Date: 14-Jul-2026
+Nav: ₹1220.849
+Nav Date: 23-Jul-2026
 Aum: ₹39,023.69 Cr
-Expense Ratio: 1.02%
+Expense Ratio: 1.03%
 Exit Load: Exit load of 1% if redeemed within 1 year
 Min Sip Investment: ₹100
 Min Lumpsum Investment: ₹100
@@ -37,15 +37,15 @@ Portfolio Turnover: 18.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.02%
-  1 Week: -0.34%
-  1 Month: 4.23%
-  3 Months: 4.57%
-  6 Months: -2.71%
-  1 Year: 0.41%
-  3 Years: 11.76%
-  5 Years: 13.27%
-  10 Years: 13.16%
+  1 Day: -0.48%
+  1 Week: -0.88%
+  1 Month: 1.39%
+  3 Months: 1.61%
+  6 Months: -1.12%
+  1 Year: -1.88%
+  3 Years: 10.6%
+  5 Years: 12.87%
+  10 Years: 12.92%
   Since Inception: 13.08%
 
 Category Average Returns:
@@ -55,8 +55,8 @@ Category Average Returns:
   10 Years: 13.16%
 
 Category Rankings:
-  1 Year: Rank 42
-  3 Years: Rank 37
+  1 Year: Rank 45
+  3 Years: Rank 40
   5 Years: Rank 16
   10 Years: Rank 12
 
@@ -68,11 +68,11 @@ Risk Metrics:
   Sortino Ratio: 0.52
 
 Sip Returns:
-  1 Year: 2.97%
-  3 Years: 5.44%
-  5 Years: 10.78%
-  10 Years: 13.25%
-  Since Inception: 13.35%
+  1 Year: 0.22%
+  3 Years: 4.45%
+  5 Years: 10.13%
+  10 Years: 12.94%
+  Since Inception: 13.13%
 
 ============================================================
   RISK
@@ -150,8 +150,7 @@ Website: http://www.hdfcfund.com
 ============================================================
 
 Pros:
-  - Lower expense ratio: 1.02%
-  - 10Y annualised returns higher than category average by 0.0%
+  - Lower expense ratio: 1.03%
 
 Cons:
-  - Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y
+  - Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y
