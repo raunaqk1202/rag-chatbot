@@ -135,7 +135,7 @@
   "nfo_risk": "Very High",
   "nfo_image_url": null,
   "meta_title": "HDFC Silver ETF FoF Direct Growth - Groww",
-  "meta_desc": "HDFC Silver ETF FoF Direct Growth is Silver Commodities mutual fund with risk-reward rating of null/10. It has track record of 4 years, with three year return of 41.49. Risk is Very High",
+  "meta_desc": "HDFC Silver ETF FoF Direct Growth is Silver Commodities mutual fund with risk-reward rating of null/10. It has track record of 4 years, with three year return of 41.8. Risk is Very High",
   "meta_robots": "index",
   "amc": "HDFC",
   "scheme_code": "150737",
@@ -194,7 +194,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 944244.2088,
-    "launch_date": "1999-12-09T18:30:00.663Z",
+    "launch_date": "1999-12-09T18:30:00.678Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -229,8 +229,8 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": 86.59,
-      "stat_3y": 41.49,
+      "stat_1y": 88.38,
+      "stat_3y": 41.8,
       "stat_5y": null,
       "stat_all": null,
       "title": "Fund Returns"
@@ -255,15 +255,15 @@
   "return_stats": [
     {
       "scheme_code": "150737",
-      "return1d": -1.08,
-      "return1w": 1.93,
-      "return1m": -1.8,
-      "return3m": -8.19,
-      "return6m": -28.38,
+      "return1d": -0.09,
+      "return1w": 2.93,
+      "return1m": -1.15,
+      "return3m": -7.56,
+      "return6m": -28.45,
       "return9m": null,
-      "return1y": 86.59,
+      "return1y": 88.38,
       "return2y": null,
-      "return3y": 41.49,
+      "return3y": 41.8,
       "return4y": null,
       "return5y": null,
       "return7y": null,
@@ -275,7 +275,7 @@
       "standard_deviation": 22.931348482653195,
       "risk_rating": 6,
       "risk": "Very High",
-      "return_since_created": 41.6687765216,
+      "return_since_created": 41.5981597226,
       "cat_return3m": 58.69145719437917,
       "cat_return6m": 115.70517125986088,
       "cat_return1y": 154.77275140244063,
@@ -283,7 +283,7 @@
       "cat_return5y": null,
       "cat_return10y": null,
       "cat_return_since_launch": null,
-      "rank3m": 13,
+      "rank3m": 10,
       "rank6m": 9,
       "rank1yr": 8,
       "rank3yr": 5,
@@ -353,8 +353,8 @@
       "stock_search_id": null
     }
   ],
-  "nav": 36.4331,
-  "nav_date": "23-Jul-2026",
+  "nav": 36.4001,
+  "nav_date": "24-Jul-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -866,6 +866,66 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.22,
+      "as_on_date": "2026-07-24T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.22,
+      "as_on_date": "2026-07-23T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.22,
+      "as_on_date": "2026-07-22T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.22,
+      "as_on_date": "2026-07-21T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.22,
+      "as_on_date": "2026-07-20T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.22,
+      "as_on_date": "2026-07-19T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.22,
+      "as_on_date": "2026-07-18T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.22,
+      "as_on_date": "2026-07-17T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.22,
+      "as_on_date": "2026-07-16T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.22,
+      "as_on_date": "2026-07-15T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 0.22,
       "as_on_date": "2026-07-14T00:00:00",

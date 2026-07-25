@@ -194,7 +194,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 944244.2088,
-    "launch_date": "1999-12-09T18:30:00.075Z",
+    "launch_date": "1999-12-09T18:30:00.602Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -229,9 +229,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": -1.88,
-      "stat_3y": 10.6,
-      "stat_5y": 12.87,
+      "stat_1y": -1.87,
+      "stat_3y": 10.46,
+      "stat_5y": 12.78,
       "stat_all": 13.08,
       "title": "Fund Returns"
     },
@@ -247,7 +247,7 @@
       "type": "RANK_WITHIN_CATEGORY",
       "stat_1y": 45,
       "stat_3y": 40,
-      "stat_5y": 15,
+      "stat_5y": 16,
       "stat_all": null,
       "title": "Rank Within Category"
     }
@@ -969,8 +969,8 @@
       "stock_search_id": null
     }
   ],
-  "nav": 1220.849,
-  "nav_date": "23-Jul-2026",
+  "nav": 1215.976,
+  "nav_date": "24-Jul-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -1393,6 +1393,66 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 1.03,
+      "as_on_date": "2026-07-24T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.03,
+      "as_on_date": "2026-07-23T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.03,
+      "as_on_date": "2026-07-22T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.02,
+      "as_on_date": "2026-07-21T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.03,
+      "as_on_date": "2026-07-20T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.02,
+      "as_on_date": "2026-07-19T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.02,
+      "as_on_date": "2026-07-18T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.02,
+      "as_on_date": "2026-07-17T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.03,
+      "as_on_date": "2026-07-16T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.03,
+      "as_on_date": "2026-07-15T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 1.03,
       "as_on_date": "2026-07-14T00:00:00",

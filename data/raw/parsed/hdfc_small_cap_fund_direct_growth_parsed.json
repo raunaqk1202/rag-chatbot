@@ -16,8 +16,8 @@
       "groww_rating": "3 out of 5"
     },
     "fund_details": {
-      "nav": "₹157.291",
-      "nav_date": "23-Jul-2026",
+      "nav": "₹157.649",
+      "nav_date": "24-Jul-2026",
       "aum": "₹40,416.80 Cr",
       "expense_ratio": "0.76%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -138,7 +138,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-07-24T14:50:00.074382+00:00",
-  "fetched_at": "2026-07-24T14:50:00.073354+00:00",
+  "parse_timestamp": "2026-07-25T07:21:52.805403+00:00",
+  "fetched_at": "2026-07-25T07:21:52.804553+00:00",
   "http_status": 200
 }
