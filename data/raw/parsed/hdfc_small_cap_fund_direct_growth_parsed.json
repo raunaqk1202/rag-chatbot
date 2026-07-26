@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-1.24%",
-        "1_week": "-2.11%",
-        "1_month": "-0.45%",
-        "3_months": "3.57%",
-        "6_months": "5.69%",
-        "1_year": "-3.52%",
+        "1_day": "0.23%",
+        "1_week": "-1.79%",
+        "1_month": "-0.77%",
+        "3_months": "5.19%",
+        "6_months": "5.93%",
+        "1_year": "-3.43%",
         "3_years": "12.68%",
-        "5_years": "15.46%",
-        "10_years": "18.02%",
+        "5_years": "15.5%",
+        "10_years": "18.04%",
         "since_inception": "16.3%"
       },
       "category_average_returns": {
@@ -61,11 +61,11 @@
         "sortino_ratio": "0.74"
       },
       "sip_returns": {
-        "1_year": "2.73%",
-        "3_years": "5.99%",
-        "5_years": "13.79%",
-        "10_years": "18.29%",
-        "since_inception": "18.53%"
+        "1_year": "3.17%",
+        "3_years": "6.13%",
+        "5_years": "13.87%",
+        "10_years": "18.32%",
+        "since_inception": "18.56%"
       }
     },
     "risk": {
@@ -138,7 +138,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-07-25T07:21:52.805403+00:00",
-  "fetched_at": "2026-07-25T07:21:52.804553+00:00",
+  "parse_timestamp": "2026-07-26T07:38:55.229136+00:00",
+  "fetched_at": "2026-07-26T07:38:55.228241+00:00",
   "http_status": 200
 }
