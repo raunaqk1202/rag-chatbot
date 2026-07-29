@@ -16,8 +16,8 @@
       "groww_rating": "3 out of 5"
     },
     "fund_details": {
-      "nav": "₹44.7392",
-      "nav_date": "27-Jul-2026",
+      "nav": "₹44.0856",
+      "nav_date": "28-Jul-2026",
       "aum": "₹11,019.45 Cr",
       "expense_ratio": "0.2%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.64%",
-        "1_week": "1.47%",
-        "1_month": "3.37%",
-        "3_months": "-4.56%",
-        "6_months": "-9.77%",
-        "1_year": "44.12%",
-        "3_years": "32.62%",
-        "5_years": "23.47%",
-        "10_years": "15.6%",
+        "1_day": "-1.46%",
+        "1_week": "-0.77%",
+        "1_month": "1.86%",
+        "3_months": "-4.8%",
+        "6_months": "-13.9%",
+        "1_year": "42.53%",
+        "3_years": "32.16%",
+        "5_years": "23.1%",
+        "10_years": "15.27%",
         "since_inception": "10.83%"
       },
       "category_average_returns": {
@@ -48,8 +48,8 @@
         "10_years": "17.04%"
       },
       "category_rankings": {
-        "1_year": "Rank 8",
-        "3_years": "Rank 3",
+        "1_year": "Rank 9",
+        "3_years": "Rank 7",
         "5_years": "Rank 5",
         "10_years": "Rank 3"
       },
@@ -61,11 +61,11 @@
         "sortino_ratio": "2.14"
       },
       "sip_returns": {
-        "1_year": "18.71%",
-        "3_years": "36.49%",
-        "5_years": "29.59%",
-        "10_years": "20.59%",
-        "since_inception": "16.66%"
+        "1_year": "15.43%",
+        "3_years": "35.29%",
+        "5_years": "28.94%",
+        "10_years": "20.31%",
+        "since_inception": "16.46%"
       }
     },
     "risk": {
@@ -103,7 +103,7 @@
     },
     "analysis": {
       "pros": [
-        "5Y annualised returns higher than category average by 2.52%",
+        "5Y annualised returns higher than category average by 2.15%",
         "Lower expense ratio: 0.2%"
       ],
       "cons": [
@@ -113,7 +113,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-07-28T07:42:23.476556+00:00",
-  "fetched_at": "2026-07-28T07:42:23.475496+00:00",
+  "parse_timestamp": "2026-07-29T07:47:36.734719+00:00",
+  "fetched_at": "2026-07-29T07:47:36.733732+00:00",
   "http_status": 200
 }
