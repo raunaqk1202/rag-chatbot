@@ -1,6 +1,6 @@
 SCHEME: HDFC Silver ETF FoF – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth
-SCRAPED: 2026-07-29T07:47:38.023158+00:00
+SCRAPED: 2026-07-30T07:37:09.170351+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -19,8 +19,8 @@ Risk Level: Very High
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹35.5856
-Nav Date: 28-Jul-2026
+Nav: ₹35.6942
+Nav Date: 29-Jul-2026
 Aum: ₹4,326.56 Cr
 Expense Ratio: 0.22%
 Exit Load: Exit load of 1%, if redeemed within 15 days.
@@ -35,13 +35,13 @@ Stamp Duty: 0.005% (from July 1st, 2020)
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -3.29%
-  1 Week: -2.96%
-  1 Month: -0.19%
-  3 Months: -8.27%
-  6 Months: -38.7%
-  1 Year: 87.23%
-  3 Years: 41.09%
+  1 Day: 0.31%
+  1 Week: -3.09%
+  1 Month: -0.78%
+  3 Months: -7.89%
+  6 Months: -41.86%
+  1 Year: 87.09%
+  3 Years: 41.19%
 
 Category Average Returns:
   1 Year: 154.77%
@@ -52,23 +52,24 @@ Category Rankings:
   3 Years: Rank 5
 
 Risk Metrics:
-  Sharpe Ratio: 1.1799402077
-  Beta: 0.9739075785654
-  Alpha: -0.8860469666793
-  Standard Deviation: 22.931348482653195
-  Sortino Ratio: 2.7084629411633165
+  Sharpe Ratio: 1.0
+  Beta: 0.9
+  Alpha: 0.96
+  Standard Deviation: 39.41
+  Sortino Ratio: 2.02
 
 Sip Returns:
-  1 Year: 155.93696128788386%
-  3 Years: 76.37916771903399%
+  1 Year: 34.16%
+  3 Years: 53.62%
+  Since Inception: 46.82%
 
 ============================================================
   RISK
 ============================================================
 Riskometer Category: Very High
 Nfo Riskometer: Very High
-Standard Deviation: 22.931348482653195
-Beta: 0.9739075785654
+Standard Deviation: 39.41
+Beta: 0.9
 
 ============================================================
   BENCHMARK

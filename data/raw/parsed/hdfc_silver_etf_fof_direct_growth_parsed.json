@@ -15,8 +15,8 @@
       "risk_level": "Very High"
     },
     "fund_details": {
-      "nav": "₹35.5856",
-      "nav_date": "28-Jul-2026",
+      "nav": "₹35.6942",
+      "nav_date": "29-Jul-2026",
       "aum": "₹4,326.56 Cr",
       "expense_ratio": "0.22%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
@@ -28,13 +28,13 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-3.29%",
-        "1_week": "-2.96%",
-        "1_month": "-0.19%",
-        "3_months": "-8.27%",
-        "6_months": "-38.7%",
-        "1_year": "87.23%",
-        "3_years": "41.09%"
+        "1_day": "0.31%",
+        "1_week": "-3.09%",
+        "1_month": "-0.78%",
+        "3_months": "-7.89%",
+        "6_months": "-41.86%",
+        "1_year": "87.09%",
+        "3_years": "41.19%"
       },
       "category_average_returns": {
         "1_year": "154.77%",
@@ -45,22 +45,23 @@
         "3_years": "Rank 5"
       },
       "risk_metrics": {
-        "sharpe_ratio": "1.1799402077",
-        "beta": "0.9739075785654",
-        "alpha": "-0.8860469666793",
-        "standard_deviation": "22.931348482653195",
-        "sortino_ratio": "2.7084629411633165"
+        "sharpe_ratio": "1.0",
+        "beta": "0.9",
+        "alpha": "0.96",
+        "standard_deviation": "39.41",
+        "sortino_ratio": "2.02"
       },
       "sip_returns": {
-        "1_year": "155.93696128788386%",
-        "3_years": "76.37916771903399%"
+        "1_year": "34.16%",
+        "3_years": "53.62%",
+        "since_inception": "46.82%"
       }
     },
     "risk": {
       "riskometer_category": "Very High",
       "nfo_riskometer": "Very High",
-      "standard_deviation": "22.931348482653195",
-      "beta": "0.9739075785654"
+      "standard_deviation": "39.41",
+      "beta": "0.9"
     },
     "benchmark": {
       "benchmark_index": "Domestic Price of Silver",
@@ -97,7 +98,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-07-29T07:47:38.023158+00:00",
-  "fetched_at": "2026-07-29T07:47:38.022336+00:00",
+  "parse_timestamp": "2026-07-30T07:37:09.170351+00:00",
+  "fetched_at": "2026-07-30T07:37:09.169590+00:00",
   "http_status": 200
 }
