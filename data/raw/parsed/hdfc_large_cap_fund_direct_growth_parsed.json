@@ -16,10 +16,10 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹1239.954",
-      "nav_date": "29-Jul-2026",
+      "nav": "₹1240.96",
+      "nav_date": "30-Jul-2026",
       "aum": "₹39,023.69 Cr",
-      "expense_ratio": "1.03%",
+      "expense_ratio": "1.02%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
       "min_sip_investment": "₹100",
       "min_lumpsum_investment": "₹100",
@@ -30,14 +30,14 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.88%",
-        "1_week": "1.08%",
-        "1_month": "2.39%",
-        "3_months": "3.82%",
-        "6_months": "-0.61%",
-        "1_year": "0.99%",
-        "3_years": "10.93%",
-        "5_years": "13.41%",
+        "1_day": "0.08%",
+        "1_week": "1.65%",
+        "1_month": "2.45%",
+        "3_months": "4.61%",
+        "6_months": "-0.26%",
+        "1_year": "1.01%",
+        "3_years": "10.95%",
+        "5_years": "13.39%",
         "10_years": "12.96%",
         "since_inception": "13.08%"
       },
@@ -48,10 +48,10 @@
         "10_years": "13.16%"
       },
       "category_rankings": {
-        "1_year": "Rank 48",
+        "1_year": "Rank 46",
         "3_years": "Rank 41",
         "5_years": "Rank 14",
-        "10_years": "Rank 11"
+        "10_years": "Rank 12"
       },
       "risk_metrics": {
         "sharpe_ratio": "0.43",
@@ -61,11 +61,11 @@
         "sortino_ratio": "0.52"
       },
       "sip_returns": {
-        "1_year": "3.18%",
-        "3_years": "5.44%",
-        "5_years": "10.69%",
-        "10_years": "13.2%",
-        "since_inception": "13.31%"
+        "1_year": "3.32%",
+        "3_years": "5.48%",
+        "5_years": "10.72%",
+        "10_years": "13.21%",
+        "since_inception": "13.32%"
       }
     },
     "risk": {
@@ -129,7 +129,7 @@
     },
     "analysis": {
       "pros": [
-        "Lower expense ratio: 1.03%"
+        "Lower expense ratio: 1.02%"
       ],
       "cons": [
         "Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y"
@@ -138,7 +138,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-07-30T07:37:03.042243+00:00",
-  "fetched_at": "2026-07-30T07:37:03.041421+00:00",
+  "parse_timestamp": "2026-07-31T07:54:01.771984+00:00",
+  "fetched_at": "2026-07-31T07:54:01.771163+00:00",
   "http_status": 200
 }
