@@ -210,7 +210,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 944244.2088,
-    "launch_date": "1999-12-09T18:30:00.992Z",
+    "launch_date": "1999-12-09T18:30:00.453Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -245,9 +245,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": 8.39,
-      "stat_3y": 19.73,
-      "stat_5y": 20.41,
+      "stat_1y": 9.34,
+      "stat_3y": 19.53,
+      "stat_5y": 20.47,
       "stat_all": 19.3,
       "title": "Fund Returns"
     },
@@ -261,7 +261,7 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 19,
+      "stat_1y": 18,
       "stat_3y": 13,
       "stat_5y": 3,
       "stat_all": null,
@@ -1419,8 +1419,8 @@
       "stock_search_id": null
     }
   ],
-  "nav": 232.749,
-  "nav_date": "30-Jul-2026",
+  "nav": 233.488,
+  "nav_date": "31-Jul-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -1829,6 +1829,12 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.75,
+      "as_on_date": "2026-07-30T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 0.75,
       "as_on_date": "2026-07-29T00:00:00",

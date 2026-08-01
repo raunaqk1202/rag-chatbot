@@ -160,7 +160,7 @@
   "benchmark": "BSE 250 SmallCap TRI",
   "benchmark_name": "BSE 250 SmallCap Total Return Index",
   "aum": 40416.8045,
-  "expense_ratio": "0.75",
+  "expense_ratio": "0.76",
   "portfolio_turnover": 6.0,
   "super_category": "HDFC Small Cap Fund",
   "sub_sub_category": "",
@@ -183,8 +183,8 @@
       "scheme_code": "130503",
       "analysis_type": "PROS",
       "analysis_subject": "expense_analysis",
-      "analysis_desc": "Lower expense ratio: 0.75%",
-      "analysis_data": "0.75",
+      "analysis_desc": "Lower expense ratio: 0.76%",
+      "analysis_data": "0.76",
       "rating": null
     },
     {
@@ -202,7 +202,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 944244.2088,
-    "launch_date": "1999-12-09T18:30:00.891Z",
+    "launch_date": "1999-12-09T18:30:00.720Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -237,9 +237,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": -0.91,
-      "stat_3y": 12.94,
-      "stat_5y": 15.65,
+      "stat_1y": 0.02,
+      "stat_3y": 12.64,
+      "stat_5y": 15.75,
       "stat_all": 16.3,
       "title": "Fund Returns"
     },
@@ -1509,8 +1509,8 @@
       "stock_search_id": null
     }
   ],
-  "nav": 160.046,
-  "nav_date": "30-Jul-2026",
+  "nav": 160.752,
+  "nav_date": "31-Jul-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -1940,6 +1940,12 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.76,
+      "as_on_date": "2026-07-30T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 0.75,
       "as_on_date": "2026-07-29T00:00:00",

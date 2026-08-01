@@ -15,8 +15,8 @@
       "risk_level": "Very High"
     },
     "fund_details": {
-      "nav": "₹35.6906",
-      "nav_date": "30-Jul-2026",
+      "nav": "₹35.6749",
+      "nav_date": "31-Jul-2026",
       "aum": "₹4,326.56 Cr",
       "expense_ratio": "0.22%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
@@ -41,7 +41,7 @@
         "3_years": "47.07%"
       },
       "category_rankings": {
-        "1_year": "Rank 9",
+        "1_year": "Rank 10",
         "3_years": "Rank 5"
       },
       "risk_metrics": {
@@ -98,7 +98,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-07-31T07:54:07.568270+00:00",
-  "fetched_at": "2026-07-31T07:54:07.567421+00:00",
+  "parse_timestamp": "2026-08-01T07:30:16.805785+00:00",
+  "fetched_at": "2026-08-01T07:30:16.804861+00:00",
   "http_status": 200
 }
