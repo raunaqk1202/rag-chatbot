@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.08%",
-        "1_week": "1.65%",
-        "1_month": "2.45%",
-        "3_months": "4.61%",
-        "6_months": "-0.26%",
-        "1_year": "1.01%",
-        "3_years": "10.95%",
-        "5_years": "13.39%",
-        "10_years": "12.96%",
+        "1_day": "0.57%",
+        "1_week": "2.64%",
+        "1_month": "3.04%",
+        "3_months": "5.21%",
+        "6_months": "0.31%",
+        "1_year": "2.07%",
+        "3_years": "10.92%",
+        "5_years": "13.51%",
+        "10_years": "13.02%",
         "since_inception": "13.08%"
       },
       "category_average_returns": {
@@ -48,9 +48,9 @@
         "10_years": "13.16%"
       },
       "category_rankings": {
-        "1_year": "Rank 46",
-        "3_years": "Rank 42",
-        "5_years": "Rank 14",
+        "1_year": "Rank 45",
+        "3_years": "Rank 43",
+        "5_years": "Rank 15",
         "10_years": "Rank 12"
       },
       "risk_metrics": {
@@ -61,11 +61,11 @@
         "sortino_ratio": "0.52"
       },
       "sip_returns": {
-        "1_year": "3.32%",
-        "3_years": "5.48%",
-        "5_years": "10.72%",
-        "10_years": "13.21%",
-        "since_inception": "13.32%"
+        "1_year": "4.4%",
+        "3_years": "5.85%",
+        "5_years": "10.93%",
+        "10_years": "13.31%",
+        "since_inception": "13.38%"
       }
     },
     "risk": {
@@ -138,7 +138,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-01T07:30:10.585397+00:00",
-  "fetched_at": "2026-08-01T07:30:10.584529+00:00",
+  "parse_timestamp": "2026-08-02T07:34:47.113574+00:00",
+  "fetched_at": "2026-08-02T07:34:47.112606+00:00",
   "http_status": 200
 }
