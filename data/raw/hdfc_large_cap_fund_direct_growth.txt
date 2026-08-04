@@ -1,6 +1,6 @@
 SCHEME: HDFC Large Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-SCRAPED: 2026-08-03T08:33:22.958890+00:00
+SCRAPED: 2026-08-04T07:43:10.471806+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹1248.061
-Nav Date: 31-Jul-2026
+Nav: ₹1267.422
+Nav Date: 03-Aug-2026
 Aum: ₹39,023.69 Cr
 Expense Ratio: 1.02%
 Exit Load: Exit load of 1% if redeemed within 1 year
@@ -37,15 +37,15 @@ Portfolio Turnover: 18.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.57%
-  1 Week: 2.64%
-  1 Month: 3.04%
-  3 Months: 5.21%
-  6 Months: 0.31%
-  1 Year: 2.07%
-  3 Years: 10.92%
-  5 Years: 13.51%
-  10 Years: 13.02%
+  1 Day: 1.55%
+  1 Week: 3.08%
+  1 Month: 2.7%
+  3 Months: 6.84%
+  6 Months: -0.1%
+  1 Year: 4.44%
+  3 Years: 12.1%
+  5 Years: 13.36%
+  10 Years: 13.4%
   Since Inception: 13.08%
 
 Category Average Returns:
@@ -55,31 +55,31 @@ Category Average Returns:
   10 Years: 13.16%
 
 Category Rankings:
-  1 Year: Rank 45
-  3 Years: Rank 43
+  1 Year: Rank 46
+  3 Years: Rank 42
   5 Years: Rank 15
   10 Years: Rank 12
 
 Risk Metrics:
-  Sharpe Ratio: 0.43
+  Sharpe Ratio: 0.41
   Beta: 0.95
-  Alpha: 1.04
-  Standard Deviation: 13.93
-  Sortino Ratio: 0.52
+  Alpha: 0.8
+  Standard Deviation: 13.86
+  Sortino Ratio: 0.49
 
 Sip Returns:
-  1 Year: 4.4%
-  3 Years: 5.85%
-  5 Years: 10.93%
-  10 Years: 13.31%
-  Since Inception: 13.38%
+  1 Year: 7.82%
+  3 Years: 6.56%
+  5 Years: 11.43%
+  10 Years: 13.58%
+  Since Inception: 13.57%
 
 ============================================================
   RISK
 ============================================================
 Riskometer Category: Very High
 Nfo Riskometer: Moderately High Riskometer
-Standard Deviation: 13.93
+Standard Deviation: 13.86
 Beta: 0.95
 
 ============================================================
@@ -151,6 +151,7 @@ Website: http://www.hdfcfund.com
 
 Pros:
   - Lower expense ratio: 1.02%
+  - 10Y annualised returns higher than category average by 0.24%
 
 Cons:
-  - Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y
+  - Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y

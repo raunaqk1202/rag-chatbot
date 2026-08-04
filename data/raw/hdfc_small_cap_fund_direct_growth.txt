@@ -1,6 +1,6 @@
 SCHEME: HDFC Small Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-SCRAPED: 2026-08-03T08:33:26.603808+00:00
+SCRAPED: 2026-08-04T07:43:13.142737+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹160.752
-Nav Date: 31-Jul-2026
+Nav: ₹163.7
+Nav Date: 03-Aug-2026
 Aum: ₹40,416.80 Cr
 Expense Ratio: 0.76%
 Exit Load: Exit load of 1% if redeemed within 1 year
@@ -37,15 +37,15 @@ Portfolio Turnover: 6.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.44%
-  1 Week: 1.97%
-  1 Month: 2.5%
-  3 Months: 6.69%
-  6 Months: 5.13%
-  1 Year: 0.02%
-  3 Years: 12.64%
-  5 Years: 15.75%
-  10 Years: 18.11%
+  1 Day: 1.83%
+  1 Week: 2.58%
+  1 Month: 3.15%
+  3 Months: 8.65%
+  6 Months: 5.2%
+  1 Year: 3.06%
+  3 Years: 13.83%
+  5 Years: 15.89%
+  10 Years: 18.54%
   Since Inception: 16.3%
 
 Category Average Returns:
@@ -56,31 +56,31 @@ Category Average Returns:
 
 Category Rankings:
   1 Year: Rank 43
-  3 Years: Rank 32
+  3 Years: Rank 30
   5 Years: Rank 17
   10 Years: Rank 4
 
 Risk Metrics:
-  Sharpe Ratio: 0.52
-  Beta: 0.79
-  Alpha: -0.9
-  Standard Deviation: 17.87
-  Sortino Ratio: 0.74
+  Sharpe Ratio: 0.44
+  Beta: 0.78
+  Alpha: -0.59
+  Standard Deviation: 17.51
+  Sortino Ratio: 0.61
 
 Sip Returns:
-  1 Year: 6.84%
-  3 Years: 7.37%
-  5 Years: 14.56%
-  10 Years: 18.62%
-  Since Inception: 18.76%
+  1 Year: 11.67%
+  3 Years: 8.25%
+  5 Years: 15.22%
+  10 Years: 18.95%
+  Since Inception: 18.98%
 
 ============================================================
   RISK
 ============================================================
 Riskometer Category: Very High
 Nfo Riskometer: Moderately High Riskometer
-Standard Deviation: 17.87
-Beta: 0.79
+Standard Deviation: 17.51
+Beta: 0.78
 
 ============================================================
   BENCHMARK

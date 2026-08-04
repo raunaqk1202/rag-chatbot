@@ -1,6 +1,6 @@
 SCHEME: HDFC Mid Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-SCRAPED: 2026-08-03T08:33:24.704845+00:00
+SCRAPED: 2026-08-04T07:43:11.786925+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 5 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹233.488
-Nav Date: 31-Jul-2026
+Nav: ₹236.539
+Nav Date: 03-Aug-2026
 Aum: ₹100,858.31 Cr
 Expense Ratio: 0.75%
 Exit Load: Exit load of 1% if redeemed within 1 year.
@@ -37,15 +37,15 @@ Portfolio Turnover: 13.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.32%
-  1 Week: 2.71%
-  1 Month: 2.96%
-  3 Months: 7.24%
-  6 Months: 5.44%
-  1 Year: 9.34%
-  3 Years: 19.53%
-  5 Years: 20.47%
-  10 Years: 18.16%
+  1 Day: 1.31%
+  1 Week: 3.01%
+  1 Month: 3.02%
+  3 Months: 8.64%
+  6 Months: 5.45%
+  1 Year: 12.33%
+  3 Years: 20.88%
+  5 Years: 20.5%
+  10 Years: 18.47%
   Since Inception: 19.3%
 
 Category Average Returns:
@@ -55,31 +55,31 @@ Category Average Returns:
   10 Years: 16.00%
 
 Category Rankings:
-  1 Year: Rank 19
-  3 Years: Rank 13
+  1 Year: Rank 17
+  3 Years: Rank 12
   5 Years: Rank 3
   10 Years: Rank 5
 
 Risk Metrics:
-  Sharpe Ratio: 0.92
+  Sharpe Ratio: 0.87
   Beta: 0.84
-  Alpha: 2.83
-  Standard Deviation: 15.51
-  Sortino Ratio: 1.11
+  Alpha: 2.98
+  Standard Deviation: 15.35
+  Sortino Ratio: 1.04
 
 Sip Returns:
-  1 Year: 13.77%
-  3 Years: 13.78%
-  5 Years: 19.93%
-  10 Years: 20.21%
-  Since Inception: 20.13%
+  1 Year: 16.98%
+  3 Years: 14.23%
+  5 Years: 20.39%
+  10 Years: 20.48%
+  Since Inception: 20.27%
 
 ============================================================
   RISK
 ============================================================
 Riskometer Category: Very High
 Nfo Riskometer: Moderately High
-Standard Deviation: 15.51
+Standard Deviation: 15.35
 Beta: 0.84
 
 ============================================================
