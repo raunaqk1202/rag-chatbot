@@ -1,6 +1,6 @@
 SCHEME: HDFC Gold ETF Fund of Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
-SCRAPED: 2026-08-04T07:43:14.451412+00:00
+SCRAPED: 2026-08-05T07:43:15.656099+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹44.2375
-Nav Date: 03-Aug-2026
+Nav: ₹44.2081
+Nav Date: 04-Aug-2026
 Aum: ₹11,019.45 Cr
 Expense Ratio: 0.2%
 Exit Load: Exit load of 1%, if redeemed within 15 days.
@@ -37,15 +37,15 @@ Portfolio Turnover: 1.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.15%
-  1 Week: -1.12%
-  1 Month: -2.5%
-  3 Months: -4.98%
-  6 Months: -6.57%
-  1 Year: 42.82%
-  3 Years: 32.32%
-  5 Years: 23.08%
-  10 Years: 15.25%
+  1 Day: -0.07%
+  1 Week: 0.28%
+  1 Month: -2.57%
+  3 Months: -4.38%
+  6 Months: -9.85%
+  1 Year: 40.64%
+  3 Years: 32.29%
+  5 Years: 23.04%
+  10 Years: 15.3%
   Since Inception: 10.83%
 
 Category Average Returns:
@@ -55,8 +55,8 @@ Category Average Returns:
   10 Years: 17.04%
 
 Category Rankings:
-  1 Year: Rank 10
-  3 Years: Rank 6
+  1 Year: Rank 6
+  3 Years: Rank 8
   5 Years: Rank 5
   10 Years: Rank 3
 
@@ -68,11 +68,11 @@ Risk Metrics:
   Sortino Ratio: 2.13
 
 Sip Returns:
-  1 Year: 10.49%
-  3 Years: 35.4%
-  5 Years: 29.18%
-  10 Years: 20.43%
-  Since Inception: 16.47%
+  1 Year: 10.27%
+  3 Years: 35.28%
+  5 Years: 29.12%
+  10 Years: 20.41%
+  Since Inception: 16.46%
 
 ============================================================
   RISK
@@ -124,7 +124,7 @@ Website: http://www.hdfcfund.com
 ============================================================
 
 Pros:
-  - 5Y annualised returns higher than category average by 2.13%
+  - 5Y annualised returns higher than category average by 2.09%
   - Lower expense ratio: 0.2%
 
 Cons:

@@ -16,8 +16,8 @@
       "groww_rating": "3 out of 5"
     },
     "fund_details": {
-      "nav": "₹163.7",
-      "nav_date": "03-Aug-2026",
+      "nav": "₹164.009",
+      "nav_date": "04-Aug-2026",
       "aum": "₹40,416.80 Cr",
       "expense_ratio": "0.76%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "1.83%",
-        "1_week": "2.58%",
-        "1_month": "3.15%",
-        "3_months": "8.65%",
-        "6_months": "5.2%",
-        "1_year": "3.06%",
-        "3_years": "13.83%",
-        "5_years": "15.89%",
-        "10_years": "18.54%",
+        "1_day": "0.19%",
+        "1_week": "3.07%",
+        "1_month": "3.35%",
+        "3_months": "7.72%",
+        "6_months": "5.29%",
+        "1_year": "2.5%",
+        "3_years": "13.84%",
+        "5_years": "16.15%",
+        "10_years": "18.49%",
         "since_inception": "16.3%"
       },
       "category_average_returns": {
@@ -61,11 +61,11 @@
         "sortino_ratio": "0.61"
       },
       "sip_returns": {
-        "1_year": "11.67%",
-        "3_years": "8.25%",
-        "5_years": "15.22%",
-        "10_years": "18.95%",
-        "since_inception": "18.98%"
+        "1_year": "12.04%",
+        "3_years": "8.36%",
+        "5_years": "15.28%",
+        "10_years": "18.98%",
+        "since_inception": "19.0%"
       }
     },
     "risk": {
@@ -138,7 +138,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-04T07:43:13.142737+00:00",
-  "fetched_at": "2026-08-04T07:43:13.141752+00:00",
+  "parse_timestamp": "2026-08-05T07:43:14.004498+00:00",
+  "fetched_at": "2026-08-05T07:43:14.003577+00:00",
   "http_status": 200
 }
