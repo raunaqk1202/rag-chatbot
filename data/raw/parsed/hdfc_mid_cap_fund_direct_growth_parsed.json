@@ -16,8 +16,8 @@
       "groww_rating": "5 out of 5"
     },
     "fund_details": {
-      "nav": "₹235.305",
-      "nav_date": "04-Aug-2026",
+      "nav": "₹235.979",
+      "nav_date": "05-Aug-2026",
       "aum": "₹100,858.31 Cr",
       "expense_ratio": "0.75%",
       "exit_load": "Exit load of 1% if redeemed within 1 year.",
@@ -130,7 +130,7 @@
       "pros": [
         "1Y and 10Y annualised returns higher than category average",
         "Lower expense ratio: 0.75%",
-        "Higher alpha: 2.83 \nThe fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y "
+        "Higher alpha: 2.98 \nThe fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y "
       ],
       "cons": [
         "3Y and 5Y annualised returns lower than category average"
@@ -139,7 +139,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-05T07:43:12.076149+00:00",
-  "fetched_at": "2026-08-05T07:43:12.075308+00:00",
+  "parse_timestamp": "2026-08-06T07:44:08.294407+00:00",
+  "fetched_at": "2026-08-06T07:44:08.293335+00:00",
   "http_status": 200
 }

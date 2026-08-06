@@ -1,6 +1,6 @@
 SCHEME: HDFC Mid Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-SCRAPED: 2026-08-05T07:43:12.076149+00:00
+SCRAPED: 2026-08-06T07:44:08.294407+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 5 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹235.305
-Nav Date: 04-Aug-2026
+Nav: ₹235.979
+Nav Date: 05-Aug-2026
 Aum: ₹100,858.31 Cr
 Expense Ratio: 0.75%
 Exit Load: Exit load of 1% if redeemed within 1 year.
@@ -151,7 +151,7 @@ Website: http://www.hdfcfund.com
 Pros:
   - 1Y and 10Y annualised returns higher than category average
   - Lower expense ratio: 0.75%
-  - Higher alpha: 2.83 
+  - Higher alpha: 2.98 
 The fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y 
 
 Cons:

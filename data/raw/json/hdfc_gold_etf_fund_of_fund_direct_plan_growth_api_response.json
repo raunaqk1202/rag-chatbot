@@ -175,7 +175,7 @@
       "scheme_code": "119132",
       "analysis_type": "PROS",
       "analysis_subject": "p_return_analysis",
-      "analysis_desc": "5Y annualised returns higher than category average by 2.09%",
+      "analysis_desc": "5Y annualised returns higher than category average by 2.55%",
       "analysis_data": "p_return_analysis",
       "rating": null
     },
@@ -202,7 +202,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 944244.2088,
-    "launch_date": "1999-12-09T18:30:00.224Z",
+    "launch_date": "1999-12-09T18:30:00.105Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -237,9 +237,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": 40.64,
-      "stat_3y": 32.29,
-      "stat_5y": 23.04,
+      "stat_1y": 42.77,
+      "stat_3y": 33.09,
+      "stat_5y": 23.5,
       "stat_all": 10.83,
       "title": "Fund Returns"
     },
@@ -253,8 +253,8 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 10,
-      "stat_3y": 6,
+      "stat_1y": 6,
+      "stat_3y": 8,
       "stat_5y": 5,
       "stat_all": null,
       "title": "Rank Within Category"
@@ -361,8 +361,8 @@
       "stock_search_id": null
     }
   ],
-  "nav": 44.2081,
-  "nav_date": "04-Aug-2026",
+  "nav": 45.055,
+  "nav_date": "05-Aug-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,

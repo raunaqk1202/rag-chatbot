@@ -16,8 +16,8 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹1258.938",
-      "nav_date": "04-Aug-2026",
+      "nav": "₹1259.647",
+      "nav_date": "05-Aug-2026",
       "aum": "₹39,023.69 Cr",
       "expense_ratio": "1.02%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -129,17 +129,16 @@
     },
     "analysis": {
       "pros": [
-        "Lower expense ratio: 1.02%",
-        "10Y annualised returns higher than category average by 0.11%"
+        "Lower expense ratio: 1.02%"
       ],
       "cons": [
-        "Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y"
+        "Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y"
       ]
     }
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-05T07:43:10.755049+00:00",
-  "fetched_at": "2026-08-05T07:43:10.754170+00:00",
+  "parse_timestamp": "2026-08-06T07:44:06.796464+00:00",
+  "fetched_at": "2026-08-06T07:44:06.795391+00:00",
   "http_status": 200
 }
