@@ -1,6 +1,6 @@
 SCHEME: HDFC Small Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-SCRAPED: 2026-08-06T07:44:09.616538+00:00
+SCRAPED: 2026-08-07T06:11:43.748253+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹164.873
-Nav Date: 05-Aug-2026
+Nav: ₹163.991
+Nav Date: 06-Aug-2026
 Aum: ₹40,416.80 Cr
 Expense Ratio: 0.76%
 Exit Load: Exit load of 1% if redeemed within 1 year
@@ -37,15 +37,15 @@ Portfolio Turnover: 6.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.19%
-  1 Week: 3.07%
-  1 Month: 3.35%
-  3 Months: 7.72%
-  6 Months: 5.29%
-  1 Year: 2.5%
-  3 Years: 13.84%
-  5 Years: 16.15%
-  10 Years: 18.49%
+  1 Day: -0.53%
+  1 Week: 2.46%
+  1 Month: 3.14%
+  3 Months: 5.85%
+  6 Months: 6.25%
+  1 Year: 3.48%
+  3 Years: 13.81%
+  5 Years: 16.21%
+  10 Years: 18.33%
   Since Inception: 16.3%
 
 Category Average Returns:
@@ -61,26 +61,25 @@ Category Rankings:
   10 Years: Rank 4
 
 Risk Metrics:
-  Sharpe Ratio: 0.44
-  Beta: 0.78
-  Alpha: -0.59
-  Standard Deviation: 17.51
-  Sortino Ratio: 0.61
+  Sharpe Ratio: 0.4410996838
+  Beta: 0.77832914521962
+  Alpha: -0.58795685227368
+  Standard Deviation: 17.513600414128888
+  Sortino Ratio: 0.6140450586719256
 
 Sip Returns:
-  1 Year: 12.04%
-  3 Years: 8.36%
-  5 Years: 15.28%
-  10 Years: 18.98%
-  Since Inception: 19.0%
+  1 Year: -5.720716096477582%
+  3 Years: 5.1143912745794395%
+  5 Years: 13.47639943507163%
+  10 Years: 18.150044629831115%
 
 ============================================================
   RISK
 ============================================================
 Riskometer Category: Very High
 Nfo Riskometer: Moderately High Riskometer
-Standard Deviation: 17.51
-Beta: 0.78
+Standard Deviation: 17.513600414128888
+Beta: 0.77832914521962
 
 ============================================================
   BENCHMARK

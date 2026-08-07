@@ -1,6 +1,6 @@
 SCHEME: HDFC Gold ETF Fund of Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
-SCRAPED: 2026-08-06T07:44:10.954334+00:00
+SCRAPED: 2026-08-07T06:11:45.124836+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹45.055
-Nav Date: 05-Aug-2026
+Nav: ₹46.1502
+Nav Date: 06-Aug-2026
 Aum: ₹11,019.45 Cr
 Expense Ratio: 0.2%
 Exit Load: Exit load of 1%, if redeemed within 15 days.
@@ -37,15 +37,15 @@ Portfolio Turnover: 1.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -0.07%
-  1 Week: 0.28%
-  1 Month: -2.57%
-  3 Months: -4.38%
-  6 Months: -9.85%
-  1 Year: 40.64%
-  3 Years: 32.29%
-  5 Years: 23.04%
-  10 Years: 15.3%
+  1 Day: 2.43%
+  1 Week: 4.25%
+  1 Month: 2.28%
+  3 Months: -1.31%
+  6 Months: -2.38%
+  1 Year: 46.55%
+  3 Years: 34.12%
+  5 Years: 24.24%
+  10 Years: 15.74%
   Since Inception: 10.83%
 
 Category Average Returns:
@@ -55,32 +55,31 @@ Category Average Returns:
   10 Years: 17.04%
 
 Category Rankings:
-  1 Year: Rank 6
+  1 Year: Rank 7
   3 Years: Rank 8
   5 Years: Rank 5
   10 Years: Rank 3
 
 Risk Metrics:
-  Sharpe Ratio: 1.31
-  Beta: 0.9
-  Alpha: 0.77
-  Standard Deviation: 18.34
-  Sortino Ratio: 2.13
+  Sharpe Ratio: 1.3116957447
+  Beta: 0.90412719998247
+  Alpha: 0.76921270698329
+  Standard Deviation: 18.34487881208876
+  Sortino Ratio: 2.127123679268882
 
 Sip Returns:
-  1 Year: 10.27%
-  3 Years: 35.28%
-  5 Years: 29.12%
-  10 Years: 20.41%
-  Since Inception: 16.46%
+  1 Year: 52.63552746083535%
+  3 Years: 46.4806467625982%
+  5 Years: 34.42283466303333%
+  10 Years: 22.466145897989765%
 
 ============================================================
   RISK
 ============================================================
 Riskometer Category: High
 Nfo Riskometer: Moderately High Riskometer
-Standard Deviation: 18.34
-Beta: 0.9
+Standard Deviation: 18.34487881208876
+Beta: 0.90412719998247
 
 ============================================================
   BENCHMARK
@@ -124,8 +123,8 @@ Website: http://www.hdfcfund.com
 ============================================================
 
 Pros:
-  - 5Y annualised returns higher than category average by 2.55%
+  - 3Y and 5Y annualised returns higher than category average
   - Lower expense ratio: 0.2%
 
 Cons:
-  - Consistently lower annualised returns than category average for the past 1Y and 3Y
+  - 1Y and 10Y annualised returns lower than category average

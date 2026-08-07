@@ -1,6 +1,6 @@
 SCHEME: HDFC Large Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-SCRAPED: 2026-08-06T07:44:06.796464+00:00
+SCRAPED: 2026-08-07T06:11:40.961622+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹1259.647
-Nav Date: 05-Aug-2026
+Nav: ₹1260.093
+Nav Date: 06-Aug-2026
 Aum: ₹39,023.69 Cr
 Expense Ratio: 1.02%
 Exit Load: Exit load of 1% if redeemed within 1 year
@@ -37,15 +37,15 @@ Portfolio Turnover: 18.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -0.67%
-  1 Week: 2.42%
-  1 Month: 2.01%
-  3 Months: 5.58%
-  6 Months: -1.2%
-  1 Year: 3.23%
-  3 Years: 11.63%
-  5 Years: 13.06%
-  10 Years: 13.27%
+  1 Day: 0.04%
+  1 Week: 1.54%
+  1 Month: 1.52%
+  3 Months: 4.4%
+  6 Months: -0.75%
+  1 Year: 4.02%
+  3 Years: 11.64%
+  5 Years: 13.14%
+  10 Years: 13.07%
   Since Inception: 13.08%
 
 Category Average Returns:
@@ -55,32 +55,31 @@ Category Average Returns:
   10 Years: 13.16%
 
 Category Rankings:
-  1 Year: Rank 47
+  1 Year: Rank 49
   3 Years: Rank 42
   5 Years: Rank 16
   10 Years: Rank 12
 
 Risk Metrics:
-  Sharpe Ratio: 0.41
-  Beta: 0.95
-  Alpha: 0.8
-  Standard Deviation: 13.86
-  Sortino Ratio: 0.49
+  Sharpe Ratio: 0.4056075183
+  Beta: 0.94817686596274
+  Alpha: 0.80461356711293
+  Standard Deviation: 13.856106048363943
+  Sortino Ratio: 0.4916795776335732
 
 Sip Returns:
-  1 Year: 6.25%
-  3 Years: 6.08%
-  5 Years: 11.14%
-  10 Years: 13.45%
-  Since Inception: 13.48%
+  1 Year: 6.378438156801783%
+  3 Years: 6.117129487248587%
+  5 Years: 11.152493030886172%
+  10 Years: 13.45316977973523%
 
 ============================================================
   RISK
 ============================================================
 Riskometer Category: Very High
 Nfo Riskometer: Moderately High Riskometer
-Standard Deviation: 13.86
-Beta: 0.95
+Standard Deviation: 13.856106048363943
+Beta: 0.94817686596274
 
 ============================================================
   BENCHMARK

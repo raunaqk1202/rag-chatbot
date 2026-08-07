@@ -15,8 +15,8 @@
       "risk_level": "Very High"
     },
     "fund_details": {
-      "nav": "₹36.8701",
-      "nav_date": "05-Aug-2026",
+      "nav": "₹37.0822",
+      "nav_date": "06-Aug-2026",
       "aum": "₹4,326.56 Cr",
       "expense_ratio": "0.22%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
@@ -28,40 +28,39 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.21%",
-        "1_week": "0.55%",
-        "1_month": "-6.48%",
-        "3_months": "-10.32%",
-        "6_months": "-22.26%",
-        "1_year": "89.45%",
-        "3_years": "42.17%"
+        "1_day": "0.58%",
+        "1_week": "3.9%",
+        "1_month": "-2.64%",
+        "3_months": "-8.61%",
+        "6_months": "-4.65%",
+        "1_year": "94.7%",
+        "3_years": "43.77%"
       },
       "category_average_returns": {
         "1_year": "154.77%",
         "3_years": "47.07%"
       },
       "category_rankings": {
-        "1_year": "Rank 10",
+        "1_year": "Rank 8",
         "3_years": "Rank 5"
       },
       "risk_metrics": {
-        "sharpe_ratio": "0.91",
-        "beta": "0.9",
-        "alpha": "0.57",
-        "standard_deviation": "39.55",
-        "sortino_ratio": "1.89"
+        "sharpe_ratio": "1.1799402077",
+        "beta": "0.9739075785654",
+        "alpha": "-0.8860469666793",
+        "standard_deviation": "22.931348482653195",
+        "sortino_ratio": "2.7084629411633165"
       },
       "sip_returns": {
-        "1_year": "21.85%",
-        "3_years": "54.22%",
-        "since_inception": "46.58%"
+        "1_year": "155.93696128788386%",
+        "3_years": "76.37916771903399%"
       }
     },
     "risk": {
       "riskometer_category": "Very High",
       "nfo_riskometer": "Very High",
-      "standard_deviation": "39.55",
-      "beta": "0.9"
+      "standard_deviation": "22.931348482653195",
+      "beta": "0.9739075785654"
     },
     "benchmark": {
       "benchmark_index": "Domestic Price of Silver",
@@ -98,7 +97,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-06T07:44:12.434525+00:00",
-  "fetched_at": "2026-08-06T07:44:12.433638+00:00",
+  "parse_timestamp": "2026-08-07T06:11:46.611570+00:00",
+  "fetched_at": "2026-08-07T06:11:46.610757+00:00",
   "http_status": 200
 }
