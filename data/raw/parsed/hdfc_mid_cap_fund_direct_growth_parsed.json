@@ -16,8 +16,8 @@
       "groww_rating": "5 out of 5"
     },
     "fund_details": {
-      "nav": "₹235.895",
-      "nav_date": "06-Aug-2026",
+      "nav": "₹236.719",
+      "nav_date": "07-Aug-2026",
       "aum": "₹100,858.31 Cr",
       "expense_ratio": "0.75%",
       "exit_load": "Exit load of 1% if redeemed within 1 year.",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-0.04%",
-        "1_week": "1.35%",
-        "1_month": "2.39%",
-        "3_months": "6.01%",
-        "6_months": "5.33%",
-        "1_year": "12.83%",
-        "3_years": "20.54%",
-        "5_years": "20.61%",
-        "10_years": "18.18%",
+        "1_day": "0.35%",
+        "1_week": "1.38%",
+        "1_month": "2.43%",
+        "3_months": "5.8%",
+        "6_months": "5.7%",
+        "1_year": "12.62%",
+        "3_years": "20.48%",
+        "5_years": "20.68%",
+        "10_years": "18.21%",
         "since_inception": "19.3%"
       },
       "category_average_returns": {
@@ -48,8 +48,8 @@
         "10_years": "16.00%"
       },
       "category_rankings": {
-        "1_year": "Rank 16",
-        "3_years": "Rank 11",
+        "1_year": "Rank 15",
+        "3_years": "Rank 12",
         "5_years": "Rank 3",
         "10_years": "Rank 5"
       },
@@ -61,10 +61,10 @@
         "sortino_ratio": "1.0419741111415168"
       },
       "sip_returns": {
-        "1_year": "16.01033975846563%",
-        "3_years": "13.947987474960655%",
-        "5_years": "20.21347145486724%",
-        "10_years": "20.404027524832202%"
+        "1_year": "16.7495901675275%",
+        "3_years": "14.175114563850144%",
+        "5_years": "20.339167686864545%",
+        "10_years": "20.45968603333726%"
       }
     },
     "risk": {
@@ -138,7 +138,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-07T06:11:42.345627+00:00",
-  "fetched_at": "2026-08-07T06:11:42.344792+00:00",
+  "parse_timestamp": "2026-08-08T05:45:24.741231+00:00",
+  "fetched_at": "2026-08-08T05:45:24.740245+00:00",
   "http_status": 200
 }
