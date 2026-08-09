@@ -1,6 +1,6 @@
 SCHEME: HDFC Small Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-SCRAPED: 2026-08-08T05:45:26.315138+00:00
+SCRAPED: 2026-08-09T05:49:33.311025+00:00
 
 ============================================================
   FUND OVERVIEW
