@@ -48,8 +48,8 @@
         "10_years": "13.16%"
       },
       "category_rankings": {
-        "1_year": "Rank 50",
-        "3_years": "Rank 42",
+        "1_year": "Rank 51",
+        "3_years": "Rank 43",
         "5_years": "Rank 16",
         "10_years": "Rank 12"
       },
@@ -137,7 +137,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-09T05:49:30.472573+00:00",
-  "fetched_at": "2026-08-09T05:49:30.471497+00:00",
+  "parse_timestamp": "2026-08-10T06:12:45.240065+00:00",
+  "fetched_at": "2026-08-10T06:12:45.239006+00:00",
   "http_status": 200
 }

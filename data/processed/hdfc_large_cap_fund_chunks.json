@@ -6,7 +6,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "fund_overview",
-      "scrape_date": "2026-08-09",
+      "scrape_date": "2026-08-10",
       "chunk_index": 0,
       "word_count": 63
     }
@@ -18,19 +18,19 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "fund_details",
-      "scrape_date": "2026-08-09",
+      "scrape_date": "2026-08-10",
       "chunk_index": 1,
       "word_count": 58
     }
   },
   {
     "id": "hdfc_large_cap_fund__returns",
-    "text": "HDFC Large Cap Fund – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: -0.66%, 1 Week: 0.29%, 1 Month: 0.72%, 3 Months: 3.55%, 6 Months: -1.41%, 1 Year: 3.19%, 3 Years: 11.26%, 5 Years: 12.98%, 10 Years: 12.99%, Since Inception: 13.08%. Category Average Returns: 1 Year: 7.15%, 3 Years: 15.07%, 5 Years: 14.96%, 10 Years: 13.16%. Category Rankings: 1 Year: Rank 50, 3 Years: Rank 42, 5 Years: Rank 16, 10 Years: Rank 12. Risk Metrics: Sharpe Ratio: 0.4056075183, Beta: 0.94817686596274, Alpha: 0.80461356711293, Standard Deviation: 13.856106048363943, Sortino Ratio: 0.4916795776335732. SIP Returns: 1 Year: 4.865764579438972%, 3 Years: 5.640541516885989%, 5 Years: 10.865790922178938%, 10 Years: 13.320709168577999%.",
+    "text": "HDFC Large Cap Fund – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: -0.66%, 1 Week: 0.29%, 1 Month: 0.72%, 3 Months: 3.55%, 6 Months: -1.41%, 1 Year: 3.19%, 3 Years: 11.26%, 5 Years: 12.98%, 10 Years: 12.99%, Since Inception: 13.08%. Category Average Returns: 1 Year: 7.15%, 3 Years: 15.07%, 5 Years: 14.96%, 10 Years: 13.16%. Category Rankings: 1 Year: Rank 51, 3 Years: Rank 43, 5 Years: Rank 16, 10 Years: Rank 12. Risk Metrics: Sharpe Ratio: 0.4056075183, Beta: 0.94817686596274, Alpha: 0.80461356711293, Standard Deviation: 13.856106048363943, Sortino Ratio: 0.4916795776335732. SIP Returns: 1 Year: 4.865764579438972%, 3 Years: 5.640541516885989%, 5 Years: 10.865790922178938%, 10 Years: 13.320709168577999%.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "returns",
-      "scrape_date": "2026-08-09",
+      "scrape_date": "2026-08-10",
       "chunk_index": 2,
       "word_count": 105
     }
@@ -42,7 +42,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "risk_and_benchmark",
-      "scrape_date": "2026-08-09",
+      "scrape_date": "2026-08-10",
       "chunk_index": 3,
       "word_count": 34
     }
@@ -54,7 +54,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "holdings",
-      "scrape_date": "2026-08-09",
+      "scrape_date": "2026-08-10",
       "chunk_index": 4,
       "word_count": 104
     }
@@ -66,7 +66,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "tax",
-      "scrape_date": "2026-08-09",
+      "scrape_date": "2026-08-10",
       "chunk_index": 5,
       "word_count": 65
     }
@@ -78,7 +78,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "fund_management",
-      "scrape_date": "2026-08-09",
+      "scrape_date": "2026-08-10",
       "chunk_index": 6,
       "word_count": 102
     }
@@ -90,7 +90,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "amc_info",
-      "scrape_date": "2026-08-09",
+      "scrape_date": "2026-08-10",
       "chunk_index": 7,
       "word_count": 29
     }
@@ -102,7 +102,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "analysis",
-      "scrape_date": "2026-08-09",
+      "scrape_date": "2026-08-10",
       "chunk_index": 8,
       "word_count": 33
     }
