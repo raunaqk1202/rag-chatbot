@@ -1,6 +1,6 @@
 SCHEME: HDFC Small Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-SCRAPED: 2026-08-12T06:18:07.942748+00:00
+SCRAPED: 2026-08-13T06:19:45.081197+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹163.51
-Nav Date: 11-Aug-2026
+Nav: ₹162.811
+Nav Date: 12-Aug-2026
 Aum: ₹41,679.00 Cr
 Expense Ratio: 0.76%
 Exit Load: Exit load of 1% if redeemed within 1 year
@@ -37,15 +37,15 @@ Portfolio Turnover: 6.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.01%
-  1 Week: -0.3%
-  1 Month: 2.02%
-  3 Months: 5.13%
-  6 Months: 3.53%
-  1 Year: 3.66%
-  3 Years: 13.47%
-  5 Years: 17.13%
-  10 Years: 18.42%
+  1 Day: -0.43%
+  1 Week: -1.25%
+  1 Month: 1.59%
+  3 Months: 7.16%
+  6 Months: 4.07%
+  1 Year: 2.66%
+  3 Years: 13.29%
+  5 Years: 16.45%
+  10 Years: 18.3%
   Since Inception: 16.3%
 
 Category Average Returns:
@@ -56,7 +56,7 @@ Category Average Returns:
 
 Category Rankings:
   1 Year: Rank 43
-  3 Years: Rank 31
+  3 Years: Rank 33
   5 Years: Rank 17
   10 Years: Rank 4
 
@@ -138,7 +138,7 @@ Fund Managers:
   AMC INFO
 ============================================================
 Amc Name: HDFC Mutual Fund
-Total Amc Aum: ₹944,244.21 Cr
+Total Amc Aum: ₹967,910.31 Cr
 Contact Email: shareholders.relations@hdfcfund.com
 Contact Phone: 022 – 66316333
 Website: http://www.hdfcfund.com

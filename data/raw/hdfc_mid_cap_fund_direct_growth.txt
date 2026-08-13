@@ -1,6 +1,6 @@
 SCHEME: HDFC Mid Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-SCRAPED: 2026-08-12T06:18:06.465305+00:00
+SCRAPED: 2026-08-13T06:19:43.554543+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 5 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹237.096
-Nav Date: 11-Aug-2026
+Nav: ₹236.891
+Nav Date: 12-Aug-2026
 Aum: ₹105,142.69 Cr
 Expense Ratio: 0.75%
 Exit Load: Exit load of 1% if redeemed within 1 year.
@@ -37,15 +37,15 @@ Portfolio Turnover: 13.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.11%
-  1 Week: 0.76%
-  1 Month: 2.21%
-  3 Months: 7.16%
-  6 Months: 4.37%
-  1 Year: 13.01%
-  3 Years: 20.41%
-  5 Years: 21.22%
-  10 Years: 18.3%
+  1 Day: -0.09%
+  1 Week: 0.39%
+  1 Month: 2.12%
+  3 Months: 9.36%
+  6 Months: 4.77%
+  1 Year: 12.87%
+  3 Years: 20.35%
+  5 Years: 20.87%
+  10 Years: 18.19%
   Since Inception: 19.3%
 
 Category Average Returns:
@@ -55,7 +55,7 @@ Category Average Returns:
   10 Years: 16.00%
 
 Category Rankings:
-  1 Year: Rank 19
+  1 Year: Rank 18
   3 Years: Rank 13
   5 Years: Rank 3
   10 Years: Rank 6
@@ -68,10 +68,10 @@ Risk Metrics:
   Sortino Ratio: 1.0419741111415168
 
 Sip Returns:
-  1 Year: 16.724702023296178%
-  3 Years: 14.185109606424545%
-  5 Years: 20.32079245880216%
-  10 Years: 20.451316794659252%
+  1 Year: 16.423484215585525%
+  3 Years: 14.09668603835163%
+  5 Years: 20.263253399921847%
+  10 Years: 20.42567894382527%
 
 ============================================================
   RISK
@@ -138,7 +138,7 @@ Fund Managers:
   AMC INFO
 ============================================================
 Amc Name: HDFC Mutual Fund
-Total Amc Aum: ₹944,244.21 Cr
+Total Amc Aum: ₹967,910.31 Cr
 Contact Email: shareholders.relations@hdfcfund.com
 Contact Phone: 022 – 66316333
 Website: http://www.hdfcfund.com

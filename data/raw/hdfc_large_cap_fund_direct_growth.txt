@@ -1,6 +1,6 @@
 SCHEME: HDFC Large Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-SCRAPED: 2026-08-12T06:18:05.086378+00:00
+SCRAPED: 2026-08-13T06:19:42.267642+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹1249.684
-Nav Date: 11-Aug-2026
+Nav: ₹1249.478
+Nav Date: 12-Aug-2026
 Aum: ₹40,197.89 Cr
 Expense Ratio: 1.02%
 Exit Load: Exit load of 1% if redeemed within 1 year
@@ -37,15 +37,15 @@ Portfolio Turnover: 18.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -0.33%
-  1 Week: -0.74%
-  1 Month: 1.04%
-  3 Months: 5.42%
-  6 Months: -2.81%
-  1 Year: 3.18%
-  3 Years: 11.43%
-  5 Years: 13.06%
-  10 Years: 13.14%
+  1 Day: -0.02%
+  1 Week: -0.81%
+  1 Month: 1.03%
+  3 Months: 7.49%
+  6 Months: -2.59%
+  1 Year: 3.47%
+  3 Years: 11.41%
+  5 Years: 12.97%
+  10 Years: 12.99%
   Since Inception: 13.08%
 
 Category Average Returns:
@@ -55,10 +55,10 @@ Category Average Returns:
   10 Years: 13.16%
 
 Category Rankings:
-  1 Year: Rank 49
-  3 Years: Rank 42
+  1 Year: Rank 50
+  3 Years: Rank 43
   5 Years: Rank 16
-  10 Years: Rank 12
+  10 Years: Rank 13
 
 Risk Metrics:
   Sharpe Ratio: 0.4056075183
@@ -68,10 +68,10 @@ Risk Metrics:
   Sortino Ratio: 0.4916795776335732
 
 Sip Returns:
-  1 Year: 4.402836621562893%
-  3 Years: 5.485743965659717%
-  5 Years: 10.752256290746226%
-  10 Years: 13.263992751087105%
+  1 Year: 4.342528991206389%
+  3 Years: 5.464245704861612%
+  5 Years: 10.73401735518642%
+  10 Years: 13.254443402440518%
 
 ============================================================
   RISK
@@ -139,7 +139,7 @@ Fund Managers:
   AMC INFO
 ============================================================
 Amc Name: HDFC Mutual Fund
-Total Amc Aum: ₹944,244.21 Cr
+Total Amc Aum: ₹967,910.31 Cr
 Contact Email: shareholders.relations@hdfcfund.com
 Contact Phone: 022 – 66316333
 Website: http://www.hdfcfund.com

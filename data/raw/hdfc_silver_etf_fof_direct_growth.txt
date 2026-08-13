@@ -1,6 +1,6 @@
 SCHEME: HDFC Silver ETF FoF – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth
-SCRAPED: 2026-08-12T06:18:10.712585+00:00
+SCRAPED: 2026-08-13T06:19:47.856801+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -19,8 +19,8 @@ Risk Level: Very High
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹38.437
-Nav Date: 11-Aug-2026
+Nav: ₹39.0034
+Nav Date: 12-Aug-2026
 Aum: ₹4,282.39 Cr
 Expense Ratio: 0.22%
 Exit Load: Exit load of 1%, if redeemed within 15 days.
@@ -35,20 +35,20 @@ Stamp Duty: 0.005% (from July 1st, 2020)
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.86%
-  1 Week: 7.42%
-  1 Month: 6.51%
-  3 Months: -7.96%
-  6 Months: -10.01%
-  1 Year: 101.5%
-  3 Years: 46.89%
+  1 Day: 1.47%
+  1 Week: 5.79%
+  1 Month: 8.08%
+  3 Months: -10.51%
+  6 Months: -8.17%
+  1 Year: 104.86%
+  3 Years: 47.56%
 
 Category Average Returns:
   1 Year: 154.77%
   3 Years: 47.07%
 
 Category Rankings:
-  1 Year: Rank 7
+  1 Year: Rank 5
   3 Years: Rank 5
 
 Risk Metrics:
@@ -99,7 +99,7 @@ Fund Managers:
   AMC INFO
 ============================================================
 Amc Name: HDFC Mutual Fund
-Total Amc Aum: ₹944,244.21 Cr
+Total Amc Aum: ₹967,910.31 Cr
 Contact Email: shareholders.relations@hdfcfund.com
 Contact Phone: 022 – 66316333
 Website: http://www.hdfcfund.com
@@ -110,6 +110,7 @@ Website: http://www.hdfcfund.com
 
 Pros:
   - Lower expense ratio: 0.22%
+  - 3Y annualised returns higher than category average by 0.49%
 
 Cons:
-  - Consistently lower annualised returns than category average for the past 1Y and 3Y
+  - 1Y annualised returns lower than category average by 49.91%

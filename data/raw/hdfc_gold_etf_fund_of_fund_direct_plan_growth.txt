@@ -1,6 +1,6 @@
 SCHEME: HDFC Gold ETF Fund of Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
-SCRAPED: 2026-08-12T06:18:09.302195+00:00
+SCRAPED: 2026-08-13T06:19:46.448203+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹47.3463
-Nav Date: 11-Aug-2026
+Nav: ₹47.6709
+Nav Date: 12-Aug-2026
 Aum: ₹11,197.05 Cr
 Expense Ratio: 0.2%
 Exit Load: Exit load of 1%, if redeemed within 15 days.
@@ -37,15 +37,15 @@ Portfolio Turnover: 1.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.74%
-  1 Week: 7.1%
-  1 Month: 6.24%
-  3 Months: 1.85%
-  6 Months: -2.5%
-  1 Year: 50.76%
-  3 Years: 35.66%
-  5 Years: 25.51%
-  10 Years: 16.03%
+  1 Day: 0.69%
+  1 Week: 5.81%
+  1 Month: 6.97%
+  3 Months: 1.49%
+  6 Months: -1.76%
+  1 Year: 52.25%
+  3 Years: 35.93%
+  5 Years: 25.49%
+  10 Years: 16.13%
   Since Inception: 10.83%
 
 Category Average Returns:
@@ -55,10 +55,10 @@ Category Average Returns:
   10 Years: 17.04%
 
 Category Rankings:
-  1 Year: Rank 9
+  1 Year: Rank 7
   3 Years: Rank 8
   5 Years: Rank 6
-  10 Years: Rank 4
+  10 Years: Rank 5
 
 Risk Metrics:
   Sharpe Ratio: 1.3116957447
@@ -113,7 +113,7 @@ Fund Managers:
   AMC INFO
 ============================================================
 Amc Name: HDFC Mutual Fund
-Total Amc Aum: ₹944,244.21 Cr
+Total Amc Aum: ₹967,910.31 Cr
 Contact Email: shareholders.relations@hdfcfund.com
 Contact Phone: 022 – 66316333
 Website: http://www.hdfcfund.com

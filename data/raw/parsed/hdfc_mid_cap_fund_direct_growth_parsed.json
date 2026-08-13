@@ -16,8 +16,8 @@
       "groww_rating": "5 out of 5"
     },
     "fund_details": {
-      "nav": "₹237.096",
-      "nav_date": "11-Aug-2026",
+      "nav": "₹236.891",
+      "nav_date": "12-Aug-2026",
       "aum": "₹105,142.69 Cr",
       "expense_ratio": "0.75%",
       "exit_load": "Exit load of 1% if redeemed within 1 year.",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.11%",
-        "1_week": "0.76%",
-        "1_month": "2.21%",
-        "3_months": "7.16%",
-        "6_months": "4.37%",
-        "1_year": "13.01%",
-        "3_years": "20.41%",
-        "5_years": "21.22%",
-        "10_years": "18.3%",
+        "1_day": "-0.09%",
+        "1_week": "0.39%",
+        "1_month": "2.12%",
+        "3_months": "9.36%",
+        "6_months": "4.77%",
+        "1_year": "12.87%",
+        "3_years": "20.35%",
+        "5_years": "20.87%",
+        "10_years": "18.19%",
         "since_inception": "19.3%"
       },
       "category_average_returns": {
@@ -48,7 +48,7 @@
         "10_years": "16.00%"
       },
       "category_rankings": {
-        "1_year": "Rank 19",
+        "1_year": "Rank 18",
         "3_years": "Rank 13",
         "5_years": "Rank 3",
         "10_years": "Rank 6"
@@ -61,10 +61,10 @@
         "sortino_ratio": "1.0419741111415168"
       },
       "sip_returns": {
-        "1_year": "16.724702023296178%",
-        "3_years": "14.185109606424545%",
-        "5_years": "20.32079245880216%",
-        "10_years": "20.451316794659252%"
+        "1_year": "16.423484215585525%",
+        "3_years": "14.09668603835163%",
+        "5_years": "20.263253399921847%",
+        "10_years": "20.42567894382527%"
       }
     },
     "risk": {
@@ -120,7 +120,7 @@
     },
     "amc_info": {
       "amc_name": "HDFC Mutual Fund",
-      "total_amc_aum": "₹944,244.21 Cr",
+      "total_amc_aum": "₹967,910.31 Cr",
       "contact_email": "shareholders.relations@hdfcfund.com",
       "contact_phone": "022 – 66316333",
       "website": "http://www.hdfcfund.com"
@@ -138,7 +138,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-12T06:18:06.465305+00:00",
-  "fetched_at": "2026-08-12T06:18:06.464501+00:00",
+  "parse_timestamp": "2026-08-13T06:19:43.554543+00:00",
+  "fetched_at": "2026-08-13T06:19:43.553770+00:00",
   "http_status": 200
 }

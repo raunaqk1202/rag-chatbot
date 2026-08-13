@@ -16,8 +16,8 @@
       "groww_rating": "3 out of 5"
     },
     "fund_details": {
-      "nav": "₹47.3463",
-      "nav_date": "11-Aug-2026",
+      "nav": "₹47.6709",
+      "nav_date": "12-Aug-2026",
       "aum": "₹11,197.05 Cr",
       "expense_ratio": "0.2%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.74%",
-        "1_week": "7.1%",
-        "1_month": "6.24%",
-        "3_months": "1.85%",
-        "6_months": "-2.5%",
-        "1_year": "50.76%",
-        "3_years": "35.66%",
-        "5_years": "25.51%",
-        "10_years": "16.03%",
+        "1_day": "0.69%",
+        "1_week": "5.81%",
+        "1_month": "6.97%",
+        "3_months": "1.49%",
+        "6_months": "-1.76%",
+        "1_year": "52.25%",
+        "3_years": "35.93%",
+        "5_years": "25.49%",
+        "10_years": "16.13%",
         "since_inception": "10.83%"
       },
       "category_average_returns": {
@@ -48,10 +48,10 @@
         "10_years": "17.04%"
       },
       "category_rankings": {
-        "1_year": "Rank 9",
+        "1_year": "Rank 7",
         "3_years": "Rank 8",
         "5_years": "Rank 6",
-        "10_years": "Rank 4"
+        "10_years": "Rank 5"
       },
       "risk_metrics": {
         "sharpe_ratio": "1.3116957447",
@@ -95,7 +95,7 @@
     },
     "amc_info": {
       "amc_name": "HDFC Mutual Fund",
-      "total_amc_aum": "₹944,244.21 Cr",
+      "total_amc_aum": "₹967,910.31 Cr",
       "contact_email": "shareholders.relations@hdfcfund.com",
       "contact_phone": "022 – 66316333",
       "website": "http://www.hdfcfund.com"
@@ -112,7 +112,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-12T06:18:09.302195+00:00",
-  "fetched_at": "2026-08-12T06:18:09.301487+00:00",
+  "parse_timestamp": "2026-08-13T06:19:46.448203+00:00",
+  "fetched_at": "2026-08-13T06:19:46.447351+00:00",
   "http_status": 200
 }
