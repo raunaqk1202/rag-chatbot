@@ -16,8 +16,8 @@
       "groww_rating": "5 out of 5"
     },
     "fund_details": {
-      "nav": "₹236.891",
-      "nav_date": "12-Aug-2026",
+      "nav": "₹237.08",
+      "nav_date": "13-Aug-2026",
       "aum": "₹105,142.69 Cr",
       "expense_ratio": "0.75%",
       "exit_load": "Exit load of 1% if redeemed within 1 year.",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-0.09%",
-        "1_week": "0.39%",
-        "1_month": "2.12%",
-        "3_months": "9.36%",
-        "6_months": "4.77%",
-        "1_year": "12.87%",
-        "3_years": "20.35%",
-        "5_years": "20.87%",
-        "10_years": "18.19%",
+        "1_day": "0.08%",
+        "1_week": "0.5%",
+        "1_month": "2.38%",
+        "3_months": "9.4%",
+        "6_months": "6.08%",
+        "1_year": "12.56%",
+        "3_years": "20.36%",
+        "5_years": "20.92%",
+        "10_years": "18.2%",
         "since_inception": "19.3%"
       },
       "category_average_returns": {
@@ -48,10 +48,10 @@
         "10_years": "16.00%"
       },
       "category_rankings": {
-        "1_year": "Rank 18",
+        "1_year": "Rank 20",
         "3_years": "Rank 13",
         "5_years": "Rank 3",
-        "10_years": "Rank 6"
+        "10_years": "Rank 7"
       },
       "risk_metrics": {
         "sharpe_ratio": "0.8730800194",
@@ -61,10 +61,10 @@
         "sortino_ratio": "1.0419741111415168"
       },
       "sip_returns": {
-        "1_year": "16.423484215585525%",
-        "3_years": "14.09668603835163%",
-        "5_years": "20.263253399921847%",
-        "10_years": "20.42567894382527%"
+        "1_year": "16.511962084720878%",
+        "3_years": "14.128026769172408%",
+        "5_years": "20.27548856671318%",
+        "10_years": "20.43105313640582%"
       }
     },
     "risk": {
@@ -138,7 +138,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-13T06:19:43.554543+00:00",
-  "fetched_at": "2026-08-13T06:19:43.553770+00:00",
+  "parse_timestamp": "2026-08-14T06:17:12.992937+00:00",
+  "fetched_at": "2026-08-14T06:17:12.992001+00:00",
   "http_status": 200
 }

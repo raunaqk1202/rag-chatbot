@@ -135,7 +135,7 @@
   "nfo_risk": "Moderately High Riskometer",
   "nfo_image_url": null,
   "meta_title": "HDFC Gold ETF Fund of Fund Direct Plan Growth - Groww",
-  "meta_desc": "HDFC Gold ETF Fund of Fund Direct Plan Growth is Gold Commodities mutual fund with risk-reward rating of 3/10. It has track record of 13 years, with three year return of 35.93. Risk is High",
+  "meta_desc": "HDFC Gold ETF Fund of Fund Direct Plan Growth is Gold Commodities mutual fund with risk-reward rating of 3/10. It has track record of 13 years, with three year return of 35.56. Risk is High",
   "meta_robots": "index",
   "amc": "HDFC",
   "scheme_code": "119132",
@@ -202,7 +202,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.428Z",
+    "launch_date": "1999-12-09T18:30:00.778Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -237,9 +237,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": 52.25,
-      "stat_3y": 35.93,
-      "stat_5y": 25.49,
+      "stat_1y": 50.64,
+      "stat_3y": 35.56,
+      "stat_5y": 25.34,
       "stat_all": 10.83,
       "title": "Fund Returns"
     },
@@ -253,8 +253,8 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 7,
-      "stat_3y": 8,
+      "stat_1y": 9,
+      "stat_3y": 7,
       "stat_5y": 6,
       "stat_all": null,
       "title": "Rank Within Category"
@@ -263,19 +263,19 @@
   "return_stats": [
     {
       "scheme_code": "119132",
-      "return1d": 0.69,
-      "return1w": 5.81,
-      "return1m": 6.97,
-      "return3m": 1.49,
-      "return6m": -1.76,
+      "return1d": -0.74,
+      "return1w": 2.54,
+      "return1m": 7.37,
+      "return3m": -4.51,
+      "return6m": -0.6,
       "return9m": null,
-      "return1y": 52.25,
+      "return1y": 50.64,
       "return2y": null,
-      "return3y": 35.93,
+      "return3y": 35.56,
       "return4y": null,
-      "return5y": 25.49,
+      "return5y": 25.34,
       "return7y": null,
-      "return10y": 16.13,
+      "return10y": 16.04,
       "return_default": 10.83,
       "mean_return": 11.06,
       "sharpe_ratio": 1.3116957447,
@@ -283,7 +283,7 @@
       "standard_deviation": 18.34487881208876,
       "risk_rating": 5,
       "risk": "High",
-      "return_since_created": 11.3249787562,
+      "return_since_created": 11.2622496111,
       "cat_return3m": 18.68149538354634,
       "cat_return6m": 41.98583723138889,
       "cat_return1y": 76.00068826008322,
@@ -291,10 +291,10 @@
       "cat_return5y": 20.95384843351483,
       "cat_return10y": 17.040816927548995,
       "cat_return_since_launch": null,
-      "rank3m": 16,
+      "rank3m": 11,
       "rank6m": 18,
-      "rank1yr": 7,
-      "rank3yr": 8,
+      "rank1yr": 9,
+      "rank3yr": 7,
       "rank5yr": 6,
       "rank10yr": 5,
       "rank_count3m": null,
@@ -367,8 +367,8 @@
       "stock_search_id": null
     }
   ],
-  "nav": 47.6709,
-  "nav_date": "12-Aug-2026",
+  "nav": 47.3202,
+  "nav_date": "13-Aug-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -738,16 +738,16 @@
     "return1d": null,
     "return1w": null,
     "return1m": null,
-    "return3m": 42.32242291913219,
-    "return6m": 23.461922791615265,
-    "return9m": 38.70915564537278,
-    "return1y": 52.63552746083535,
-    "return2y": 54.358874411813865,
-    "return3y": 46.4806467625982,
-    "return4y": 39.611518688299526,
-    "return5y": 34.42283466303333,
+    "return3m": 48.25617987119982,
+    "return6m": 6.316689404864268,
+    "return9m": 14.631271096806387,
+    "return1y": 25.661888355836393,
+    "return2y": 42.32667653196227,
+    "return3y": 40.11160106984185,
+    "return4y": 35.678054314141995,
+    "return5y": 31.774196214823892,
     "return7y": null,
-    "return10y": 22.466145897989765,
+    "return10y": 21.59344021409045,
     "return_default": null,
     "mean_return": null,
     "sharpe_ratio": null,
@@ -885,6 +885,48 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.2,
+      "as_on_date": "2026-08-07T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.2,
+      "as_on_date": "2026-08-06T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.2,
+      "as_on_date": "2026-08-05T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.2,
+      "as_on_date": "2026-08-04T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.2,
+      "as_on_date": "2026-08-03T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.2,
+      "as_on_date": "2026-08-02T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.2,
+      "as_on_date": "2026-08-01T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 0.2,
       "as_on_date": "2026-07-31T00:00:00",
@@ -7421,15 +7463,15 @@
     "isTaxSaverFund": null,
     "min_age": null,
     "exit_age": null,
-    "max_amt": null,
+    "max_amt": 999999999.0,
     "days": null,
     "lump_sum_not_allowed_reason": null,
     "sip_not_allowed_reason": null,
     "redeem_not_allowed_reason": null,
     "max_age": null,
-    "max_lumpsum_amount": 1000000,
+    "max_lumpsum_amount": 999999999,
     "max_sip_amount": null,
-    "compliance_date": "2026-06-05"
+    "compliance_date": "2026-08-13"
   },
   "restricted_tax_statuses": null,
   "conditional_maximum_purchase_amount_details": null,

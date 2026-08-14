@@ -135,7 +135,7 @@
   "nfo_risk": "Moderately High Riskometer",
   "nfo_image_url": null,
   "meta_title": "HDFC Large Cap Fund Direct Growth - Groww",
-  "meta_desc": "HDFC Large Cap Fund Direct Growth is Large Cap Equity mutual fund with risk-reward rating of 4/10. It has track record of 13 years, with three year return of 11.41. Risk is Very High",
+  "meta_desc": "HDFC Large Cap Fund Direct Growth is Large Cap Equity mutual fund with risk-reward rating of 4/10. It has track record of 13 years, with three year return of 11.35. Risk is Very High",
   "meta_robots": "index",
   "amc": "HDFC",
   "scheme_code": "119018",
@@ -194,7 +194,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.079Z",
+    "launch_date": "1999-12-09T18:30:00.157Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -229,9 +229,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": 3.47,
-      "stat_3y": 11.41,
-      "stat_5y": 12.97,
+      "stat_1y": 2.86,
+      "stat_3y": 11.35,
+      "stat_5y": 12.75,
       "stat_all": 13.08,
       "title": "Fund Returns"
     },
@@ -245,7 +245,7 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 50,
+      "stat_1y": 49,
       "stat_3y": 43,
       "stat_5y": 16,
       "stat_all": null,
@@ -255,19 +255,19 @@
   "return_stats": [
     {
       "scheme_code": "119018",
-      "return1d": -0.02,
-      "return1w": -0.81,
-      "return1m": 1.03,
-      "return3m": 7.49,
-      "return6m": -2.59,
+      "return1d": -0.13,
+      "return1w": -0.97,
+      "return1m": 0.88,
+      "return3m": 7.4,
+      "return6m": -1.51,
       "return9m": null,
-      "return1y": 3.47,
+      "return1y": 2.86,
       "return2y": null,
-      "return3y": 11.41,
+      "return3y": 11.35,
       "return4y": null,
-      "return5y": 12.97,
+      "return5y": 12.75,
       "return7y": null,
-      "return10y": 12.99,
+      "return10y": 12.98,
       "return_default": 13.08,
       "mean_return": 11.05,
       "sharpe_ratio": 0.4056075183,
@@ -275,7 +275,7 @@
       "standard_deviation": 13.856106048363943,
       "risk_rating": 6,
       "risk": "Very High",
-      "return_since_created": 13.2700148879,
+      "return_since_created": 13.2567687028,
       "cat_return3m": 4.300861588216572,
       "cat_return6m": 1.334737936122353,
       "cat_return1y": 7.147399676288311,
@@ -283,9 +283,9 @@
       "cat_return5y": 14.963175625273163,
       "cat_return10y": 13.15689160055596,
       "cat_return_since_launch": null,
-      "rank3m": 37,
+      "rank3m": 32,
       "rank6m": 63,
-      "rank1yr": 50,
+      "rank1yr": 49,
       "rank3yr": 43,
       "rank5yr": 16,
       "rank10yr": 13,
@@ -975,8 +975,8 @@
       "stock_search_id": null
     }
   ],
-  "nav": 1249.478,
-  "nav_date": "12-Aug-2026",
+  "nav": 1247.915,
+  "nav_date": "13-Aug-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -1271,16 +1271,16 @@
     "return1d": null,
     "return1w": null,
     "return1m": null,
-    "return3m": 28.540810275416273,
-    "return6m": 19.002972228655736,
-    "return9m": 6.742517121481331,
-    "return1y": 4.342528991206389,
-    "return2y": 3.2327022449543317,
-    "return3y": 5.464245704861612,
-    "return4y": 9.209633306427861,
-    "return5y": 10.73401735518642,
+    "return3m": 26.414384332796914,
+    "return6m": 18.160318230416507,
+    "return9m": 6.327280082687015,
+    "return1y": 4.052896455609687,
+    "return2y": 3.094430408077825,
+    "return3y": 5.367898101458211,
+    "return4y": 9.132269810615226,
+    "return5y": 10.671285074422876,
     "return7y": null,
-    "return10y": 13.254443402440518,
+    "return10y": 13.224403018862125,
     "return_default": null,
     "mean_return": null,
     "sharpe_ratio": null,
@@ -1411,6 +1411,48 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 1.02,
+      "as_on_date": "2026-08-07T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.02,
+      "as_on_date": "2026-08-06T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.02,
+      "as_on_date": "2026-08-05T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.02,
+      "as_on_date": "2026-08-04T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.02,
+      "as_on_date": "2026-08-03T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.02,
+      "as_on_date": "2026-08-02T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.02,
+      "as_on_date": "2026-08-01T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 1.02,
       "as_on_date": "2026-07-31T00:00:00",
