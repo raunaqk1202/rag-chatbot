@@ -1,6 +1,6 @@
 SCHEME: HDFC Silver ETF FoF – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth
-SCRAPED: 2026-08-14T06:17:17.456106+00:00
+SCRAPED: 2026-08-15T05:29:39.857713+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -19,8 +19,8 @@ Risk Level: Very High
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹38.143
-Nav Date: 13-Aug-2026
+Nav: ₹38.1946
+Nav Date: 14-Aug-2026
 Aum: ₹4,282.39 Cr
 Expense Ratio: 0.22%
 Exit Load: Exit load of 1%, if redeemed within 15 days.
@@ -35,20 +35,20 @@ Stamp Duty: 0.005% (from July 1st, 2020)
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -2.21%
-  1 Week: 2.86%
-  1 Month: 6.39%
-  3 Months: -18.18%
-  6 Months: -5.0%
-  1 Year: 96.67%
-  3 Years: 46.42%
+  1 Day: 0.14%
+  1 Week: 0.35%
+  1 Month: 6.3%
+  3 Months: -18.28%
+  6 Months: -4.87%
+  1 Year: 97.7%
+  3 Years: 46.55%
 
 Category Average Returns:
   1 Year: 154.77%
   3 Years: 47.07%
 
 Category Rankings:
-  1 Year: Rank 7
+  1 Year: Rank 9
   3 Years: Rank 5
 
 Risk Metrics:
