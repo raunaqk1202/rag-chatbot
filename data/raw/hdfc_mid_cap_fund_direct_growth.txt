@@ -1,6 +1,6 @@
 SCHEME: HDFC Mid Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-SCRAPED: 2026-08-15T05:29:35.580561+00:00
+SCRAPED: 2026-08-16T05:31:19.901380+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -55,7 +55,7 @@ Category Average Returns:
   10 Years: 16.00%
 
 Category Rankings:
-  1 Year: Rank 20
+  1 Year: Rank 19
   3 Years: Rank 13
   5 Years: Rank 3
   10 Years: Rank 6

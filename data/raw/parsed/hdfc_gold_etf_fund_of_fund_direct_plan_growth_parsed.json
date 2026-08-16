@@ -50,7 +50,7 @@
       "category_rankings": {
         "1_year": "Rank 9",
         "3_years": "Rank 8",
-        "5_years": "Rank 6",
+        "5_years": "Rank 5",
         "10_years": "Rank 3"
       },
       "risk_metrics": {
@@ -112,7 +112,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-15T05:29:38.388589+00:00",
-  "fetched_at": "2026-08-15T05:29:38.387529+00:00",
+  "parse_timestamp": "2026-08-16T05:31:22.590000+00:00",
+  "fetched_at": "2026-08-16T05:31:22.589200+00:00",
   "http_status": 200
 }
