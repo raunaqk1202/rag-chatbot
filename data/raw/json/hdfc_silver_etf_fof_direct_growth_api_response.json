@@ -135,7 +135,7 @@
   "nfo_risk": "Very High",
   "nfo_image_url": null,
   "meta_title": "HDFC Silver ETF FoF Direct Growth - Groww",
-  "meta_desc": "HDFC Silver ETF FoF Direct Growth is Silver Commodities mutual fund with risk-reward rating of null/10. It has track record of 4 years, with three year return of 46.55. Risk is Very High",
+  "meta_desc": "HDFC Silver ETF FoF Direct Growth is Silver Commodities mutual fund with risk-reward rating of null/10. It has track record of 4 years, with three year return of 47.15. Risk is Very High",
   "meta_robots": "index",
   "amc": "HDFC",
   "scheme_code": "150737",
@@ -181,9 +181,17 @@
     },
     {
       "scheme_code": "150737",
+      "analysis_type": "PROS",
+      "analysis_subject": "p_return_analysis",
+      "analysis_desc": "3Y annualised returns higher than category average by 0.08%",
+      "analysis_data": "p_return_analysis",
+      "rating": null
+    },
+    {
+      "scheme_code": "150737",
       "analysis_type": "CONS",
       "analysis_subject": "c_return_analysis",
-      "analysis_desc": "Consistently lower annualised returns than category average for the past 1Y and 3Y",
+      "analysis_desc": "1Y annualised returns lower than category average by 56.01%",
       "analysis_data": "c_return_analysis",
       "rating": null
     }
@@ -194,7 +202,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.501Z",
+    "launch_date": "1999-12-09T18:30:00.880Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -229,8 +237,8 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": 97.7,
-      "stat_3y": 46.55,
+      "stat_1y": 98.76,
+      "stat_3y": 47.15,
       "stat_5y": null,
       "stat_all": null,
       "title": "Fund Returns"
@@ -255,15 +263,15 @@
   "return_stats": [
     {
       "scheme_code": "150737",
-      "return1d": 0.14,
-      "return1w": 0.35,
-      "return1m": 6.3,
-      "return3m": -18.28,
-      "return6m": -4.87,
+      "return1d": 1.1,
+      "return1w": 1.33,
+      "return1m": 9.19,
+      "return3m": -10.2,
+      "return6m": 1.75,
       "return9m": null,
-      "return1y": 97.7,
+      "return1y": 98.76,
       "return2y": null,
-      "return3y": 46.55,
+      "return3y": 47.15,
       "return4y": null,
       "return5y": null,
       "return7y": null,
@@ -275,7 +283,7 @@
       "standard_deviation": 22.931348482653195,
       "risk_rating": 6,
       "risk": "Very High",
-      "return_since_created": 42.6525827302,
+      "return_since_created": 42.9549361093,
       "cat_return3m": 58.69145719437917,
       "cat_return6m": 115.70517125986088,
       "cat_return1y": 154.77275140244063,
@@ -283,8 +291,8 @@
       "cat_return5y": null,
       "cat_return10y": null,
       "cat_return_since_launch": null,
-      "rank3m": 10,
-      "rank6m": 8,
+      "rank3m": 6,
+      "rank6m": 4,
       "rank1yr": 8,
       "rank3yr": 5,
       "rank5yr": null,
@@ -359,8 +367,8 @@
       "stock_search_id": null
     }
   ],
-  "nav": 38.1946,
-  "nav_date": "14-Aug-2026",
+  "nav": 38.6155,
+  "nav_date": "17-Aug-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
