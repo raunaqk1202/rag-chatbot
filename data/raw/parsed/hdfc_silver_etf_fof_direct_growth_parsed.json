@@ -15,8 +15,8 @@
       "risk_level": "Very High"
     },
     "fund_details": {
-      "nav": "₹38.6155",
-      "nav_date": "17-Aug-2026",
+      "nav": "₹38.2545",
+      "nav_date": "18-Aug-2026",
       "aum": "₹4,282.39 Cr",
       "expense_ratio": "0.22%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
@@ -28,20 +28,20 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "1.1%",
-        "1_week": "1.33%",
-        "1_month": "9.19%",
-        "3_months": "-10.2%",
-        "6_months": "1.75%",
-        "1_year": "98.76%",
-        "3_years": "47.15%"
+        "1_day": "-0.93%",
+        "1_week": "-0.47%",
+        "1_month": "8.17%",
+        "3_months": "-12.58%",
+        "6_months": "-1.11%",
+        "1_year": "99.36%",
+        "3_years": "46.36%"
       },
       "category_average_returns": {
         "1_year": "154.77%",
         "3_years": "47.07%"
       },
       "category_rankings": {
-        "1_year": "Rank 8",
+        "1_year": "Rank 7",
         "3_years": "Rank 5"
       },
       "risk_metrics": {
@@ -88,17 +88,16 @@
     },
     "analysis": {
       "pros": [
-        "Lower expense ratio: 0.22%",
-        "3Y annualised returns higher than category average by 0.08%"
+        "Lower expense ratio: 0.22%"
       ],
       "cons": [
-        "1Y annualised returns lower than category average by 56.01%"
+        "Consistently lower annualised returns than category average for the past 1Y and 3Y"
       ]
     }
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-18T05:33:42.606963+00:00",
-  "fetched_at": "2026-08-18T05:33:42.606101+00:00",
+  "parse_timestamp": "2026-08-19T05:34:32.568250+00:00",
+  "fetched_at": "2026-08-19T05:34:32.567354+00:00",
   "http_status": 200
 }
