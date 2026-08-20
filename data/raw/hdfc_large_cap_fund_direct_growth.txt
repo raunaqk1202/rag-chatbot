@@ -1,6 +1,6 @@
 SCHEME: HDFC Large Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-SCRAPED: 2026-08-19T05:34:26.572412+00:00
+SCRAPED: 2026-08-20T05:34:38.362522+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹1239.609
-Nav Date: 18-Aug-2026
+Nav: ₹1237.978
+Nav Date: 19-Aug-2026
 Aum: ₹40,197.89 Cr
 Expense Ratio: 1.02%
 Exit Load: Exit load of 1% if redeemed within 1 year
@@ -37,15 +37,15 @@ Portfolio Turnover: 18.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -0.47%
-  1 Week: -0.81%
-  1 Month: 0.04%
-  3 Months: 5.56%
-  6 Months: -3.32%
-  1 Year: 0.98%
-  3 Years: 11.27%
-  5 Years: 12.74%
-  10 Years: 12.8%
+  1 Day: -0.13%
+  1 Week: -0.92%
+  1 Month: -0.09%
+  3 Months: 5.63%
+  6 Months: -1.95%
+  1 Year: 0.24%
+  3 Years: 11.21%
+  5 Years: 12.7%
+  10 Years: 12.73%
   Since Inception: 13.08%
 
 Category Average Returns:
@@ -55,7 +55,7 @@ Category Average Returns:
   10 Years: 13.16%
 
 Category Rankings:
-  1 Year: Rank 48
+  1 Year: Rank 50
   3 Years: Rank 43
   5 Years: Rank 16
   10 Years: Rank 14
@@ -68,10 +68,10 @@ Risk Metrics:
   Sortino Ratio: 0.4916795776335732
 
 Sip Returns:
-  1 Year: 2.575937342424535%
-  3 Years: 4.863359823554539%
-  5 Years: 10.342555737790384%
-  10 Years: 13.066677284093025%
+  1 Year: 2.2959802637522277%
+  3 Years: 4.764968145556954%
+  5 Years: 10.278010145988537%
+  10 Years: 13.035568838529082%
 
 ============================================================
   RISK
