@@ -1,6 +1,6 @@
 SCHEME: HDFC Small Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-SCRAPED: 2026-08-21T05:35:54.969362+00:00
+SCRAPED: 2026-08-22T05:31:15.318824+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹161.266
-Nav Date: 20-Aug-2026
+Nav: ₹161.457
+Nav Date: 21-Aug-2026
 Aum: ₹41,679.00 Cr
 Expense Ratio: 0.75%
 Exit Load: Exit load of 1% if redeemed within 1 year
@@ -37,15 +37,15 @@ Portfolio Turnover: 6.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -0.06%
-  1 Week: -0.86%
-  1 Month: 0.26%
-  3 Months: 6.63%
-  6 Months: 5.11%
-  1 Year: -0.67%
-  3 Years: 12.82%
-  5 Years: 16.84%
-  10 Years: 17.92%
+  1 Day: 0.12%
+  1 Week: -0.51%
+  1 Month: 0.24%
+  3 Months: 5.99%
+  6 Months: 5.23%
+  1 Year: -0.59%
+  3 Years: 12.61%
+  5 Years: 16.86%
+  10 Years: 17.93%
   Since Inception: 16.3%
 
 Category Average Returns:
