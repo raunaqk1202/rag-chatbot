@@ -41,7 +41,7 @@
         "3_years": "47.07%"
       },
       "category_rankings": {
-        "1_year": "Rank 7",
+        "1_year": "Rank 8",
         "3_years": "Rank 5"
       },
       "risk_metrics": {
@@ -89,8 +89,7 @@
     "analysis": {
       "pros": [
         "Lower expense ratio: 0.22%",
-        "3Y annualised returns higher than category average by 1.59%",
-        "Consistently top ranked fund"
+        "3Y annualised returns higher than category average by 1.59%"
       ],
       "cons": [
         "1Y annualised returns lower than category average by 43.45%"
@@ -99,7 +98,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-23T05:32:30.707020+00:00",
-  "fetched_at": "2026-08-23T05:32:30.706031+00:00",
+  "parse_timestamp": "2026-08-24T05:41:19.023105+00:00",
+  "fetched_at": "2026-08-24T05:41:19.022262+00:00",
   "http_status": 200
 }
