@@ -1,6 +1,6 @@
 SCHEME: HDFC Large Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-SCRAPED: 2026-08-24T05:41:13.312809+00:00
+SCRAPED: 2026-08-25T05:35:06.184846+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,10 +20,10 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹1245.125
-Nav Date: 21-Aug-2026
+Nav: ₹1243.689
+Nav Date: 24-Aug-2026
 Aum: ₹40,197.89 Cr
-Expense Ratio: 1.03%
+Expense Ratio: 1.02%
 Exit Load: Exit load of 1% if redeemed within 1 year
 Min Sip Investment: ₹100
 Min Lumpsum Investment: ₹100
@@ -37,15 +37,15 @@ Portfolio Turnover: 18.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.04%
-  1 Week: -0.13%
-  1 Month: 0.56%
-  3 Months: 5.95%
-  6 Months: -1.71%
-  1 Year: 0.59%
-  3 Years: 11.23%
-  5 Years: 13.15%
-  10 Years: 12.79%
+  1 Day: -0.12%
+  1 Week: -0.14%
+  1 Month: 2.28%
+  3 Months: 5.52%
+  6 Months: -1.93%
+  1 Year: 1.09%
+  3 Years: 11.08%
+  5 Years: 12.9%
+  10 Years: 12.82%
   Since Inception: 13.08%
 
 Category Average Returns:
@@ -58,7 +58,7 @@ Category Rankings:
   1 Year: Rank 47
   3 Years: Rank 43
   5 Years: Rank 17
-  10 Years: Rank 14
+  10 Years: Rank 13
 
 Risk Metrics:
   Sharpe Ratio: 0.4056075183
@@ -68,10 +68,10 @@ Risk Metrics:
   Sortino Ratio: 0.4916795776335732
 
 Sip Returns:
-  1 Year: 3.4251267912601344%
-  3 Years: 5.138052421995301%
-  5 Years: 10.490039778427946%
-  10 Years: 13.131168844061792%
+  1 Year: 3.1418268773309403%
+  3 Years: 5.032359609632548%
+  5 Years: 10.410100654215954%
+  10 Years: 13.090468429734509%
 
 ============================================================
   RISK
@@ -149,7 +149,7 @@ Website: http://www.hdfcfund.com
 ============================================================
 
 Pros:
-  - Lower expense ratio: 1.03%
+  - Lower expense ratio: 1.02%
 
 Cons:
   - Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y
