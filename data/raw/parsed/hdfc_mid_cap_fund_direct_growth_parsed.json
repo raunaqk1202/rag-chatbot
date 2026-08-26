@@ -16,8 +16,8 @@
       "groww_rating": "5 out of 5"
     },
     "fund_details": {
-      "nav": "₹237.124",
-      "nav_date": "24-Aug-2026",
+      "nav": "₹237.629",
+      "nav_date": "25-Aug-2026",
       "aum": "₹105,142.69 Cr",
       "expense_ratio": "0.74%",
       "exit_load": "Exit load of 1% if redeemed within 1 year.",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.23%",
-        "1_week": "0.09%",
-        "1_month": "4.31%",
-        "3_months": "7.61%",
-        "6_months": "5.57%",
-        "1_year": "10.72%",
-        "3_years": "19.34%",
-        "5_years": "21.33%",
-        "10_years": "17.89%",
+        "1_day": "0.21%",
+        "1_week": "0.74%",
+        "1_month": "4.53%",
+        "3_months": "6.86%",
+        "6_months": "5.21%",
+        "1_year": "11.05%",
+        "3_years": "19.73%",
+        "5_years": "21.31%",
+        "10_years": "17.93%",
         "since_inception": "19.3%"
       },
       "category_average_returns": {
@@ -49,7 +49,7 @@
       },
       "category_rankings": {
         "1_year": "Rank 15",
-        "3_years": "Rank 13",
+        "3_years": "Rank 14",
         "5_years": "Rank 3",
         "10_years": "Rank 8"
       },
@@ -61,10 +61,10 @@
         "sortino_ratio": "1.0419741111415168"
       },
       "sip_returns": {
-        "1_year": "15.546545488533786%",
-        "3_years": "13.86044871597148%",
-        "5_years": "20.052540905477084%",
-        "10_years": "20.330539754860872%"
+        "1_year": "15.921990730841129%",
+        "3_years": "13.985053942507603%",
+        "5_years": "20.119897928957847%",
+        "10_years": "20.360593608233586%"
       }
     },
     "risk": {
@@ -138,7 +138,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-25T05:35:07.602560+00:00",
-  "fetched_at": "2026-08-25T05:35:07.601667+00:00",
+  "parse_timestamp": "2026-08-26T05:38:42.387228+00:00",
+  "fetched_at": "2026-08-26T05:38:42.386198+00:00",
   "http_status": 200
 }
