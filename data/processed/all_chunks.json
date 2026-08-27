@@ -6,31 +6,31 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "scheme_name": "HDFC Gold ETF Fund of Fund – Direct Growth",
       "section": "fund_overview",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 0,
       "word_count": 69
     }
   },
   {
     "id": "hdfc_gold_etf_fund_of_fund__fund_details",
-    "text": "HDFC Gold ETF Fund of Fund – Direct Growth: Fund Details. NAV: ₹50.0325. NAV Date: 25-Aug-2026. AUM: ₹11,197.05 Cr. Expense Ratio: 0.2%. Exit Load: Exit load of 1%, if redeemed within 15 days.. Minimum SIP Investment: ₹100. Minimum Lumpsum Investment: ₹100. Minimum Additional Investment: ₹100. Lock-in Period: No lock-in period. Stamp Duty: 0.005% (from July 1st, 2020). Portfolio Turnover: 1.0%.",
+    "text": "HDFC Gold ETF Fund of Fund – Direct Growth: Fund Details. NAV: ₹49.9008. NAV Date: 26-Aug-2026. AUM: ₹11,197.05 Cr. Expense Ratio: 0.2%. Exit Load: Exit load of 1%, if redeemed within 15 days.. Minimum SIP Investment: ₹100. Minimum Lumpsum Investment: ₹100. Minimum Additional Investment: ₹100. Lock-in Period: No lock-in period. Stamp Duty: 0.005% (from July 1st, 2020). Portfolio Turnover: 1.0%.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "scheme_name": "HDFC Gold ETF Fund of Fund – Direct Growth",
       "section": "fund_details",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 1,
       "word_count": 60
     }
   },
   {
     "id": "hdfc_gold_etf_fund_of_fund__returns",
-    "text": "HDFC Gold ETF Fund of Fund – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: -0.32%, 1 Week: 4.88%, 1 Month: 12.55%, 3 Months: 1.65%, 6 Months: 0.7%, 1 Year: 58.77%, 3 Years: 38.3%, 5 Years: 26.42%, 10 Years: 16.75%, Since Inception: 10.83%. Category Average Returns: 1 Year: 76.00%, 3 Years: 34.07%, 5 Years: 20.95%, 10 Years: 17.04%. Category Rankings: 1 Year: Rank 7, 3 Years: Rank 7, 5 Years: Rank 5, 10 Years: Rank 3. Risk Metrics: Sharpe Ratio: 1.3116957447, Beta: 0.90412719998247, Alpha: 0.76921270698329, Standard Deviation: 18.34487881208876, Sortino Ratio: 2.127123679268882. SIP Returns: 1 Year: 24.899748899876005%, 3 Years: 39.83802151481135%, 5 Years: 31.634587139691728%, 10 Years: 21.53733561197689%.",
+    "text": "HDFC Gold ETF Fund of Fund – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: -0.26%, 1 Week: 5.12%, 1 Month: 12.25%, 3 Months: 2.03%, 6 Months: 1.28%, 1 Year: 57.78%, 3 Years: 38.14%, 5 Years: 26.5%, 10 Years: 16.7%, Since Inception: 10.83%. Category Average Returns: 1 Year: 76.00%, 3 Years: 34.07%, 5 Years: 20.95%, 10 Years: 17.04%. Category Rankings: 1 Year: Rank 9, 3 Years: Rank 8, 5 Years: Rank 5, 10 Years: Rank 3. Risk Metrics: Sharpe Ratio: 1.3116957447, Beta: 0.90412719998247, Alpha: 0.76921270698329, Standard Deviation: 18.34487881208876, Sortino Ratio: 2.127123679268882. SIP Returns: 1 Year: 24.899748899876005%, 3 Years: 39.83802151481135%, 5 Years: 31.634587139691728%, 10 Years: 21.53733561197689%.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "scheme_name": "HDFC Gold ETF Fund of Fund – Direct Growth",
       "section": "returns",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 2,
       "word_count": 107
     }
@@ -42,21 +42,21 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "scheme_name": "HDFC Gold ETF Fund of Fund – Direct Growth",
       "section": "risk_and_benchmark",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 3,
       "word_count": 31
     }
   },
   {
     "id": "hdfc_gold_etf_fund_of_fund__holdings",
-    "text": "HDFC Gold ETF Fund of Fund – Direct Growth: Portfolio Holdings. Asset Allocation: Cash: 0.01%. Portfolio Date: 2026-06-29. Total Holdings: 0.",
+    "text": "HDFC Gold ETF Fund of Fund – Direct Growth: Portfolio Holdings. Portfolio Date: 2026-07-30. Total Holdings: 0.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "scheme_name": "HDFC Gold ETF Fund of Fund – Direct Growth",
       "section": "holdings",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 4,
-      "word_count": 21
+      "word_count": 17
     }
   },
   {
@@ -66,7 +66,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "scheme_name": "HDFC Gold ETF Fund of Fund – Direct Growth",
       "section": "tax",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 5,
       "word_count": 39
     }
@@ -78,7 +78,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "scheme_name": "HDFC Gold ETF Fund of Fund – Direct Growth",
       "section": "fund_management",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 6,
       "word_count": 79
     }
@@ -90,7 +90,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "scheme_name": "HDFC Gold ETF Fund of Fund – Direct Growth",
       "section": "amc_info",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 7,
       "word_count": 31
     }
@@ -102,7 +102,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "scheme_name": "HDFC Gold ETF Fund of Fund – Direct Growth",
       "section": "analysis",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 8,
       "word_count": 38
     }
@@ -114,31 +114,31 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "fund_overview",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 0,
       "word_count": 63
     }
   },
   {
     "id": "hdfc_large_cap_fund__fund_details",
-    "text": "HDFC Large Cap Fund – Direct Growth: Fund Details. NAV: ₹1249.864. NAV Date: 25-Aug-2026. AUM: ₹40,197.89 Cr. Expense Ratio: 1.02%. Exit Load: Exit load of 1% if redeemed within 1 year. Minimum SIP Investment: ₹100. Minimum Lumpsum Investment: ₹100. Minimum Additional Investment: ₹100. Lock-in Period: No lock-in period. Stamp Duty: 0.005% (from July 1st, 2020). Portfolio Turnover: 18.0%.",
+    "text": "HDFC Large Cap Fund – Direct Growth: Fund Details. NAV: ₹1247.076. NAV Date: 26-Aug-2026. AUM: ₹40,197.89 Cr. Expense Ratio: 1.02%. Exit Load: Exit load of 1% if redeemed within 1 year. Minimum SIP Investment: ₹100. Minimum Lumpsum Investment: ₹100. Minimum Additional Investment: ₹100. Lock-in Period: No lock-in period. Stamp Duty: 0.005% (from July 1st, 2020). Portfolio Turnover: 18.0%.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "fund_details",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 1,
       "word_count": 58
     }
   },
   {
     "id": "hdfc_large_cap_fund__returns",
-    "text": "HDFC Large Cap Fund – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: 0.5%, 1 Week: 0.83%, 1 Month: 2.79%, 3 Months: 4.61%, 6 Months: -1.69%, 1 Year: 1.33%, 3 Years: 11.53%, 5 Years: 12.96%, 10 Years: 12.95%, Since Inception: 13.08%. Category Average Returns: 1 Year: 7.15%, 3 Years: 15.07%, 5 Years: 14.96%, 10 Years: 13.16%. Category Rankings: 1 Year: Rank 48, 3 Years: Rank 43, 5 Years: Rank 17, 10 Years: Rank 13. Risk Metrics: Sharpe Ratio: 0.4056075183, Beta: 0.94817686596274, Alpha: 0.80461356711293, Standard Deviation: 13.856106048363943, Sortino Ratio: 0.4916795776335732. SIP Returns: 1 Year: 4.103334749907239%, 3 Years: 5.357205571673333%, 5 Years: 10.599526560420605%, 10 Years: 13.177075555937057%.",
+    "text": "HDFC Large Cap Fund – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: -0.22%, 1 Week: 0.73%, 1 Month: 2.56%, 3 Months: 4.93%, 6 Months: -2.18%, 1 Year: 2.22%, 3 Years: 11.43%, 5 Years: 12.96%, 10 Years: 12.97%, Since Inception: 13.08%. Category Average Returns: 1 Year: 7.15%, 3 Years: 15.07%, 5 Years: 14.96%, 10 Years: 13.16%. Category Rankings: 1 Year: Rank 48, 3 Years: Rank 43, 5 Years: Rank 17, 10 Years: Rank 12. Risk Metrics: Sharpe Ratio: 0.4056075183, Beta: 0.94817686596274, Alpha: 0.80461356711293, Standard Deviation: 13.856106048363943, Sortino Ratio: 0.4916795776335732. SIP Returns: 1 Year: 3.641962086980527%, 3 Years: 5.197224535923385%, 5 Years: 10.498090725560955%, 10 Years: 13.128835311137282%.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "returns",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 2,
       "word_count": 105
     }
@@ -150,19 +150,19 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "risk_and_benchmark",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 3,
       "word_count": 34
     }
   },
   {
     "id": "hdfc_large_cap_fund__holdings",
-    "text": "HDFC Large Cap Fund – Direct Growth: Portfolio Holdings. Top 10 Holdings: ICICI Bank Ltd: 9.73% (Financial); HDFC Bank Ltd: 7.92% (Financial); Bharti Airtel Ltd: 5.66% (Technology); Kotak Mahindra Bank Ltd: 5.46% (Financial); Reliance Industries Ltd: 4.96% (Energy & Utilities); Titan Company Ltd: 4.65% (Consumer Discretionary); Torrent Pharmaceuticals Ltd: 3.77% (Healthcare); Axis Bank Ltd: 3.69% (Financial); Bajaj Finserv Ltd: 3.0% (Financial); Lupin Ltd: 2.86% (Healthcare). Asset Allocation: Equity: 96.76%, Debt: 0.50%, Cash: 2.74%. Sector Allocation: Financial: 38.37%, Consumer Discretionary: 12.51%, Technology: 11.33%, Healthcare: 10.33%, Industrials: 8.01%, Energy & Utilities: 7.00%, Consumer Staples: 5.27%, Materials: 3.60%, Real Estate: 0.34%. Portfolio Date: 2026-06-29. Total Holdings: 44.",
+    "text": "HDFC Large Cap Fund – Direct Growth: Portfolio Holdings. Top 10 Holdings: ICICI Bank Ltd: 9.86% (Financial); HDFC Bank Ltd: 7.21% (Financial); Bharti Airtel Ltd: 5.85% (Technology); Kotak Mahindra Bank Ltd: 5.28% (Financial); Titan Company Ltd: 5.0% (Consumer Discretionary); Reliance Industries Ltd: 4.86% (Energy & Utilities); Torrent Pharmaceuticals Ltd: 4.05% (Healthcare); Bajaj Finserv Ltd: 3.32% (Financial); Axis Bank Ltd: 3.28% (Financial); Lupin Ltd: 2.77% (Healthcare). Asset Allocation: Equity: 96.26%, Debt: 0.48%, Cash: 3.26%. Sector Allocation: Financial: 37.69%, Consumer Discretionary: 12.69%, Technology: 12.17%, Healthcare: 10.31%, Industrials: 7.54%, Energy & Utilities: 6.79%, Consumer Staples: 5.19%, Materials: 3.53%, Real Estate: 0.35%. Portfolio Date: 2026-07-30. Total Holdings: 45.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "holdings",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 4,
       "word_count": 104
     }
@@ -174,7 +174,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "tax",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 5,
       "word_count": 65
     }
@@ -186,7 +186,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "fund_management",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 6,
       "word_count": 102
     }
@@ -198,7 +198,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "amc_info",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 7,
       "word_count": 29
     }
@@ -210,7 +210,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "analysis",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 8,
       "word_count": 33
     }
@@ -222,31 +222,31 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "fund_overview",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 0,
       "word_count": 63
     }
   },
   {
     "id": "hdfc_mid_cap_fund__fund_details",
-    "text": "HDFC Mid Cap Fund – Direct Growth: Fund Details. NAV: ₹237.629. NAV Date: 25-Aug-2026. AUM: ₹105,142.69 Cr. Expense Ratio: 0.74%. Exit Load: Exit load of 1% if redeemed within 1 year.. Minimum SIP Investment: ₹100. Minimum Lumpsum Investment: ₹100. Minimum Additional Investment: ₹100. Lock-in Period: No lock-in period. Stamp Duty: 0.005% (from July 1st, 2020). Portfolio Turnover: 13.0%.",
+    "text": "HDFC Mid Cap Fund – Direct Growth: Fund Details. NAV: ₹237.356. NAV Date: 26-Aug-2026. AUM: ₹105,142.69 Cr. Expense Ratio: 0.74%. Exit Load: Exit load of 1% if redeemed within 1 year.. Minimum SIP Investment: ₹100. Minimum Lumpsum Investment: ₹100. Minimum Additional Investment: ₹100. Lock-in Period: No lock-in period. Stamp Duty: 0.005% (from July 1st, 2020). Portfolio Turnover: 13.0%.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "fund_details",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 1,
       "word_count": 58
     }
   },
   {
     "id": "hdfc_mid_cap_fund__returns",
-    "text": "HDFC Mid Cap Fund – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: 0.21%, 1 Week: 0.74%, 1 Month: 4.53%, 3 Months: 6.86%, 6 Months: 5.21%, 1 Year: 11.05%, 3 Years: 19.73%, 5 Years: 21.31%, 10 Years: 17.93%, Since Inception: 19.3%. Category Average Returns: 1 Year: 1.96%, 3 Years: 21.62%, 5 Years: 21.53%, 10 Years: 16.00%. Category Rankings: 1 Year: Rank 15, 3 Years: Rank 14, 5 Years: Rank 3, 10 Years: Rank 8. Risk Metrics: Sharpe Ratio: 0.8730800194, Beta: 0.83806035371737, Alpha: 2.97500899847228, Standard Deviation: 15.352515265279067, Sortino Ratio: 1.0419741111415168. SIP Returns: 1 Year: 15.921990730841129%, 3 Years: 13.985053942507603%, 5 Years: 20.119897928957847%, 10 Years: 20.360593608233586%.",
+    "text": "HDFC Mid Cap Fund – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: -0.11%, 1 Week: 0.78%, 1 Month: 4.41%, 3 Months: 6.37%, 6 Months: 4.65%, 1 Year: 12.11%, 3 Years: 19.66%, 5 Years: 21.21%, 10 Years: 17.9%, Since Inception: 19.3%. Category Average Returns: 1 Year: 1.96%, 3 Years: 21.62%, 5 Years: 21.53%, 10 Years: 16.00%. Category Rankings: 1 Year: Rank 16, 3 Years: Rank 14, 5 Years: Rank 3, 10 Years: Rank 7. Risk Metrics: Sharpe Ratio: 0.8730800194, Beta: 0.83806035371737, Alpha: 2.97500899847228, Standard Deviation: 15.352515265279067, Sortino Ratio: 1.0419741111415168. SIP Returns: 1 Year: 15.586645221644035%, 3 Years: 13.879165846576758%, 5 Years: 20.051568515668578%, 10 Years: 20.329868946336354%.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "returns",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 2,
       "word_count": 105
     }
@@ -258,21 +258,21 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "risk_and_benchmark",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 3,
       "word_count": 35
     }
   },
   {
     "id": "hdfc_mid_cap_fund__holdings",
-    "text": "HDFC Mid Cap Fund – Direct Growth: Portfolio Holdings. Top 10 Holdings: The Federal Bank Ltd: 4.18% (Financial); Max Financial Services Ltd: 4.1% (Financial); AU Small Finance Bank Ltd: 4.08% (Financial); Balkrishna Industries Ltd: 3.1% (Consumer Discretionary); Fortis Healthcare Ltd: 3.07% (Healthcare); Ipca Laboratories Ltd: 3.05% (Healthcare); Indian Bank: 2.98% (Financial); Glenmark Pharmaceuticals Ltd: 2.93% (Healthcare); Vishal Mega Mart Ltd.: 2.64% (Consumer Staples); Cummins India Ltd: 2.52% (Industrials). Asset Allocation: Equity: 92.06%, Cash: 7.94%. Sector Allocation: Financial: 26.88%, Healthcare: 14.84%, Consumer Discretionary: 11.99%, Technology: 10.50%, Consumer Staples: 9.60%, Industrials: 9.52%, Materials: 5.15%, Energy & Utilities: 3.11%, Diversified: 0.47%. Portfolio Date: 2026-06-29. Total Holdings: 76.",
+    "text": "HDFC Mid Cap Fund – Direct Growth: Portfolio Holdings. Top 10 Holdings: The Federal Bank Ltd: 4.36% (Financial); AU Small Finance Bank Ltd: 3.96% (Financial); Max Financial Services Ltd: 3.72% (Financial); Balkrishna Industries Ltd: 3.37% (Consumer Discretionary); Ipca Laboratories Ltd: 3.01% (Healthcare); Indian Bank: 2.93% (Financial); Fortis Healthcare Ltd: 2.91% (Healthcare); Glenmark Pharmaceuticals Ltd: 2.85% (Healthcare); Coforge Ltd: 2.56% (Technology); Marico Ltd: 2.51% (Consumer Staples). Asset Allocation: Equity: 93.08%, Cash: 6.94%. Sector Allocation: Financial: 27.26%, Healthcare: 14.37%, Consumer Discretionary: 13.07%, Technology: 11.27%, Consumer Staples: 9.67%, Industrials: 8.63%, Materials: 5.21%, Energy & Utilities: 3.20%, Diversified: 0.40%. Portfolio Date: 2026-07-30. Total Holdings: 79.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "holdings",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 4,
-      "word_count": 104
+      "word_count": 101
     }
   },
   {
@@ -282,7 +282,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "tax",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 5,
       "word_count": 65
     }
@@ -294,7 +294,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "fund_management",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 6,
       "word_count": 89
     }
@@ -306,7 +306,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "amc_info",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 7,
       "word_count": 29
     }
@@ -318,7 +318,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "analysis",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 8,
       "word_count": 60
     }
@@ -330,31 +330,31 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
       "scheme_name": "HDFC Silver ETF FoF – Direct Growth",
       "section": "fund_overview",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 0,
       "word_count": 58
     }
   },
   {
     "id": "hdfc_silver_etf_fof__fund_details",
-    "text": "HDFC Silver ETF FoF – Direct Growth: Fund Details. NAV: ₹39.4924. NAV Date: 25-Aug-2026. AUM: ₹4,282.39 Cr. Expense Ratio: 0.22%. Exit Load: Exit load of 1%, if redeemed within 15 days.. Minimum SIP Investment: ₹100. Minimum Lumpsum Investment: ₹100. Minimum Additional Investment: ₹100. Lock-in Period: No lock-in period. Stamp Duty: 0.005% (from July 1st, 2020).",
+    "text": "HDFC Silver ETF FoF – Direct Growth: Fund Details. NAV: ₹39.7306. NAV Date: 26-Aug-2026. AUM: ₹4,282.39 Cr. Expense Ratio: 0.22%. Exit Load: Exit load of 1%, if redeemed within 15 days.. Minimum SIP Investment: ₹100. Minimum Lumpsum Investment: ₹100. Minimum Additional Investment: ₹100. Lock-in Period: No lock-in period. Stamp Duty: 0.005% (from July 1st, 2020).",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
       "scheme_name": "HDFC Silver ETF FoF – Direct Growth",
       "section": "fund_details",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 1,
       "word_count": 55
     }
   },
   {
     "id": "hdfc_silver_etf_fof__returns",
-    "text": "HDFC Silver ETF FoF – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: -1.29%, 1 Week: 3.24%, 1 Month: 8.5%, 3 Months: -10.8%, 6 Months: -9.76%, 1 Year: 101.99%, 3 Years: 46.01%. Category Average Returns: 1 Year: 154.77%, 3 Years: 47.07%. Category Rankings: 1 Year: Rank 10, 3 Years: Rank 6. Risk Metrics: Sharpe Ratio: 1.1799402077, Beta: 0.9739075785654, Alpha: -0.8860469666793, Standard Deviation: 22.931348482653195, Sortino Ratio: 2.7084629411633165. SIP Returns: 1 Year: 155.93696128788386%, 3 Years: 76.37916771903399%.",
+    "text": "HDFC Silver ETF FoF – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: 0.6%, 1 Week: 6.33%, 1 Month: 9.15%, 3 Months: -8.42%, 6 Months: -6.62%, 1 Year: 103.88%, 3 Years: 46.25%. Category Average Returns: 1 Year: 154.77%, 3 Years: 47.07%. Category Rankings: 1 Year: Rank 10, 3 Years: Rank 5. Risk Metrics: Sharpe Ratio: 1.1799402077, Beta: 0.9739075785654, Alpha: -0.8860469666793, Standard Deviation: 22.931348482653195, Sortino Ratio: 2.7084629411633165. SIP Returns: 1 Year: 155.93696128788386%, 3 Years: 76.37916771903399%.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
       "scheme_name": "HDFC Silver ETF FoF – Direct Growth",
       "section": "returns",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 2,
       "word_count": 76
     }
@@ -366,19 +366,19 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
       "scheme_name": "HDFC Silver ETF FoF – Direct Growth",
       "section": "risk_and_benchmark",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 3,
       "word_count": 29
     }
   },
   {
     "id": "hdfc_silver_etf_fof__holdings",
-    "text": "HDFC Silver ETF FoF – Direct Growth: Portfolio Holdings. Portfolio Date: 2026-06-29. Total Holdings: 0.",
+    "text": "HDFC Silver ETF FoF – Direct Growth: Portfolio Holdings. Portfolio Date: 2026-07-30. Total Holdings: 0.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
       "scheme_name": "HDFC Silver ETF FoF – Direct Growth",
       "section": "holdings",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 4,
       "word_count": 15
     }
@@ -390,7 +390,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
       "scheme_name": "HDFC Silver ETF FoF – Direct Growth",
       "section": "tax",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 5,
       "word_count": 37
     }
@@ -402,7 +402,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
       "scheme_name": "HDFC Silver ETF FoF – Direct Growth",
       "section": "fund_management",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 6,
       "word_count": 77
     }
@@ -414,7 +414,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
       "scheme_name": "HDFC Silver ETF FoF – Direct Growth",
       "section": "amc_info",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 7,
       "word_count": 29
     }
@@ -426,7 +426,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
       "scheme_name": "HDFC Silver ETF FoF – Direct Growth",
       "section": "analysis",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 8,
       "word_count": 31
     }
@@ -438,31 +438,31 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "fund_overview",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 0,
       "word_count": 64
     }
   },
   {
     "id": "hdfc_small_cap_fund__fund_details",
-    "text": "HDFC Small Cap Fund – Direct Growth: Fund Details. NAV: ₹160.558. NAV Date: 25-Aug-2026. AUM: ₹41,679.00 Cr. Expense Ratio: 0.75%. Exit Load: Exit load of 1% if redeemed within 1 year. Minimum SIP Investment: ₹100. Minimum Lumpsum Investment: ₹100. Minimum Additional Investment: ₹100. Lock-in Period: No lock-in period. Stamp Duty: 0.005% (from July 1st, 2020). Portfolio Turnover: 6.0%.",
+    "text": "HDFC Small Cap Fund – Direct Growth: Fund Details. NAV: ₹160.946. NAV Date: 26-Aug-2026. AUM: ₹41,679.00 Cr. Expense Ratio: 0.75%. Exit Load: Exit load of 1% if redeemed within 1 year. Minimum SIP Investment: ₹100. Minimum Lumpsum Investment: ₹100. Minimum Additional Investment: ₹100. Lock-in Period: No lock-in period. Stamp Duty: 0.005% (from July 1st, 2020). Portfolio Turnover: 6.0%.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "fund_details",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 1,
       "word_count": 58
     }
   },
   {
     "id": "hdfc_small_cap_fund__returns",
-    "text": "HDFC Small Cap Fund – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: -0.1%, 1 Week: -0.75%, 1 Month: 1.85%, 3 Months: 4.37%, 6 Months: 4.16%, 1 Year: -0.78%, 3 Years: 12.06%, 5 Years: 16.56%, 10 Years: 17.81%, Since Inception: 16.3%. Category Average Returns: 1 Year: -6.29%, 3 Years: 19.70%, 5 Years: 22.63%, 10 Years: 16.07%. Category Rankings: 1 Year: Rank 44, 3 Years: Rank 34, 5 Years: Rank 18, 10 Years: Rank 5. Risk Metrics: Sharpe Ratio: 0.4410996838, Beta: 0.77832914521962, Alpha: -0.58795685227368, Standard Deviation: 17.513600414128888, Sortino Ratio: 0.6140450586719256. SIP Returns: 1 Year: -5.720716096477582%, 3 Years: 5.1143912745794395%, 5 Years: 13.47639943507163%, 10 Years: 18.150044629831115%.",
+    "text": "HDFC Small Cap Fund – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: 0.24%, 1 Week: -0.25%, 1 Month: 2.09%, 3 Months: 4.56%, 6 Months: 4.18%, 1 Year: 0.57%, 3 Years: 12.14%, 5 Years: 16.62%, 10 Years: 17.87%, Since Inception: 16.3%. Category Average Returns: 1 Year: -6.29%, 3 Years: 19.70%, 5 Years: 22.63%, 10 Years: 16.07%. Category Rankings: 1 Year: Rank 44, 3 Years: Rank 34, 5 Years: Rank 18, 10 Years: Rank 5. Risk Metrics: Sharpe Ratio: 0.4410996838, Beta: 0.77832914521962, Alpha: -0.58795685227368, Standard Deviation: 17.513600414128888, Sortino Ratio: 0.6140450586719256. SIP Returns: 1 Year: -5.720716096477582%, 3 Years: 5.1143912745794395%, 5 Years: 13.47639943507163%, 10 Years: 18.150044629831115%.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "returns",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 2,
       "word_count": 105
     }
@@ -474,21 +474,21 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "risk_and_benchmark",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 3,
       "word_count": 36
     }
   },
   {
     "id": "hdfc_small_cap_fund__holdings",
-    "text": "HDFC Small Cap Fund – Direct Growth: Portfolio Holdings. Top 10 Holdings: Aster DM Healthcare Ltd: 3.83% (Healthcare); Firstsource Solutions Ltd: 3.31% (Industrials); Bank Of Baroda: 3.16% (Financial); Gabriel India Ltd: 3.0% (Consumer Discretionary); Eris Lifesciences Ltd: 2.33% (Healthcare); Krishna Institute Of Medical Sciences Ltd: 2.24% (Healthcare); Fortis Healthcare Ltd: 2.24% (Healthcare); eClerx Services Ltd: 2.1% (Technology); Apar Industries Ltd: 1.96% (Diversified); Indian Bank: 1.96% (Financial). Asset Allocation: Equity: 89.84%, Cash: 10.16%. Sector Allocation: Industrials: 22.24%, Consumer Discretionary: 19.52%, Financial: 12.77%, Healthcare: 12.32%, Materials: 7.78%, Technology: 5.77%, Consumer Staples: 5.18%, Diversified: 2.60%, Energy & Utilities: 1.66%. Portfolio Date: 2026-06-29. Total Holdings: 83.",
+    "text": "HDFC Small Cap Fund – Direct Growth: Portfolio Holdings. Top 10 Holdings: Firstsource Solutions Ltd: 4.24% (Industrials); Aster DM Healthcare Ltd: 3.89% (Healthcare); Gabriel India Ltd: 3.34% (Consumer Discretionary); eClerx Services Ltd: 2.85% (Technology); Bank Of Baroda: 2.73% (Financial); Krishna Institute Of Medical Sciences Ltd: 2.15% (Healthcare); Eris Lifesciences Ltd: 2.1% (Healthcare); Fortis Healthcare Ltd: 1.99% (Healthcare); Indian Bank: 1.94% (Financial); The Federal Bank Ltd: 1.79% (Financial). Asset Allocation: Equity: 90.02%, Cash: 9.98%. Sector Allocation: Industrials: 22.07%, Consumer Discretionary: 19.98%, Healthcare: 12.34%, Financial: 12.27%, Materials: 7.60%, Technology: 7.18%, Consumer Staples: 4.93%, Diversified: 2.18%, Energy & Utilities: 1.47%. Portfolio Date: 2026-07-30. Total Holdings: 84.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "holdings",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 4,
-      "word_count": 102
+      "word_count": 103
     }
   },
   {
@@ -498,7 +498,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "tax",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 5,
       "word_count": 65
     }
@@ -510,7 +510,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "fund_management",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 6,
       "word_count": 89
     }
@@ -522,7 +522,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "amc_info",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 7,
       "word_count": 29
     }
@@ -534,7 +534,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "analysis",
-      "scrape_date": "2026-08-26",
+      "scrape_date": "2026-08-27",
       "chunk_index": 8,
       "word_count": 36
     }

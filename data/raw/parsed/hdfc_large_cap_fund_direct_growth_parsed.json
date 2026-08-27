@@ -16,8 +16,8 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹1249.864",
-      "nav_date": "25-Aug-2026",
+      "nav": "₹1247.076",
+      "nav_date": "26-Aug-2026",
       "aum": "₹40,197.89 Cr",
       "expense_ratio": "1.02%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.5%",
-        "1_week": "0.83%",
-        "1_month": "2.79%",
-        "3_months": "4.61%",
-        "6_months": "-1.69%",
-        "1_year": "1.33%",
-        "3_years": "11.53%",
+        "1_day": "-0.22%",
+        "1_week": "0.73%",
+        "1_month": "2.56%",
+        "3_months": "4.93%",
+        "6_months": "-2.18%",
+        "1_year": "2.22%",
+        "3_years": "11.43%",
         "5_years": "12.96%",
-        "10_years": "12.95%",
+        "10_years": "12.97%",
         "since_inception": "13.08%"
       },
       "category_average_returns": {
@@ -51,7 +51,7 @@
         "1_year": "Rank 48",
         "3_years": "Rank 43",
         "5_years": "Rank 17",
-        "10_years": "Rank 13"
+        "10_years": "Rank 12"
       },
       "risk_metrics": {
         "sharpe_ratio": "0.4056075183",
@@ -61,10 +61,10 @@
         "sortino_ratio": "0.4916795776335732"
       },
       "sip_returns": {
-        "1_year": "4.103334749907239%",
-        "3_years": "5.357205571673333%",
-        "5_years": "10.599526560420605%",
-        "10_years": "13.177075555937057%"
+        "1_year": "3.641962086980527%",
+        "3_years": "5.197224535923385%",
+        "5_years": "10.498090725560955%",
+        "10_years": "13.128835311137282%"
       }
     },
     "risk": {
@@ -79,35 +79,35 @@
     },
     "holdings": {
       "top_10_holdings": [
-        "ICICI Bank Ltd: 9.73% (Financial)",
-        "HDFC Bank Ltd: 7.92% (Financial)",
-        "Bharti Airtel Ltd: 5.66% (Technology)",
-        "Kotak Mahindra Bank Ltd: 5.46% (Financial)",
-        "Reliance Industries Ltd: 4.96% (Energy & Utilities)",
-        "Titan Company Ltd: 4.65% (Consumer Discretionary)",
-        "Torrent Pharmaceuticals Ltd: 3.77% (Healthcare)",
-        "Axis Bank Ltd: 3.69% (Financial)",
-        "Bajaj Finserv Ltd: 3.0% (Financial)",
-        "Lupin Ltd: 2.86% (Healthcare)"
+        "ICICI Bank Ltd: 9.86% (Financial)",
+        "HDFC Bank Ltd: 7.21% (Financial)",
+        "Bharti Airtel Ltd: 5.85% (Technology)",
+        "Kotak Mahindra Bank Ltd: 5.28% (Financial)",
+        "Titan Company Ltd: 5.0% (Consumer Discretionary)",
+        "Reliance Industries Ltd: 4.86% (Energy & Utilities)",
+        "Torrent Pharmaceuticals Ltd: 4.05% (Healthcare)",
+        "Bajaj Finserv Ltd: 3.32% (Financial)",
+        "Axis Bank Ltd: 3.28% (Financial)",
+        "Lupin Ltd: 2.77% (Healthcare)"
       ],
       "asset_allocation": {
-        "equity": "96.76%",
-        "debt": "0.50%",
-        "cash": "2.74%"
+        "equity": "96.26%",
+        "debt": "0.48%",
+        "cash": "3.26%"
       },
       "sector_allocation": {
-        "Financial": "38.37%",
-        "Consumer Discretionary": "12.51%",
-        "Technology": "11.33%",
-        "Healthcare": "10.33%",
-        "Industrials": "8.01%",
-        "Energy & Utilities": "7.00%",
-        "Consumer Staples": "5.27%",
-        "Materials": "3.60%",
-        "Real Estate": "0.34%"
+        "Financial": "37.69%",
+        "Consumer Discretionary": "12.69%",
+        "Technology": "12.17%",
+        "Healthcare": "10.31%",
+        "Industrials": "7.54%",
+        "Energy & Utilities": "6.79%",
+        "Consumer Staples": "5.19%",
+        "Materials": "3.53%",
+        "Real Estate": "0.35%"
       },
-      "portfolio_date": "2026-06-29",
-      "total_holdings": "44"
+      "portfolio_date": "2026-07-30",
+      "total_holdings": "45"
     },
     "tax": {
       "tax_implications": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
@@ -137,7 +137,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-26T05:38:41.058346+00:00",
-  "fetched_at": "2026-08-26T05:38:41.057304+00:00",
+  "parse_timestamp": "2026-08-27T16:13:11.733915+00:00",
+  "fetched_at": "2026-08-27T16:13:11.732854+00:00",
   "http_status": 200
 }

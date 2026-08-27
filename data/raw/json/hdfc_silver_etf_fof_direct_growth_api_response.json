@@ -135,7 +135,7 @@
   "nfo_risk": "Very High",
   "nfo_image_url": null,
   "meta_title": "HDFC Silver ETF FoF Direct Growth - Groww",
-  "meta_desc": "HDFC Silver ETF FoF Direct Growth is Silver Commodities mutual fund with risk-reward rating of null/10. It has track record of 4 years, with three year return of 46.01. Risk is Very High",
+  "meta_desc": "HDFC Silver ETF FoF Direct Growth is Silver Commodities mutual fund with risk-reward rating of null/10. It has track record of 4 years, with three year return of 46.25. Risk is Very High",
   "meta_robots": "index",
   "amc": "HDFC",
   "scheme_code": "150737",
@@ -194,7 +194,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.971Z",
+    "launch_date": "1999-12-09T18:30:00.911Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -229,8 +229,8 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": 101.99,
-      "stat_3y": 46.01,
+      "stat_1y": 103.88,
+      "stat_3y": 46.25,
       "stat_5y": null,
       "stat_all": null,
       "title": "Fund Returns"
@@ -246,7 +246,7 @@
     {
       "type": "RANK_WITHIN_CATEGORY",
       "stat_1y": 10,
-      "stat_3y": 6,
+      "stat_3y": 5,
       "stat_5y": null,
       "stat_all": null,
       "title": "Rank Within Category"
@@ -255,15 +255,15 @@
   "return_stats": [
     {
       "scheme_code": "150737",
-      "return1d": -1.29,
-      "return1w": 3.24,
-      "return1m": 8.5,
-      "return3m": -10.8,
-      "return6m": -9.76,
+      "return1d": 0.6,
+      "return1w": 6.33,
+      "return1m": 9.15,
+      "return3m": -8.42,
+      "return6m": -6.62,
       "return9m": null,
-      "return1y": 101.99,
+      "return1y": 103.88,
       "return2y": null,
-      "return3y": 46.01,
+      "return3y": 46.25,
       "return4y": null,
       "return5y": null,
       "return7y": null,
@@ -275,7 +275,7 @@
       "standard_deviation": 22.931348482653195,
       "risk_rating": 6,
       "risk": "Very High",
-      "return_since_created": 43.5032972253,
+      "return_since_created": 43.6920547153,
       "cat_return3m": 58.69145719437917,
       "cat_return6m": 115.70517125986088,
       "cat_return1y": 154.77275140244063,
@@ -283,10 +283,10 @@
       "cat_return5y": null,
       "cat_return10y": null,
       "cat_return_since_launch": null,
-      "rank3m": 15,
+      "rank3m": 8,
       "rank6m": 13,
       "rank1yr": 10,
-      "rank3yr": 6,
+      "rank3yr": 5,
       "rank5yr": null,
       "rank10yr": null,
       "rank_count3m": null,
@@ -318,49 +318,49 @@
   "holdings": [
     {
       "scheme_code": "150737",
-      "portfolio_date": "2026-06-29T18:30:00.000Z",
+      "portfolio_date": "2026-07-30T18:30:00.000Z",
       "company_name": "HDFC Silver ETF Regular - Growth",
       "nature_name": "MF",
       "sector_name": "Unspecified",
       "instrument_name": "Mutual Fund",
       "rating": null,
-      "market_value": 4330.5844,
-      "corpus_per": 100.09,
+      "market_value": 4283.9641,
+      "corpus_per": 100.04,
       "market_cap": null,
       "rating_market_cap": null,
       "stock_search_id": "hdfc-silver-etf"
     },
     {
       "scheme_code": "150737",
-      "portfolio_date": "2026-06-29T18:30:00.000Z",
+      "portfolio_date": "2026-07-30T18:30:00.000Z",
       "company_name": "Repo",
       "nature_name": "CASH",
       "sector_name": "Unspecified",
       "instrument_name": "Repo",
       "rating": null,
-      "market_value": 12.9402,
-      "corpus_per": 0.3,
+      "market_value": 4.3899,
+      "corpus_per": 0.1,
       "market_cap": null,
       "rating_market_cap": null,
       "stock_search_id": null
     },
     {
       "scheme_code": "150737",
-      "portfolio_date": "2026-06-29T18:30:00.000Z",
+      "portfolio_date": "2026-07-30T18:30:00.000Z",
       "company_name": "Net Payables",
       "nature_name": "CASH",
       "sector_name": "Unspecified",
       "instrument_name": "Net Payables",
       "rating": null,
-      "market_value": -16.964,
-      "corpus_per": -0.39,
+      "market_value": -5.969,
+      "corpus_per": -0.14,
       "market_cap": null,
       "rating_market_cap": null,
       "stock_search_id": null
     }
   ],
-  "nav": 39.4924,
-  "nav_date": "25-Aug-2026",
+  "nav": 39.7306,
+  "nav_date": "26-Aug-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -411,19 +411,19 @@
           "search_id": "hdfc-arbitrage-fund-direct-growth"
         },
         {
-          "scheme_name": "HDFC Retirement Savings Fund Equity Plan Direct Growth",
+          "scheme_name": "HDFC Retirement Fund Equity Plan Direct Growth",
           "scheme_code": "136094",
-          "search_id": "hdfc-retirement-savings-fund-equity-plan-direct-growth"
+          "search_id": "hdfc-retirement-fund-equity-plan-direct-growth"
         },
         {
-          "scheme_name": "HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth",
+          "scheme_name": "HDFC Retirement Fund Hybrid Equity Plan Direct Growth",
           "scheme_code": "136464",
-          "search_id": "hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth"
+          "search_id": "hdfc-retirement-fund-hybrid-equity-plan-direct-growth"
         },
         {
-          "scheme_name": "HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth",
+          "scheme_name": "HDFC Retirement Fund Hybrid Debt Plan Direct Growth",
           "scheme_code": "136465",
-          "search_id": "hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth"
+          "search_id": "hdfc-retirement-fund-hybrid-debt-plan-direct-growth"
         },
         {
           "scheme_name": "HDFC NIFTY 50 ETF IDCW",
@@ -587,19 +587,19 @@
           "search_id": "hdfc-arbitrage-fund-direct-growth"
         },
         {
-          "scheme_name": "HDFC Retirement Savings Fund Equity Plan Direct Growth",
+          "scheme_name": "HDFC Retirement Fund Equity Plan Direct Growth",
           "scheme_code": "136094",
-          "search_id": "hdfc-retirement-savings-fund-equity-plan-direct-growth"
+          "search_id": "hdfc-retirement-fund-equity-plan-direct-growth"
         },
         {
-          "scheme_name": "HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth",
+          "scheme_name": "HDFC Retirement Fund Hybrid Equity Plan Direct Growth",
           "scheme_code": "136464",
-          "search_id": "hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth"
+          "search_id": "hdfc-retirement-fund-hybrid-equity-plan-direct-growth"
         },
         {
-          "scheme_name": "HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth",
+          "scheme_name": "HDFC Retirement Fund Hybrid Debt Plan Direct Growth",
           "scheme_code": "136465",
-          "search_id": "hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth"
+          "search_id": "hdfc-retirement-fund-hybrid-debt-plan-direct-growth"
         },
         {
           "scheme_name": "HDFC NIFTY50 Equal Weight Index Fund Direct Growth",

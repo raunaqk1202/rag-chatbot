@@ -16,8 +16,8 @@
       "groww_rating": "3 out of 5"
     },
     "fund_details": {
-      "nav": "₹160.558",
-      "nav_date": "25-Aug-2026",
+      "nav": "₹160.946",
+      "nav_date": "26-Aug-2026",
       "aum": "₹41,679.00 Cr",
       "expense_ratio": "0.75%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-0.1%",
-        "1_week": "-0.75%",
-        "1_month": "1.85%",
-        "3_months": "4.37%",
-        "6_months": "4.16%",
-        "1_year": "-0.78%",
-        "3_years": "12.06%",
-        "5_years": "16.56%",
-        "10_years": "17.81%",
+        "1_day": "0.24%",
+        "1_week": "-0.25%",
+        "1_month": "2.09%",
+        "3_months": "4.56%",
+        "6_months": "4.18%",
+        "1_year": "0.57%",
+        "3_years": "12.14%",
+        "5_years": "16.62%",
+        "10_years": "17.87%",
         "since_inception": "16.3%"
       },
       "category_average_returns": {
@@ -79,34 +79,34 @@
     },
     "holdings": {
       "top_10_holdings": [
-        "Aster DM Healthcare Ltd: 3.83% (Healthcare)",
-        "Firstsource Solutions Ltd: 3.31% (Industrials)",
-        "Bank Of Baroda: 3.16% (Financial)",
-        "Gabriel India Ltd: 3.0% (Consumer Discretionary)",
-        "Eris Lifesciences Ltd: 2.33% (Healthcare)",
-        "Krishna Institute Of Medical Sciences Ltd: 2.24% (Healthcare)",
-        "Fortis Healthcare Ltd: 2.24% (Healthcare)",
-        "eClerx Services Ltd: 2.1% (Technology)",
-        "Apar Industries Ltd: 1.96% (Diversified)",
-        "Indian Bank: 1.96% (Financial)"
+        "Firstsource Solutions Ltd: 4.24% (Industrials)",
+        "Aster DM Healthcare Ltd: 3.89% (Healthcare)",
+        "Gabriel India Ltd: 3.34% (Consumer Discretionary)",
+        "eClerx Services Ltd: 2.85% (Technology)",
+        "Bank Of Baroda: 2.73% (Financial)",
+        "Krishna Institute Of Medical Sciences Ltd: 2.15% (Healthcare)",
+        "Eris Lifesciences Ltd: 2.1% (Healthcare)",
+        "Fortis Healthcare Ltd: 1.99% (Healthcare)",
+        "Indian Bank: 1.94% (Financial)",
+        "The Federal Bank Ltd: 1.79% (Financial)"
       ],
       "asset_allocation": {
-        "equity": "89.84%",
-        "cash": "10.16%"
+        "equity": "90.02%",
+        "cash": "9.98%"
       },
       "sector_allocation": {
-        "Industrials": "22.24%",
-        "Consumer Discretionary": "19.52%",
-        "Financial": "12.77%",
-        "Healthcare": "12.32%",
-        "Materials": "7.78%",
-        "Technology": "5.77%",
-        "Consumer Staples": "5.18%",
-        "Diversified": "2.60%",
-        "Energy & Utilities": "1.66%"
+        "Industrials": "22.07%",
+        "Consumer Discretionary": "19.98%",
+        "Healthcare": "12.34%",
+        "Financial": "12.27%",
+        "Materials": "7.60%",
+        "Technology": "7.18%",
+        "Consumer Staples": "4.93%",
+        "Diversified": "2.18%",
+        "Energy & Utilities": "1.47%"
       },
-      "portfolio_date": "2026-06-29",
-      "total_holdings": "83"
+      "portfolio_date": "2026-07-30",
+      "total_holdings": "84"
     },
     "tax": {
       "tax_implications": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
@@ -137,7 +137,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-26T05:38:43.693284+00:00",
-  "fetched_at": "2026-08-26T05:38:43.692232+00:00",
+  "parse_timestamp": "2026-08-27T16:13:14.554687+00:00",
+  "fetched_at": "2026-08-27T16:13:14.553584+00:00",
   "http_status": 200
 }

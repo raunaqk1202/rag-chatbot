@@ -16,8 +16,8 @@
       "groww_rating": "3 out of 5"
     },
     "fund_details": {
-      "nav": "₹50.0325",
-      "nav_date": "25-Aug-2026",
+      "nav": "₹49.9008",
+      "nav_date": "26-Aug-2026",
       "aum": "₹11,197.05 Cr",
       "expense_ratio": "0.2%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-0.32%",
-        "1_week": "4.88%",
-        "1_month": "12.55%",
-        "3_months": "1.65%",
-        "6_months": "0.7%",
-        "1_year": "58.77%",
-        "3_years": "38.3%",
-        "5_years": "26.42%",
-        "10_years": "16.75%",
+        "1_day": "-0.26%",
+        "1_week": "5.12%",
+        "1_month": "12.25%",
+        "3_months": "2.03%",
+        "6_months": "1.28%",
+        "1_year": "57.78%",
+        "3_years": "38.14%",
+        "5_years": "26.5%",
+        "10_years": "16.7%",
         "since_inception": "10.83%"
       },
       "category_average_returns": {
@@ -48,8 +48,8 @@
         "10_years": "17.04%"
       },
       "category_rankings": {
-        "1_year": "Rank 7",
-        "3_years": "Rank 7",
+        "1_year": "Rank 9",
+        "3_years": "Rank 8",
         "5_years": "Rank 5",
         "10_years": "Rank 3"
       },
@@ -78,10 +78,7 @@
       "benchmark_full_name": "Domestic Price of Gold"
     },
     "holdings": {
-      "asset_allocation": {
-        "cash": "0.01%"
-      },
-      "portfolio_date": "2026-06-29",
+      "portfolio_date": "2026-07-30",
       "total_holdings": "0"
     },
     "tax": {
@@ -112,7 +109,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-08-26T05:38:45.030046+00:00",
-  "fetched_at": "2026-08-26T05:38:45.029014+00:00",
+  "parse_timestamp": "2026-08-27T16:13:15.951869+00:00",
+  "fetched_at": "2026-08-27T16:13:15.950869+00:00",
   "http_status": 200
 }
