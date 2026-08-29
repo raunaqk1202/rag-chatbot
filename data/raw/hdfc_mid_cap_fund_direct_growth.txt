@@ -1,6 +1,6 @@
 SCHEME: HDFC Mid Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-SCRAPED: 2026-08-28T17:13:06.863032+00:00
+SCRAPED: 2026-08-29T11:31:43.819488+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 5 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹236.919
-Nav Date: 27-Aug-2026
+Nav: ₹237.066
+Nav Date: 28-Aug-2026
 Aum: ₹105,142.69 Cr
 Expense Ratio: 0.74%
 Exit Load: Exit load of 1% if redeemed within 1 year.
@@ -37,13 +37,13 @@ Portfolio Turnover: 13.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -0.18%
-  1 Week: 0.21%
-  1 Month: 3.18%
-  3 Months: 5.96%
-  6 Months: 5.79%
-  1 Year: 11.91%
-  3 Years: 19.57%
+  1 Day: 0.06%
+  1 Week: 0.2%
+  1 Month: 2.66%
+  3 Months: 6.03%
+  6 Months: 5.85%
+  1 Year: 12.83%
+  3 Years: 19.42%
   5 Years: 20.96%
   10 Years: 17.87%
   Since Inception: 19.3%
@@ -55,10 +55,10 @@ Category Average Returns:
   10 Years: 16.00%
 
 Category Rankings:
-  1 Year: Rank 20
+  1 Year: Rank 21
   3 Years: Rank 14
   5 Years: Rank 3
-  10 Years: Rank 8
+  10 Years: Rank 7
 
 Risk Metrics:
   Sharpe Ratio: 0.8730800194
@@ -68,10 +68,10 @@ Risk Metrics:
   Sortino Ratio: 1.0419741111415168
 
 Sip Returns:
-  1 Year: 15.107317894659461%
-  3 Years: 13.725134195959937%
-  5 Years: 19.95473533839255%
-  10 Years: 20.286320815429864%
+  1 Year: 15.157237904411925%
+  3 Years: 13.743863244127413%
+  5 Years: 19.959762563726475%
+  10 Years: 20.28843695259097%
 
 ============================================================
   RISK
