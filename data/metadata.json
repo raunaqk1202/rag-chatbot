@@ -2,56 +2,56 @@
   {
     "scheme_name": "HDFC Large Cap Fund – Direct Growth",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_scraped": "2026-08-31T11:27:44.739273+00:00",
+    "last_scraped": "2026-09-01T09:50:30.513030+00:00",
     "status": "success",
     "sections_extracted": 10,
     "js_rendered_flag": false,
     "raw_file": "data/raw/hdfc_large_cap_fund_direct_growth.txt",
-    "raw_file_size_bytes": 5180,
+    "raw_file_size_bytes": 5183,
     "chunk_count": 9
   },
   {
     "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
     "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-    "last_scraped": "2026-08-31T11:27:46.187524+00:00",
+    "last_scraped": "2026-09-01T09:50:31.822961+00:00",
     "status": "success",
     "sections_extracted": 10,
     "js_rendered_flag": false,
     "raw_file": "data/raw/hdfc_mid_cap_fund_direct_growth.txt",
-    "raw_file_size_bytes": 5230,
+    "raw_file_size_bytes": 5231,
     "chunk_count": 9
   },
   {
     "scheme_name": "HDFC Small Cap Fund – Direct Growth",
     "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-    "last_scraped": "2026-08-31T11:27:47.704538+00:00",
+    "last_scraped": "2026-09-01T09:50:33.346289+00:00",
     "status": "success",
     "sections_extracted": 10,
     "js_rendered_flag": false,
     "raw_file": "data/raw/hdfc_small_cap_fund_direct_growth.txt",
-    "raw_file_size_bytes": 5128,
+    "raw_file_size_bytes": 5129,
     "chunk_count": 9
   },
   {
     "scheme_name": "HDFC Gold ETF Fund of Fund – Direct Growth",
     "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-    "last_scraped": "2026-08-31T11:27:49.119817+00:00",
+    "last_scraped": "2026-09-01T09:50:34.766428+00:00",
     "status": "success",
     "sections_extracted": 10,
     "js_rendered_flag": false,
     "raw_file": "data/raw/hdfc_gold_etf_fund_of_fund_direct_plan_growth.txt",
-    "raw_file_size_bytes": 4121,
+    "raw_file_size_bytes": 4122,
     "chunk_count": 9
   },
   {
     "scheme_name": "HDFC Silver ETF FoF – Direct Growth",
     "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-    "last_scraped": "2026-08-31T11:27:50.541985+00:00",
+    "last_scraped": "2026-09-01T09:50:36.192982+00:00",
     "status": "success",
     "sections_extracted": 10,
     "js_rendered_flag": false,
     "raw_file": "data/raw/hdfc_silver_etf_fof_direct_growth.txt",
-    "raw_file_size_bytes": 3795,
+    "raw_file_size_bytes": 3796,
     "chunk_count": 9
   }
 ]

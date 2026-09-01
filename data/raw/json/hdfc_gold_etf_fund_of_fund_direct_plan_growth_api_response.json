@@ -135,7 +135,7 @@
   "nfo_risk": "Moderately High Riskometer",
   "nfo_image_url": null,
   "meta_title": "HDFC Gold ETF Fund of Fund Direct Plan Growth - Groww",
-  "meta_desc": "HDFC Gold ETF Fund of Fund Direct Plan Growth is Gold Commodities mutual fund with risk-reward rating of 3/10. It has track record of 13 years, with three year return of 37.78. Risk is High",
+  "meta_desc": "HDFC Gold ETF Fund of Fund Direct Plan Growth is Gold Commodities mutual fund with risk-reward rating of 3/10. It has track record of 13 years, with three year return of 36.07. Risk is High",
   "meta_robots": "index",
   "amc": "HDFC",
   "scheme_code": "119132",
@@ -203,7 +203,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.233Z",
+    "launch_date": "1999-12-09T18:30:00.547Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -238,9 +238,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": 55.03,
-      "stat_3y": 37.78,
-      "stat_5y": 26.18,
+      "stat_1y": 49.11,
+      "stat_3y": 36.07,
+      "stat_5y": 25.52,
       "stat_all": 10.83,
       "title": "Fund Returns"
     },
@@ -264,19 +264,19 @@
   "return_stats": [
     {
       "scheme_code": "119132",
-      "return1d": 0.49,
-      "return1w": -0.25,
-      "return1m": 12.0,
-      "return3m": 1.4,
-      "return6m": -0.65,
+      "return1d": -2.57,
+      "return1w": -4.16,
+      "return1m": 8.91,
+      "return3m": -0.8,
+      "return6m": -3.2,
       "return9m": null,
-      "return1y": 55.03,
+      "return1y": 49.11,
       "return2y": null,
-      "return3y": 37.78,
+      "return3y": 36.07,
       "return4y": null,
-      "return5y": 26.18,
+      "return5y": 25.52,
       "return7y": null,
-      "return10y": 16.57,
+      "return10y": 16.38,
       "return_default": 10.83,
       "mean_return": 11.06,
       "sharpe_ratio": 1.3116957447,
@@ -284,7 +284,7 @@
       "standard_deviation": 18.34487881208876,
       "risk_rating": 5,
       "risk": "High",
-      "return_since_created": 11.5730831046,
+      "return_since_created": 11.3537631355,
       "cat_return3m": 18.68149538354634,
       "cat_return6m": 41.98583723138889,
       "cat_return1y": 76.00068826008322,
@@ -292,8 +292,8 @@
       "cat_return5y": 20.95384843351483,
       "cat_return10y": 17.040816927548995,
       "cat_return_since_launch": null,
-      "rank3m": 13,
-      "rank6m": 15,
+      "rank3m": 4,
+      "rank6m": 13,
       "rank1yr": 9,
       "rank3yr": 7,
       "rank5yr": 5,
@@ -368,8 +368,8 @@
       "stock_search_id": null
     }
   ],
-  "nav": 49.3748,
-  "nav_date": "28-Aug-2026",
+  "nav": 48.1076,
+  "nav_date": "31-Aug-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -894,7 +894,35 @@
     {
       "expense_ratio": 0.2,
       "base_expense_ratio": null,
+      "as_on_date": "2026-08-28T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.2,
+      "base_expense_ratio": null,
+      "as_on_date": "2026-08-27T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.2,
+      "base_expense_ratio": null,
       "as_on_date": "2026-08-26T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.2,
+      "base_expense_ratio": null,
+      "as_on_date": "2026-08-25T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.2,
+      "base_expense_ratio": null,
+      "as_on_date": "2026-08-24T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
