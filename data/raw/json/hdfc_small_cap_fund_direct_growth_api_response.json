@@ -135,7 +135,7 @@
   "nfo_risk": "Moderately High Riskometer",
   "nfo_image_url": null,
   "meta_title": "HDFC Small Cap Fund Direct Growth - Groww",
-  "meta_desc": "HDFC Small Cap Fund Direct Growth is Small Cap Equity mutual fund with risk-reward rating of 3/10. It has track record of 13 years, with three year return of 11.39. Risk is Very High",
+  "meta_desc": "HDFC Small Cap Fund Direct Growth is Small Cap Equity mutual fund with risk-reward rating of 3/10. It has track record of 13 years, with three year return of 11.33. Risk is Very High",
   "meta_robots": "index",
   "amc": "HDFC",
   "scheme_code": "130503",
@@ -203,7 +203,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.031Z",
+    "launch_date": "1999-12-09T18:30:00.492Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -238,9 +238,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": 1.54,
-      "stat_3y": 11.39,
-      "stat_5y": 16.11,
+      "stat_1y": 0.25,
+      "stat_3y": 11.33,
+      "stat_5y": 16.12,
       "stat_all": 16.3,
       "title": "Fund Returns"
     },
@@ -264,19 +264,19 @@
   "return_stats": [
     {
       "scheme_code": "130503",
-      "return1d": -0.17,
-      "return1w": 0.15,
-      "return1m": 0.12,
-      "return3m": 5.95,
-      "return6m": 5.19,
+      "return1d": 0.01,
+      "return1w": 0.26,
+      "return1m": 0.14,
+      "return3m": 6.51,
+      "return6m": 5.21,
       "return9m": null,
-      "return1y": 1.54,
+      "return1y": 0.25,
       "return2y": null,
-      "return3y": 11.39,
+      "return3y": 11.33,
       "return4y": null,
-      "return5y": 16.11,
+      "return5y": 16.12,
       "return7y": null,
-      "return10y": 17.66,
+      "return10y": 17.69,
       "return_default": 16.3,
       "mean_return": 9.89,
       "sharpe_ratio": 0.4410996838,
@@ -284,7 +284,7 @@
       "standard_deviation": 17.513600414128888,
       "risk_rating": 6,
       "risk": "Very High",
-      "return_since_created": 18.4446216365,
+      "return_since_created": 18.4418422268,
       "cat_return3m": -0.515073267678,
       "cat_return6m": -4.615646956969388,
       "cat_return1y": -6.287113895986091,
@@ -297,7 +297,7 @@
       "rank1yr": 44,
       "rank3yr": 34,
       "rank5yr": 17,
-      "rank10yr": 6,
+      "rank10yr": 5,
       "rank_count3m": null,
       "rank_count6m": null,
       "rank_count1yr": null,
@@ -1530,8 +1530,8 @@
       "stock_search_id": null
     }
   ],
-  "nav": 160.949,
-  "nav_date": "31-Aug-2026",
+  "nav": 160.972,
+  "nav_date": "01-Sep-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -1687,21 +1687,6 @@
           "search_id": "hdfc-money-market-fund-direct-growth"
         },
         {
-          "scheme_name": "HDFC Retirement Fund Equity Plan Direct Growth",
-          "scheme_code": "136094",
-          "search_id": "hdfc-retirement-fund-equity-plan-direct-growth"
-        },
-        {
-          "scheme_name": "HDFC Retirement Fund Hybrid Equity Plan Direct Growth",
-          "scheme_code": "136464",
-          "search_id": "hdfc-retirement-fund-hybrid-equity-plan-direct-growth"
-        },
-        {
-          "scheme_name": "HDFC Retirement Fund Hybrid Debt Plan Direct Growth",
-          "scheme_code": "136465",
-          "search_id": "hdfc-retirement-fund-hybrid-debt-plan-direct-growth"
-        },
-        {
           "scheme_name": "HDFC Housing Opportunities Fund Direct Growth",
           "scheme_code": "141924",
           "search_id": "hdfc-housing-opportunities-fund-direct-growth"
@@ -1796,6 +1781,21 @@
           "scheme_name": "HDFC Small Cap Fund Direct Growth",
           "scheme_code": "130503",
           "search_id": "hdfc-small-cap-fund-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Retirement Fund Equity Plan Direct Growth",
+          "scheme_code": "136094",
+          "search_id": "hdfc-retirement-fund-equity-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Retirement Fund Hybrid Equity Plan Direct Growth",
+          "scheme_code": "136464",
+          "search_id": "hdfc-retirement-fund-hybrid-equity-plan-direct-growth"
+        },
+        {
+          "scheme_name": "HDFC Retirement Fund Hybrid Debt Plan Direct Growth",
+          "scheme_code": "136465",
+          "search_id": "hdfc-retirement-fund-hybrid-debt-plan-direct-growth"
         },
         {
           "scheme_name": "HDFC Children's Fund Direct Plan",
@@ -1973,6 +1973,13 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.75,
+      "base_expense_ratio": null,
+      "as_on_date": "2026-08-31T00:00:00",
+      "frequency": "Monthly",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 0.75,
       "base_expense_ratio": null,
