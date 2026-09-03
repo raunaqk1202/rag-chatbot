@@ -16,8 +16,8 @@
       "groww_rating": "3 out of 5"
     },
     "fund_details": {
-      "nav": "₹47.3372",
-      "nav_date": "01-Sep-2026",
+      "nav": "₹46.6397",
+      "nav_date": "02-Sep-2026",
       "aum": "₹11,197.05 Cr",
       "expense_ratio": "0.2%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-1.6%",
-        "1_week": "-5.39%",
-        "1_month": "7.16%",
-        "3_months": "-1.61%",
-        "6_months": "-4.75%",
-        "1_year": "44.74%",
-        "3_years": "35.34%",
-        "5_years": "25.15%",
-        "10_years": "16.25%",
+        "1_day": "-1.47%",
+        "1_week": "-6.54%",
+        "1_month": "5.59%",
+        "3_months": "-4.53%",
+        "6_months": "-10.54%",
+        "1_year": "42.52%",
+        "3_years": "34.64%",
+        "5_years": "24.75%",
+        "10_years": "16.06%",
         "since_inception": "10.83%"
       },
       "category_average_returns": {
@@ -48,17 +48,17 @@
         "10_years": "17.04%"
       },
       "category_rankings": {
-        "1_year": "Rank 7",
-        "3_years": "Rank 6",
-        "5_years": "Rank 5",
+        "1_year": "Rank 3",
+        "3_years": "Rank 7",
+        "5_years": "Rank 4",
         "10_years": "Rank 3"
       },
       "risk_metrics": {
-        "sharpe_ratio": "1.3116957447",
-        "beta": "0.90412719998247",
-        "alpha": "0.76921270698329",
-        "standard_deviation": "18.34487881208876",
-        "sortino_ratio": "2.127123679268882"
+        "sharpe_ratio": "1.4573520359",
+        "beta": "0.90632203553226",
+        "alpha": "1.13986191100469",
+        "standard_deviation": "18.63802611007819",
+        "sortino_ratio": "2.310899515406525"
       },
       "sip_returns": {
         "1_year": "24.899748899876005%",
@@ -70,8 +70,8 @@
     "risk": {
       "riskometer_category": "High",
       "nfo_riskometer": "Moderately High Riskometer",
-      "standard_deviation": "18.34487881208876",
-      "beta": "0.90412719998247"
+      "standard_deviation": "18.63802611007819",
+      "beta": "0.90632203553226"
     },
     "benchmark": {
       "benchmark_index": "Domestic Price of Gold",
@@ -109,7 +109,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-02T09:22:34.134749+00:00",
-  "fetched_at": "2026-09-02T09:22:34.133837+00:00",
+  "parse_timestamp": "2026-09-03T09:32:25.119163+00:00",
+  "fetched_at": "2026-09-03T09:32:25.118238+00:00",
   "http_status": 200
 }

@@ -1,6 +1,6 @@
 SCHEME: HDFC Small Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-SCRAPED: 2026-09-02T09:22:32.710351+00:00
+SCRAPED: 2026-09-03T09:32:23.677973+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹160.972
-Nav Date: 01-Sep-2026
+Nav: ₹160.418
+Nav Date: 02-Sep-2026
 Aum: ₹41,679.00 Cr
 Expense Ratio: 0.75%
 Exit Load: Exit load of 1% if redeemed within 1 year
@@ -37,15 +37,15 @@ Portfolio Turnover: 6.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.01%
-  1 Week: 0.26%
-  1 Month: 0.14%
-  3 Months: 6.51%
-  6 Months: 5.21%
-  1 Year: 0.25%
-  3 Years: 11.33%
-  5 Years: 16.12%
-  10 Years: 17.69%
+  1 Day: -0.34%
+  1 Week: -0.33%
+  1 Month: -0.21%
+  3 Months: 5.5%
+  6 Months: 6.92%
+  1 Year: -0.96%
+  3 Years: 11.19%
+  5 Years: 15.81%
+  10 Years: 17.59%
   Since Inception: 16.3%
 
 Category Average Returns:
@@ -61,11 +61,11 @@ Category Rankings:
   10 Years: Rank 5
 
 Risk Metrics:
-  Sharpe Ratio: 0.4410996838
-  Beta: 0.77832914521962
-  Alpha: -0.58795685227368
-  Standard Deviation: 17.513600414128888
-  Sortino Ratio: 0.6140450586719256
+  Sharpe Ratio: 0.3805369411
+  Beta: 0.77711175829781
+  Alpha: -1.13383336456178
+  Standard Deviation: 17.463582337429276
+  Sortino Ratio: 0.5361064532185215
 
 Sip Returns:
   1 Year: -5.720716096477582%
@@ -78,8 +78,8 @@ Sip Returns:
 ============================================================
 Riskometer Category: Very High
 Nfo Riskometer: Moderately High Riskometer
-Standard Deviation: 17.513600414128888
-Beta: 0.77832914521962
+Standard Deviation: 17.463582337429276
+Beta: 0.77711175829781
 
 ============================================================
   BENCHMARK

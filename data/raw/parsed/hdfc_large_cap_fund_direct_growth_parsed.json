@@ -16,8 +16,8 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹1237.344",
-      "nav_date": "01-Sep-2026",
+      "nav": "₹1231.045",
+      "nav_date": "02-Sep-2026",
       "aum": "₹40,197.89 Cr",
       "expense_ratio": "1.02%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-0.48%",
-        "1_week": "-1.0%",
-        "1_month": "-0.86%",
-        "3_months": "6.61%",
-        "6_months": "-1.66%",
-        "1_year": "1.8%",
-        "3_years": "10.84%",
-        "5_years": "12.13%",
-        "10_years": "12.67%",
+        "1_day": "-0.51%",
+        "1_week": "-1.29%",
+        "1_month": "-1.36%",
+        "3_months": "5.85%",
+        "6_months": "-0.89%",
+        "1_year": "1.42%",
+        "3_years": "10.64%",
+        "5_years": "11.88%",
+        "10_years": "12.55%",
         "since_inception": "13.08%"
       },
       "category_average_returns": {
@@ -48,30 +48,30 @@
         "10_years": "13.16%"
       },
       "category_rankings": {
-        "1_year": "Rank 48",
-        "3_years": "Rank 42",
-        "5_years": "Rank 15",
+        "1_year": "Rank 47",
+        "3_years": "Rank 43",
+        "5_years": "Rank 14",
         "10_years": "Rank 12"
       },
       "risk_metrics": {
-        "sharpe_ratio": "0.4056075183",
-        "beta": "0.94817686596274",
-        "alpha": "0.80461356711293",
-        "standard_deviation": "13.856106048363943",
-        "sortino_ratio": "0.4916795776335732"
+        "sharpe_ratio": "0.4403410787",
+        "beta": "0.9469750280012",
+        "alpha": "0.9402447575867",
+        "standard_deviation": "13.79815338866755",
+        "sortino_ratio": "0.5252926983176127"
       },
       "sip_returns": {
-        "1_year": "2.09274588484891%",
-        "3_years": "4.2247104988870365%",
-        "5_years": "10.03444584322536%",
-        "10_years": "12.951033954000913%"
+        "1_year": "0.9575562575815034%",
+        "3_years": "3.8605449457455405%",
+        "5_years": "9.812598036630693%",
+        "10_years": "12.847894828539157%"
       }
     },
     "risk": {
       "riskometer_category": "Very High",
       "nfo_riskometer": "Moderately High Riskometer",
-      "standard_deviation": "13.856106048363943",
-      "beta": "0.94817686596274"
+      "standard_deviation": "13.79815338866755",
+      "beta": "0.9469750280012"
     },
     "benchmark": {
       "benchmark_index": "NIFTY 100 TRI",
@@ -137,7 +137,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-02T09:22:29.783671+00:00",
-  "fetched_at": "2026-09-02T09:22:29.782644+00:00",
+  "parse_timestamp": "2026-09-03T09:32:20.838173+00:00",
+  "fetched_at": "2026-09-03T09:32:20.837212+00:00",
   "http_status": 200
 }
