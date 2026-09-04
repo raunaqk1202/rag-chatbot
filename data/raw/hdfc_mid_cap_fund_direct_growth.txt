@@ -1,6 +1,6 @@
 SCHEME: HDFC Mid Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-SCRAPED: 2026-09-03T09:32:22.208863+00:00
+SCRAPED: 2026-09-04T09:24:12.253482+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 5 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹235.185
-Nav Date: 02-Sep-2026
+Nav: ₹235.494
+Nav Date: 03-Sep-2026
 Aum: ₹105,142.69 Cr
 Expense Ratio: 0.74%
 Exit Load: Exit load of 1% if redeemed within 1 year.
@@ -37,15 +37,15 @@ Portfolio Turnover: 13.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -0.51%
-  1 Week: -0.91%
-  1 Month: 0.73%
-  3 Months: 7.06%
-  6 Months: 6.82%
-  1 Year: 10.8%
-  3 Years: 18.59%
-  5 Years: 19.92%
-  10 Years: 17.61%
+  1 Day: 0.13%
+  1 Week: -0.6%
+  1 Month: -0.44%
+  3 Months: 7.49%
+  6 Months: 6.96%
+  1 Year: 10.48%
+  3 Years: 18.63%
+  5 Years: 19.85%
+  10 Years: 17.62%
   Since Inception: 19.3%
 
 Category Average Returns:
@@ -55,7 +55,7 @@ Category Average Returns:
   10 Years: 16.00%
 
 Category Rankings:
-  1 Year: Rank 16
+  1 Year: Rank 17
   3 Years: Rank 13
   5 Years: Rank 3
   10 Years: Rank 7
@@ -68,10 +68,10 @@ Risk Metrics:
   Sortino Ratio: 1.0191238399635578
 
 Sip Returns:
-  1 Year: 13.414050185797949%
-  3 Years: 12.685909384421695%
-  5 Years: 19.50446771457914%
-  10 Years: 20.158130226215437%
+  1 Year: 13.646188972149066%
+  3 Years: 12.757450555396211%
+  5 Years: 19.539278756245015%
+  10 Years: 20.1732909446245%
 
 ============================================================
   RISK
@@ -150,7 +150,7 @@ Website: http://www.hdfcfund.com
 Pros:
   - 1Y and 10Y annualised returns higher than category average
   - Lower expense ratio: 0.74%
-  - Higher alpha: 2.98 
+  - Higher alpha: 3.2 
 The fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y 
 
 Cons:

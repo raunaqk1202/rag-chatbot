@@ -16,8 +16,8 @@
       "groww_rating": "3 out of 5"
     },
     "fund_details": {
-      "nav": "₹160.418",
-      "nav_date": "02-Sep-2026",
+      "nav": "₹160.9",
+      "nav_date": "03-Sep-2026",
       "aum": "₹41,679.00 Cr",
       "expense_ratio": "0.75%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-0.34%",
-        "1_week": "-0.33%",
-        "1_month": "-0.21%",
-        "3_months": "5.5%",
-        "6_months": "6.92%",
-        "1_year": "-0.96%",
-        "3_years": "11.19%",
-        "5_years": "15.81%",
-        "10_years": "17.59%",
+        "1_day": "0.3%",
+        "1_week": "0.08%",
+        "1_month": "-1.71%",
+        "3_months": "5.86%",
+        "6_months": "7.24%",
+        "1_year": "-0.72%",
+        "3_years": "11.29%",
+        "5_years": "15.71%",
+        "10_years": "17.62%",
         "since_inception": "16.3%"
       },
       "category_average_returns": {
@@ -48,7 +48,7 @@
         "10_years": "16.07%"
       },
       "category_rankings": {
-        "1_year": "Rank 44",
+        "1_year": "Rank 45",
         "3_years": "Rank 34",
         "5_years": "Rank 17",
         "10_years": "Rank 5"
@@ -137,7 +137,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-03T09:32:23.677973+00:00",
-  "fetched_at": "2026-09-03T09:32:23.676993+00:00",
+  "parse_timestamp": "2026-09-04T09:24:13.675714+00:00",
+  "fetched_at": "2026-09-04T09:24:13.674625+00:00",
   "http_status": 200
 }
