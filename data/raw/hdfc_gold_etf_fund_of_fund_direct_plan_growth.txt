@@ -1,6 +1,6 @@
 SCHEME: HDFC Gold ETF Fund of Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
-SCRAPED: 2026-09-04T09:24:15.108081+00:00
+SCRAPED: 2026-09-05T08:53:24.646619+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹47.5773
-Nav Date: 03-Sep-2026
+Nav: ₹47.9712
+Nav Date: 04-Sep-2026
 Aum: ₹11,197.05 Cr
 Expense Ratio: 0.2%
 Exit Load: Exit load of 1%, if redeemed within 15 days.
@@ -37,15 +37,15 @@ Portfolio Turnover: 1.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 2.01%
-  1 Week: -3.17%
-  1 Month: 7.55%
-  3 Months: -1.23%
-  6 Months: -8.74%
-  1 Year: 43.37%
-  3 Years: 35.49%
-  5 Years: 25.25%
-  10 Years: 16.29%
+  1 Day: 0.83%
+  1 Week: -2.84%
+  1 Month: 8.51%
+  3 Months: -1.0%
+  6 Months: -5.08%
+  1 Year: 44.3%
+  3 Years: 35.9%
+  5 Years: 25.44%
+  10 Years: 16.38%
   Since Inception: 10.83%
 
 Category Average Returns:
@@ -55,9 +55,9 @@ Category Average Returns:
   10 Years: 17.04%
 
 Category Rankings:
-  1 Year: Rank 5
-  3 Years: Rank 8
-  5 Years: Rank 4
+  1 Year: Rank 9
+  3 Years: Rank 9
+  5 Years: Rank 5
   10 Years: Rank 3
 
 Risk Metrics:
@@ -122,7 +122,6 @@ Website: http://www.hdfcfund.com
 Pros:
   - 3Y and 5Y annualised returns higher than category average
   - Lower expense ratio: 0.2%
-  - 1Y category rank: 3
 
 Cons:
   - 1Y and 10Y annualised returns lower than category average
