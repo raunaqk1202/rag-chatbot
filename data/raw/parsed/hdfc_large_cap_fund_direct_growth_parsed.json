@@ -48,9 +48,9 @@
         "10_years": "13.16%"
       },
       "category_rankings": {
-        "1_year": "Rank 47",
-        "3_years": "Rank 42",
-        "5_years": "Rank 14",
+        "1_year": "Rank 48",
+        "3_years": "Rank 43",
+        "5_years": "Rank 15",
         "10_years": "Rank 12"
       },
       "risk_metrics": {
@@ -137,7 +137,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-05T08:53:20.418514+00:00",
-  "fetched_at": "2026-09-05T08:53:20.417176+00:00",
+  "parse_timestamp": "2026-09-06T09:13:11.646924+00:00",
+  "fetched_at": "2026-09-06T09:13:11.645961+00:00",
   "http_status": 200
 }
