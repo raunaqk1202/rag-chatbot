@@ -1,6 +1,6 @@
 SCHEME: HDFC Large Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-SCRAPED: 2026-09-06T09:13:11.646924+00:00
+SCRAPED: 2026-09-07T10:01:33.729517+00:00
 
 ============================================================
   FUND OVERVIEW
