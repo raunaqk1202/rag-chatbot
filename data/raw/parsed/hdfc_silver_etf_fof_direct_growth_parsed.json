@@ -15,10 +15,10 @@
       "risk_level": "Very High"
     },
     "fund_details": {
-      "nav": "₹38.2087",
-      "nav_date": "08-Sep-2026",
-      "aum": "₹4,282.39 Cr",
-      "expense_ratio": "0.22%",
+      "nav": "₹38.4209",
+      "nav_date": "09-Sep-2026",
+      "aum": "₹4,698.50 Cr",
+      "expense_ratio": "0.21%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
       "min_sip_investment": "₹100",
       "min_lumpsum_investment": "₹100",
@@ -28,20 +28,20 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.64%",
-        "1_week": "1.78%",
-        "1_month": "0.38%",
-        "3_months": "-2.8%",
-        "6_months": "-10.55%",
-        "1_year": "81.57%",
-        "3_years": "46.03%"
+        "1_day": "0.56%",
+        "1_week": "3.32%",
+        "1_month": "0.94%",
+        "3_months": "-4.16%",
+        "6_months": "-10.11%",
+        "1_year": "82.16%",
+        "3_years": "46.25%"
       },
       "category_average_returns": {
         "1_year": "154.77%",
         "3_years": "47.07%"
       },
       "category_rankings": {
-        "1_year": "Rank 6",
+        "1_year": "Rank 10",
         "3_years": "Rank 5"
       },
       "risk_metrics": {
@@ -88,7 +88,7 @@
     },
     "analysis": {
       "pros": [
-        "Lower expense ratio: 0.22%"
+        "Lower expense ratio: 0.21%"
       ],
       "cons": [
         "Consistently lower annualised returns than category average for the past 1Y and 3Y"
@@ -97,7 +97,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-09T09:28:12.326358+00:00",
-  "fetched_at": "2026-09-09T09:28:12.325464+00:00",
+  "parse_timestamp": "2026-09-10T09:27:20.659693+00:00",
+  "fetched_at": "2026-09-10T09:27:20.658703+00:00",
   "http_status": 200
 }

@@ -135,7 +135,7 @@
   "nfo_risk": "Moderately High Riskometer",
   "nfo_image_url": null,
   "meta_title": "HDFC Small Cap Fund Direct Growth - Groww",
-  "meta_desc": "HDFC Small Cap Fund Direct Growth is Small Cap Equity mutual fund with risk-reward rating of 3/10. It has track record of 13 years, with three year return of 10.61. Risk is Very High",
+  "meta_desc": "HDFC Small Cap Fund Direct Growth is Small Cap Equity mutual fund with risk-reward rating of 3/10. It has track record of 13 years, with three year return of 10.44. Risk is Very High",
   "meta_robots": "index",
   "amc": "HDFC",
   "scheme_code": "130503",
@@ -159,8 +159,8 @@
   "description": "The scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.",
   "benchmark": "BSE 250 SmallCap TRI",
   "benchmark_name": "BSE 250 SmallCap Total Return Index",
-  "aum": 41679.0037,
-  "expense_ratio": "0.75",
+  "aum": 41890.8613,
+  "expense_ratio": "0.76",
   "base_expense_ratio": "0.61",
   "portfolio_turnover": 6.0,
   "super_category": "HDFC Small Cap Fund",
@@ -184,8 +184,8 @@
       "scheme_code": "130503",
       "analysis_type": "PROS",
       "analysis_subject": "expense_analysis",
-      "analysis_desc": "Lower expense ratio: 0.75%",
-      "analysis_data": "0.75",
+      "analysis_desc": "Lower expense ratio: 0.76%",
+      "analysis_data": "0.76",
       "rating": null
     },
     {
@@ -203,7 +203,7 @@
     "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
     "phone": "022 – 66316333",
     "aum": 967910.31235041,
-    "launch_date": "1999-12-09T18:30:00.286Z",
+    "launch_date": "1999-12-09T18:30:00.539Z",
     "email": "shareholders.relations@hdfcfund.com",
     "rank": "2",
     "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
@@ -238,9 +238,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": -0.18,
-      "stat_3y": 10.61,
-      "stat_5y": 15.52,
+      "stat_1y": -1.11,
+      "stat_3y": 10.44,
+      "stat_5y": 15.37,
       "stat_all": 16.3,
       "title": "Fund Returns"
     },
@@ -264,19 +264,19 @@
   "return_stats": [
     {
       "scheme_code": "130503",
-      "return1d": 0.08,
-      "return1w": -0.24,
-      "return1m": -1.89,
-      "return3m": 6.56,
-      "return6m": 9.05,
+      "return1d": -0.44,
+      "return1w": -0.34,
+      "return1m": -2.32,
+      "return3m": 4.63,
+      "return6m": 11.31,
       "return9m": null,
-      "return1y": -0.18,
+      "return1y": -1.11,
       "return2y": null,
-      "return3y": 10.61,
+      "return3y": 10.44,
       "return4y": null,
-      "return5y": 15.52,
+      "return5y": 15.37,
       "return7y": null,
-      "return10y": 17.39,
+      "return10y": 17.43,
       "return_default": 16.3,
       "mean_return": 9.89,
       "sharpe_ratio": 0.3805369411,
@@ -284,7 +284,7 @@
       "standard_deviation": 17.463582337429276,
       "risk_rating": 6,
       "risk": "Very High",
-      "return_since_created": 18.3930634622,
+      "return_since_created": 18.3509303249,
       "cat_return3m": -0.515073267678,
       "cat_return6m": -4.615646956969388,
       "cat_return1y": -6.287113895986091,
@@ -1530,8 +1530,8 @@
       "stock_search_id": null
     }
   ],
-  "nav": 160.587,
-  "nav_date": "08-Sep-2026",
+  "nav": 159.88,
+  "nav_date": "09-Sep-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -1973,6 +1973,55 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.76,
+      "base_expense_ratio": 0.61,
+      "as_on_date": "2026-09-07T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.76,
+      "base_expense_ratio": 0.61,
+      "as_on_date": "2026-09-06T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.76,
+      "base_expense_ratio": 0.61,
+      "as_on_date": "2026-09-05T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.76,
+      "base_expense_ratio": 0.61,
+      "as_on_date": "2026-09-04T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.76,
+      "base_expense_ratio": 0.61,
+      "as_on_date": "2026-09-03T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.76,
+      "base_expense_ratio": 0.61,
+      "as_on_date": "2026-09-02T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.76,
+      "base_expense_ratio": 0.61,
+      "as_on_date": "2026-09-01T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 0.75,
       "base_expense_ratio": 0.61,

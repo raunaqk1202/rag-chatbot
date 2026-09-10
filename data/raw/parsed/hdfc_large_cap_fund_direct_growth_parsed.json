@@ -16,10 +16,10 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹1218.246",
-      "nav_date": "08-Sep-2026",
-      "aum": "₹40,197.89 Cr",
-      "expense_ratio": "1.02%",
+      "nav": "₹1209.156",
+      "nav_date": "09-Sep-2026",
+      "aum": "₹39,933.37 Cr",
+      "expense_ratio": "1.03%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
       "min_sip_investment": "₹100",
       "min_lumpsum_investment": "₹100",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-0.5%",
-        "1_week": "-1.54%",
-        "1_month": "-2.67%",
-        "3_months": "5.58%",
-        "6_months": "-0.1%",
-        "1_year": "-0.64%",
-        "3_years": "9.23%",
-        "5_years": "11.48%",
-        "10_years": "12.14%",
+        "1_day": "-0.75%",
+        "1_week": "-1.78%",
+        "1_month": "-3.4%",
+        "3_months": "4.09%",
+        "6_months": "1.15%",
+        "1_year": "-1.61%",
+        "3_years": "8.95%",
+        "5_years": "11.3%",
+        "10_years": "12.16%",
         "since_inception": "13.08%"
       },
       "category_average_returns": {
@@ -49,9 +49,9 @@
       },
       "category_rankings": {
         "1_year": "Rank 48",
-        "3_years": "Rank 43",
-        "5_years": "Rank 14",
-        "10_years": "Rank 14"
+        "3_years": "Rank 44",
+        "5_years": "Rank 15",
+        "10_years": "Rank 13"
       },
       "risk_metrics": {
         "sharpe_ratio": "0.4403410787",
@@ -61,10 +61,10 @@
         "sortino_ratio": "0.5252926983176127"
       },
       "sip_returns": {
-        "1_year": "-1.2647776008260132%",
-        "3_years": "3.0980717815637373%",
-        "5_years": "9.320277866230626%",
-        "10_years": "12.612504031939014%"
+        "1_year": "-2.793423523609791%",
+        "3_years": "2.5792068966435115%",
+        "5_years": "9.003316791629551%",
+        "10_years": "12.46459798678112%"
       }
     },
     "risk": {
@@ -128,7 +128,7 @@
     },
     "analysis": {
       "pros": [
-        "Lower expense ratio: 1.02%"
+        "Lower expense ratio: 1.03%"
       ],
       "cons": [
         "Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y"
@@ -137,7 +137,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-09T09:28:06.750150+00:00",
-  "fetched_at": "2026-09-09T09:28:06.749138+00:00",
+  "parse_timestamp": "2026-09-10T09:27:14.924790+00:00",
+  "fetched_at": "2026-09-10T09:27:14.923715+00:00",
   "http_status": 200
 }
