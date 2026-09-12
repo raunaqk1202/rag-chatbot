@@ -1,6 +1,6 @@
 SCHEME: HDFC Silver ETF FoF – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth
-SCRAPED: 2026-09-11T09:25:57.544194+00:00
+SCRAPED: 2026-09-12T09:05:29.874011+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -19,8 +19,8 @@ Risk Level: Very High
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹38.5934
-Nav Date: 10-Sep-2026
+Nav: ₹37.3741
+Nav Date: 11-Sep-2026
 Aum: ₹4,698.50 Cr
 Expense Ratio: 0.21%
 Exit Load: Exit load of 1%, if redeemed within 15 days.
@@ -35,20 +35,20 @@ Stamp Duty: 0.005% (from July 1st, 2020)
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.45%
-  1 Week: 1.57%
-  1 Month: 1.28%
-  3 Months: 1.45%
-  6 Months: -12.99%
-  1 Year: 83.68%
-  3 Years: 46.42%
+  1 Day: -3.16%
+  1 Week: -2.8%
+  1 Month: -2.77%
+  3 Months: -2.32%
+  6 Months: -14.14%
+  1 Year: 79.28%
+  3 Years: 44.7%
 
 Category Average Returns:
   1 Year: 154.77%
   3 Years: 47.07%
 
 Category Rankings:
-  1 Year: Rank 7
+  1 Year: Rank 10
   3 Years: Rank 5
 
 Risk Metrics:
@@ -59,8 +59,8 @@ Risk Metrics:
   Sortino Ratio: 2.7084629411633165
 
 Sip Returns:
-  1 Year: 24.693493280871493%
-  3 Years: 57.88718476738137%
+  1 Year: 16.804160154003988%
+  3 Years: 55.00691931700361%
 
 ============================================================
   RISK
@@ -99,7 +99,7 @@ Fund Managers:
   AMC INFO
 ============================================================
 Amc Name: HDFC Mutual Fund
-Total Amc Aum: ₹967,910.31 Cr
+Total Amc Aum: ₹986,236.84 Cr
 Contact Email: shareholders.relations@hdfcfund.com
 Contact Phone: 022 – 66316333
 Website: http://www.hdfcfund.com

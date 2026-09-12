@@ -16,8 +16,8 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹1210.982",
-      "nav_date": "10-Sep-2026",
+      "nav": "₹1208.624",
+      "nav_date": "11-Sep-2026",
       "aum": "₹39,933.37 Cr",
       "expense_ratio": "1.03%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.15%",
-        "1_week": "-1.66%",
-        "1_month": "-3.42%",
-        "3_months": "4.45%",
-        "6_months": "-0.03%",
-        "1_year": "-1.59%",
-        "3_years": "9.0%",
-        "5_years": "11.33%",
-        "10_years": "12.18%",
+        "1_day": "-0.19%",
+        "1_week": "-1.62%",
+        "1_month": "-3.29%",
+        "3_months": "4.24%",
+        "6_months": "1.6%",
+        "1_year": "-1.84%",
+        "3_years": "8.69%",
+        "5_years": "11.28%",
+        "10_years": "12.15%",
         "since_inception": "13.08%"
       },
       "category_average_returns": {
@@ -48,10 +48,10 @@
         "10_years": "13.16%"
       },
       "category_rankings": {
-        "1_year": "Rank 49",
+        "1_year": "Rank 48",
         "3_years": "Rank 44",
         "5_years": "Rank 15",
-        "10_years": "Rank 13"
+        "10_years": "Rank 14"
       },
       "risk_metrics": {
         "sharpe_ratio": "0.4403410787",
@@ -61,10 +61,10 @@
         "sortino_ratio": "0.5252926983176127"
       },
       "sip_returns": {
-        "1_year": "-2.4715725129504684%",
-        "3_years": "2.6775344692587146%",
-        "5_years": "9.055414927907687%",
-        "10_years": "12.487060012333986%"
+        "1_year": "-2.8507813782987697%",
+        "3_years": "2.5396939638261125%",
+        "5_years": "8.966010968085813%",
+        "10_years": "12.44410131884961%"
       }
     },
     "risk": {
@@ -121,7 +121,7 @@
     },
     "amc_info": {
       "amc_name": "HDFC Mutual Fund",
-      "total_amc_aum": "₹967,910.31 Cr",
+      "total_amc_aum": "₹986,236.84 Cr",
       "contact_email": "shareholders.relations@hdfcfund.com",
       "contact_phone": "022 – 66316333",
       "website": "http://www.hdfcfund.com"
@@ -137,7 +137,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-11T09:25:51.882504+00:00",
-  "fetched_at": "2026-09-11T09:25:51.881490+00:00",
+  "parse_timestamp": "2026-09-12T09:05:23.067274+00:00",
+  "fetched_at": "2026-09-12T09:05:23.066106+00:00",
   "http_status": 200
 }
