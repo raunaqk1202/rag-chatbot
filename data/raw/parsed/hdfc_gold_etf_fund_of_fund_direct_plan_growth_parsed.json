@@ -48,8 +48,8 @@
         "10_years": "17.04%"
       },
       "category_rankings": {
-        "1_year": "Rank 10",
-        "3_years": "Rank 8",
+        "1_year": "Rank 11",
+        "3_years": "Rank 6",
         "5_years": "Rank 6",
         "10_years": "Rank 3"
       },
@@ -78,7 +78,7 @@
       "benchmark_full_name": "Domestic Price of Gold"
     },
     "holdings": {
-      "portfolio_date": "2026-07-30",
+      "portfolio_date": "2026-08-30",
       "total_holdings": "0"
     },
     "tax": {
@@ -109,7 +109,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-12T09:05:28.050419+00:00",
-  "fetched_at": "2026-09-12T09:05:28.049789+00:00",
+  "parse_timestamp": "2026-09-13T10:04:36.463956+00:00",
+  "fetched_at": "2026-09-13T10:04:36.462984+00:00",
   "http_status": 200
 }

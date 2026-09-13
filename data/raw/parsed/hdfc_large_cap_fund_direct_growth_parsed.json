@@ -48,9 +48,9 @@
         "10_years": "13.16%"
       },
       "category_rankings": {
-        "1_year": "Rank 48",
+        "1_year": "Rank 47",
         "3_years": "Rank 44",
-        "5_years": "Rank 15",
+        "5_years": "Rank 14",
         "10_years": "Rank 14"
       },
       "risk_metrics": {
@@ -79,35 +79,35 @@
     },
     "holdings": {
       "top_10_holdings": [
-        "ICICI Bank Ltd: 9.86% (Financial)",
-        "HDFC Bank Ltd: 7.21% (Financial)",
-        "Bharti Airtel Ltd: 5.85% (Technology)",
-        "Kotak Mahindra Bank Ltd: 5.28% (Financial)",
-        "Titan Company Ltd: 5.0% (Consumer Discretionary)",
-        "Reliance Industries Ltd: 4.86% (Energy & Utilities)",
-        "Torrent Pharmaceuticals Ltd: 4.05% (Healthcare)",
-        "Bajaj Finserv Ltd: 3.32% (Financial)",
-        "Axis Bank Ltd: 3.28% (Financial)",
-        "Lupin Ltd: 2.77% (Healthcare)"
+        "ICICI Bank Ltd: 10.05% (Financial)",
+        "HDFC Bank Ltd: 6.88% (Financial)",
+        "Bharti Airtel Ltd: 6.23% (Technology)",
+        "Kotak Mahindra Bank Ltd: 5.71% (Financial)",
+        "Titan Company Ltd: 5.27% (Consumer Discretionary)",
+        "Reliance Industries Ltd: 4.78% (Energy & Utilities)",
+        "Torrent Pharmaceuticals Ltd: 4.04% (Healthcare)",
+        "Axis Bank Ltd: 3.49% (Financial)",
+        "Bajaj Finserv Ltd: 3.33% (Financial)",
+        "Bajaj Auto Ltd: 2.93% (Consumer Discretionary)"
       ],
       "asset_allocation": {
-        "equity": "96.26%",
+        "equity": "98.58%",
         "debt": "0.48%",
-        "cash": "3.26%"
+        "cash": "0.94%"
       },
       "sector_allocation": {
-        "Financial": "37.69%",
-        "Consumer Discretionary": "12.69%",
-        "Technology": "12.17%",
-        "Healthcare": "10.31%",
-        "Industrials": "7.54%",
-        "Energy & Utilities": "6.79%",
-        "Consumer Staples": "5.19%",
-        "Materials": "3.53%",
-        "Real Estate": "0.35%"
+        "Financial": "39.07%",
+        "Consumer Discretionary": "13.09%",
+        "Technology": "12.78%",
+        "Healthcare": "9.95%",
+        "Industrials": "8.23%",
+        "Energy & Utilities": "6.61%",
+        "Consumer Staples": "5.12%",
+        "Materials": "3.36%",
+        "Real Estate": "0.37%"
       },
-      "portfolio_date": "2026-07-30",
-      "total_holdings": "45"
+      "portfolio_date": "2026-08-30",
+      "total_holdings": "47"
     },
     "tax": {
       "tax_implications": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
@@ -137,7 +137,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-12T09:05:23.067274+00:00",
-  "fetched_at": "2026-09-12T09:05:23.066106+00:00",
+  "parse_timestamp": "2026-09-13T10:04:30.403862+00:00",
+  "fetched_at": "2026-09-13T10:04:30.402956+00:00",
   "http_status": 200
 }

@@ -41,7 +41,7 @@
         "3_years": "47.07%"
       },
       "category_rankings": {
-        "1_year": "Rank 10",
+        "1_year": "Rank 7",
         "3_years": "Rank 5"
       },
       "risk_metrics": {
@@ -67,7 +67,7 @@
       "benchmark_full_name": "Domestic Price of Silver"
     },
     "holdings": {
-      "portfolio_date": "2026-07-30",
+      "portfolio_date": "2026-08-30",
       "total_holdings": "0"
     },
     "tax": {
@@ -97,7 +97,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-12T09:05:29.874011+00:00",
-  "fetched_at": "2026-09-12T09:05:29.873332+00:00",
+  "parse_timestamp": "2026-09-13T10:04:38.130074+00:00",
+  "fetched_at": "2026-09-13T10:04:38.129278+00:00",
   "http_status": 200
 }

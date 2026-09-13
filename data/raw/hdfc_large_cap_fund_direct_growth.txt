@@ -1,6 +1,6 @@
 SCHEME: HDFC Large Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-SCRAPED: 2026-09-12T09:05:23.067274+00:00
+SCRAPED: 2026-09-13T10:04:30.403862+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -55,9 +55,9 @@ Category Average Returns:
   10 Years: 13.16%
 
 Category Rankings:
-  1 Year: Rank 48
+  1 Year: Rank 47
   3 Years: Rank 44
-  5 Years: Rank 15
+  5 Years: Rank 14
   10 Years: Rank 14
 
 Risk Metrics:
@@ -92,34 +92,34 @@ Benchmark Full Name: NIFTY 100 Total Return Index
 ============================================================
 
 Top 10 Holdings:
-  - ICICI Bank Ltd: 9.86% (Financial)
-  - HDFC Bank Ltd: 7.21% (Financial)
-  - Bharti Airtel Ltd: 5.85% (Technology)
-  - Kotak Mahindra Bank Ltd: 5.28% (Financial)
-  - Titan Company Ltd: 5.0% (Consumer Discretionary)
-  - Reliance Industries Ltd: 4.86% (Energy & Utilities)
-  - Torrent Pharmaceuticals Ltd: 4.05% (Healthcare)
-  - Bajaj Finserv Ltd: 3.32% (Financial)
-  - Axis Bank Ltd: 3.28% (Financial)
-  - Lupin Ltd: 2.77% (Healthcare)
+  - ICICI Bank Ltd: 10.05% (Financial)
+  - HDFC Bank Ltd: 6.88% (Financial)
+  - Bharti Airtel Ltd: 6.23% (Technology)
+  - Kotak Mahindra Bank Ltd: 5.71% (Financial)
+  - Titan Company Ltd: 5.27% (Consumer Discretionary)
+  - Reliance Industries Ltd: 4.78% (Energy & Utilities)
+  - Torrent Pharmaceuticals Ltd: 4.04% (Healthcare)
+  - Axis Bank Ltd: 3.49% (Financial)
+  - Bajaj Finserv Ltd: 3.33% (Financial)
+  - Bajaj Auto Ltd: 2.93% (Consumer Discretionary)
 
 Asset Allocation:
-  Equity: 96.26%
+  Equity: 98.58%
   Debt: 0.48%
-  Cash: 3.26%
+  Cash: 0.94%
 
 Sector Allocation:
-  Financial: 37.69%
-  Consumer Discretionary: 12.69%
-  Technology: 12.17%
-  Healthcare: 10.31%
-  Industrials: 7.54%
-  Energy & Utilities: 6.79%
-  Consumer Staples: 5.19%
-  Materials: 3.53%
-  Real Estate: 0.35%
-Portfolio Date: 2026-07-30
-Total Holdings: 45
+  Financial: 39.07%
+  Consumer Discretionary: 13.09%
+  Technology: 12.78%
+  Healthcare: 9.95%
+  Industrials: 8.23%
+  Energy & Utilities: 6.61%
+  Consumer Staples: 5.12%
+  Materials: 3.36%
+  Real Estate: 0.37%
+Portfolio Date: 2026-08-30
+Total Holdings: 47
 
 ============================================================
   TAX

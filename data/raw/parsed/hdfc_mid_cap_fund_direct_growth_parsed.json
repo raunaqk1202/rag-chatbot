@@ -49,7 +49,7 @@
       },
       "category_rankings": {
         "1_year": "Rank 23",
-        "3_years": "Rank 14",
+        "3_years": "Rank 16",
         "5_years": "Rank 4",
         "10_years": "Rank 8"
       },
@@ -79,33 +79,33 @@
     },
     "holdings": {
       "top_10_holdings": [
-        "The Federal Bank Ltd: 4.36% (Financial)",
-        "AU Small Finance Bank Ltd: 3.96% (Financial)",
-        "Max Financial Services Ltd: 3.72% (Financial)",
-        "Balkrishna Industries Ltd: 3.37% (Consumer Discretionary)",
-        "Ipca Laboratories Ltd: 3.01% (Healthcare)",
-        "Indian Bank: 2.93% (Financial)",
-        "Fortis Healthcare Ltd: 2.91% (Healthcare)",
-        "Glenmark Pharmaceuticals Ltd: 2.85% (Healthcare)",
-        "Coforge Ltd: 2.56% (Technology)",
-        "Marico Ltd: 2.51% (Consumer Staples)"
+        "The Federal Bank Ltd: 4.21% (Financial)",
+        "AU Small Finance Bank Ltd: 3.98% (Financial)",
+        "Max Financial Services Ltd: 3.79% (Financial)",
+        "Ipca Laboratories Ltd: 3.3% (Healthcare)",
+        "Glenmark Pharmaceuticals Ltd: 3.07% (Healthcare)",
+        "Indian Bank: 3.06% (Financial)",
+        "Balkrishna Industries Ltd: 3.02% (Consumer Discretionary)",
+        "Coforge Ltd: 2.86% (Technology)",
+        "Fortis Healthcare Ltd: 2.69% (Healthcare)",
+        "Vishal Mega Mart Ltd.: 2.31% (Consumer Staples)"
       ],
       "asset_allocation": {
-        "equity": "93.08%",
-        "cash": "6.94%"
+        "equity": "92.93%",
+        "cash": "7.07%"
       },
       "sector_allocation": {
-        "Financial": "27.26%",
-        "Healthcare": "14.37%",
-        "Consumer Discretionary": "13.07%",
-        "Technology": "11.27%",
-        "Consumer Staples": "9.67%",
-        "Industrials": "8.63%",
-        "Materials": "5.21%",
-        "Energy & Utilities": "3.20%",
-        "Diversified": "0.40%"
+        "Financial": "27.37%",
+        "Healthcare": "15.25%",
+        "Consumer Discretionary": "12.91%",
+        "Technology": "11.57%",
+        "Consumer Staples": "9.11%",
+        "Industrials": "8.10%",
+        "Materials": "5.19%",
+        "Energy & Utilities": "3.12%",
+        "Diversified": "0.31%"
       },
-      "portfolio_date": "2026-07-30",
+      "portfolio_date": "2026-08-30",
       "total_holdings": "79"
     },
     "tax": {
@@ -138,7 +138,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-12T09:05:24.673144+00:00",
-  "fetched_at": "2026-09-12T09:05:24.672545+00:00",
+  "parse_timestamp": "2026-09-13T10:04:32.657833+00:00",
+  "fetched_at": "2026-09-13T10:04:32.656929+00:00",
   "http_status": 200
 }

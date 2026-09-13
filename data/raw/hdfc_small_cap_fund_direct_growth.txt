@@ -1,6 +1,6 @@
 SCHEME: HDFC Small Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-SCRAPED: 2026-09-12T09:05:26.342923+00:00
+SCRAPED: 2026-09-13T10:04:35.043318+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -92,33 +92,33 @@ Benchmark Full Name: BSE 250 SmallCap Total Return Index
 ============================================================
 
 Top 10 Holdings:
-  - Firstsource Solutions Ltd: 4.24% (Industrials)
-  - Aster DM Healthcare Ltd: 3.89% (Healthcare)
-  - Gabriel India Ltd: 3.34% (Consumer Discretionary)
-  - eClerx Services Ltd: 2.85% (Technology)
-  - Bank Of Baroda: 2.73% (Financial)
-  - Krishna Institute Of Medical Sciences Ltd: 2.15% (Healthcare)
-  - Eris Lifesciences Ltd: 2.1% (Healthcare)
-  - Fortis Healthcare Ltd: 1.99% (Healthcare)
-  - Indian Bank: 1.94% (Financial)
-  - The Federal Bank Ltd: 1.79% (Financial)
+  - Firstsource Solutions Ltd: 3.71% (Industrials)
+  - Aster DM Healthcare Ltd: 3.56% (Healthcare)
+  - Gabriel India Ltd: 3.25% (Consumer Discretionary)
+  - eClerx Services Ltd: 3.09% (Technology)
+  - Bank Of Baroda: 2.67% (Financial)
+  - Indian Bank: 2.08% (Financial)
+  - Krishna Institute Of Medical Sciences Ltd: 2.01% (Healthcare)
+  - Eris Lifesciences Ltd: 2.0% (Healthcare)
+  - Apar Industries Ltd: 1.9% (Diversified)
+  - Pearl Global Industries Ltd: 1.77% (Consumer Discretionary)
 
 Asset Allocation:
-  Equity: 90.02%
-  Cash: 9.98%
+  Equity: 89.64%
+  Cash: 10.36%
 
 Sector Allocation:
-  Industrials: 22.07%
-  Consumer Discretionary: 19.98%
-  Healthcare: 12.34%
-  Financial: 12.27%
-  Materials: 7.60%
-  Technology: 7.18%
-  Consumer Staples: 4.93%
-  Diversified: 2.18%
-  Energy & Utilities: 1.47%
-Portfolio Date: 2026-07-30
-Total Holdings: 84
+  Industrials: 21.62%
+  Consumer Discretionary: 20.59%
+  Financial: 12.37%
+  Healthcare: 11.28%
+  Materials: 8.02%
+  Technology: 7.24%
+  Consumer Staples: 4.72%
+  Diversified: 2.39%
+  Energy & Utilities: 1.41%
+Portfolio Date: 2026-08-30
+Total Holdings: 85
 
 ============================================================
   TAX

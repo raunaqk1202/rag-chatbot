@@ -1,6 +1,6 @@
 SCHEME: HDFC Gold ETF Fund of Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
-SCRAPED: 2026-09-12T09:05:28.050419+00:00
+SCRAPED: 2026-09-13T10:04:36.463956+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -55,8 +55,8 @@ Category Average Returns:
   10 Years: 17.04%
 
 Category Rankings:
-  1 Year: Rank 10
-  3 Years: Rank 8
+  1 Year: Rank 11
+  3 Years: Rank 6
   5 Years: Rank 6
   10 Years: Rank 3
 
@@ -90,7 +90,7 @@ Benchmark Full Name: Domestic Price of Gold
 ============================================================
   HOLDINGS
 ============================================================
-Portfolio Date: 2026-07-30
+Portfolio Date: 2026-08-30
 Total Holdings: 0
 
 ============================================================
