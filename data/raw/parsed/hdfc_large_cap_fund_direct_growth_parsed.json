@@ -16,8 +16,8 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹1190.122",
-      "nav_date": "15-Sep-2026",
+      "nav": "₹1192.401",
+      "nav_date": "16-Sep-2026",
       "aum": "₹39,933.37 Cr",
       "expense_ratio": "1.03%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -30,14 +30,14 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-1.53%",
-        "1_week": "-2.31%",
-        "1_month": "-4.54%",
-        "3_months": "-0.72%",
-        "6_months": "3.06%",
-        "1_year": "-3.65%",
-        "3_years": "7.94%",
-        "5_years": "10.6%",
+        "1_day": "0.19%",
+        "1_week": "-1.39%",
+        "1_month": "-4.36%",
+        "3_months": "-0.93%",
+        "6_months": "2.54%",
+        "1_year": "-4.18%",
+        "3_years": "8.0%",
+        "5_years": "10.46%",
         "10_years": "12.17%",
         "since_inception": "13.08%"
       },
@@ -49,9 +49,9 @@
       },
       "category_rankings": {
         "1_year": "Rank 47",
-        "3_years": "Rank 44",
-        "5_years": "Rank 14",
-        "10_years": "Rank 13"
+        "3_years": "Rank 43",
+        "5_years": "Rank 15",
+        "10_years": "Rank 14"
       },
       "risk_metrics": {
         "sharpe_ratio": "0.4403410787",
@@ -61,10 +61,10 @@
         "sortino_ratio": "0.5252926983176127"
       },
       "sip_returns": {
-        "1_year": "-5.787563180829301%",
-        "3_years": "1.479909644022339%",
-        "5_years": "8.300036348350082%",
-        "10_years": "12.128461113984049%"
+        "1_year": "-5.390634357662479%",
+        "3_years": "1.6057988220455115%",
+        "5_years": "8.36887535590503%",
+        "10_years": "12.158668451680061%"
       }
     },
     "risk": {
@@ -137,7 +137,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-16T09:46:01.703243+00:00",
-  "fetched_at": "2026-09-16T09:46:01.702149+00:00",
+  "parse_timestamp": "2026-09-17T09:54:08.601071+00:00",
+  "fetched_at": "2026-09-17T09:54:08.600091+00:00",
   "http_status": 200
 }
