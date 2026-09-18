@@ -1,6 +1,6 @@
 SCHEME: HDFC Gold ETF Fund of Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
-SCRAPED: 2026-09-17T09:54:12.926322+00:00
+SCRAPED: 2026-09-18T09:29:09.358169+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹47.1141
-Nav Date: 16-Sep-2026
+Nav: ₹46.9569
+Nav Date: 17-Sep-2026
 Aum: ₹12,359.16 Cr
 Expense Ratio: 0.2%
 Exit Load: Exit load of 1%, if redeemed within 15 days.
@@ -37,15 +37,15 @@ Portfolio Turnover: 1.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.96%
-  1 Week: -0.73%
-  1 Month: -0.19%
-  3 Months: 0.6%
-  6 Months: -1.86%
-  1 Year: 35.34%
-  3 Years: 35.4%
-  5 Years: 25.2%
-  10 Years: 16.1%
+  1 Day: -0.33%
+  1 Week: -1.39%
+  1 Month: -1.5%
+  3 Months: 0.61%
+  6 Months: -2.93%
+  1 Year: 36.35%
+  3 Years: 35.21%
+  5 Years: 25.33%
+  10 Years: 16.06%
   Since Inception: 10.83%
 
 Category Average Returns:
@@ -57,7 +57,7 @@ Category Average Returns:
 Category Rankings:
   1 Year: Rank 9
   3 Years: Rank 7
-  5 Years: Rank 5
+  5 Years: Rank 6
   10 Years: Rank 2
 
 Risk Metrics:

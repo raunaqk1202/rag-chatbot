@@ -16,8 +16,8 @@
       "groww_rating": "5 out of 5"
     },
     "fund_details": {
-      "nav": "₹227.703",
-      "nav_date": "16-Sep-2026",
+      "nav": "₹229.51",
+      "nav_date": "17-Sep-2026",
       "aum": "₹108,324.55 Cr",
       "expense_ratio": "0.76%",
       "exit_load": "Exit load of 1% if redeemed within 1 year.",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.49%",
-        "1_week": "-1.97%",
-        "1_month": "-3.67%",
-        "3_months": "1.98%",
-        "6_months": "10.73%",
-        "1_year": "4.92%",
-        "3_years": "16.56%",
-        "5_years": "18.14%",
-        "10_years": "17.22%",
+        "1_day": "0.79%",
+        "1_week": "-0.92%",
+        "1_month": "-3.13%",
+        "3_months": "2.33%",
+        "6_months": "11.29%",
+        "1_year": "5.65%",
+        "3_years": "16.85%",
+        "5_years": "18.67%",
+        "10_years": "17.31%",
         "since_inception": "19.3%"
       },
       "category_average_returns": {
@@ -48,7 +48,7 @@
         "10_years": "16.00%"
       },
       "category_rankings": {
-        "1_year": "Rank 17",
+        "1_year": "Rank 16",
         "3_years": "Rank 14",
         "5_years": "Rank 3",
         "10_years": "Rank 8"
@@ -61,10 +61,10 @@
         "sortino_ratio": "1.0191238399635578"
       },
       "sip_returns": {
-        "1_year": "5.383613931934701%",
-        "3_years": "10.08369723992153%",
-        "5_years": "17.875463227970243%",
-        "10_years": "19.42488262419039%"
+        "1_year": "7.01133919019287%",
+        "3_years": "10.618835455061449%",
+        "5_years": "18.1846930403146%",
+        "10_years": "19.563006805073353%"
       }
     },
     "risk": {
@@ -138,7 +138,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-17T09:54:09.980800+00:00",
-  "fetched_at": "2026-09-17T09:54:09.979778+00:00",
+  "parse_timestamp": "2026-09-18T09:29:06.320387+00:00",
+  "fetched_at": "2026-09-18T09:29:06.319539+00:00",
   "http_status": 200
 }
