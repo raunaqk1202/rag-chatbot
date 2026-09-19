@@ -15,8 +15,8 @@
       "risk_level": "Very High"
     },
     "fund_details": {
-      "nav": "₹37.3714",
-      "nav_date": "17-Sep-2026",
+      "nav": "₹38.6629",
+      "nav_date": "18-Sep-2026",
       "aum": "₹4,698.50 Cr",
       "expense_ratio": "0.21%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
@@ -28,13 +28,13 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-0.98%",
-        "1_week": "-3.17%",
-        "1_month": "-3.22%",
-        "3_months": "-7.81%",
-        "6_months": "-10.53%",
-        "1_year": "76.36%",
-        "3_years": "44.44%"
+        "1_day": "3.46%",
+        "1_week": "3.45%",
+        "1_month": "1.07%",
+        "3_months": "-2.62%",
+        "6_months": "-5.73%",
+        "1_year": "80.17%",
+        "3_years": "45.95%"
       },
       "category_average_returns": {
         "1_year": "154.77%",
@@ -52,8 +52,8 @@
         "sortino_ratio": "2.7084629411633165"
       },
       "sip_returns": {
-        "1_year": "16.208987375072432%",
-        "3_years": "54.38850137568005%"
+        "1_year": "23.970019331626112%",
+        "3_years": "57.182524054599625%"
       }
     },
     "risk": {
@@ -97,7 +97,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-18T09:29:10.789308+00:00",
-  "fetched_at": "2026-09-18T09:29:10.788498+00:00",
+  "parse_timestamp": "2026-09-19T09:16:08.687290+00:00",
+  "fetched_at": "2026-09-19T09:16:08.686238+00:00",
   "http_status": 200
 }
