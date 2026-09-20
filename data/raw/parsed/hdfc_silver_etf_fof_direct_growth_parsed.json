@@ -41,7 +41,7 @@
         "3_years": "47.07%"
       },
       "category_rankings": {
-        "1_year": "Rank 6",
+        "1_year": "Rank 9",
         "3_years": "Rank 5"
       },
       "risk_metrics": {
@@ -97,7 +97,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-19T09:16:08.687290+00:00",
-  "fetched_at": "2026-09-19T09:16:08.686238+00:00",
+  "parse_timestamp": "2026-09-20T09:39:58.844875+00:00",
+  "fetched_at": "2026-09-20T09:39:58.843961+00:00",
   "http_status": 200
 }
