@@ -42,36 +42,37 @@
         "since_inception": "10.83%"
       },
       "category_average_returns": {
-        "1_year": "76.00%",
-        "3_years": "34.07%",
-        "5_years": "20.95%",
-        "10_years": "17.04%"
+        "1_year": "42.59%",
+        "3_years": "37.50%",
+        "5_years": "26.77%",
+        "10_years": "17.20%"
       },
       "category_rankings": {
-        "1_year": "Rank 14",
+        "1_year": "Rank 15",
         "3_years": "Rank 8",
         "5_years": "Rank 5",
         "10_years": "Rank 3"
       },
       "risk_metrics": {
-        "sharpe_ratio": "1.4573520359",
-        "beta": "0.90632203553226",
-        "alpha": "1.13986191100469",
-        "standard_deviation": "18.63802611007819",
-        "sortino_ratio": "2.310899515406525"
+        "sharpe_ratio": "1.46",
+        "beta": "0.91",
+        "alpha": "1.14",
+        "standard_deviation": "18.64",
+        "sortino_ratio": "2.31"
       },
       "sip_returns": {
-        "1_year": "24.899748899876005%",
-        "3_years": "39.83802151481135%",
-        "5_years": "31.634587139691728%",
-        "10_years": "21.53733561197689%"
+        "1_year": "18.64%",
+        "3_years": "38.37%",
+        "5_years": "31.22%",
+        "10_years": "21.5%",
+        "since_inception": "17.18%"
       }
     },
     "risk": {
       "riskometer_category": "High",
       "nfo_riskometer": "Moderately High Riskometer",
-      "standard_deviation": "18.63802611007819",
-      "beta": "0.90632203553226"
+      "standard_deviation": "18.64",
+      "beta": "0.91"
     },
     "benchmark": {
       "benchmark_index": "Domestic Price of Gold",
@@ -109,7 +110,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-20T09:39:57.383456+00:00",
-  "fetched_at": "2026-09-20T09:39:57.382442+00:00",
+  "parse_timestamp": "2026-09-21T10:29:27.393128+00:00",
+  "fetched_at": "2026-09-21T10:29:27.392149+00:00",
   "http_status": 200
 }
