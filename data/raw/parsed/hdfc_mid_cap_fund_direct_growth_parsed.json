@@ -16,8 +16,8 @@
       "groww_rating": "5 out of 5"
     },
     "fund_details": {
-      "nav": "₹231.413",
-      "nav_date": "18-Sep-2026",
+      "nav": "₹230.669",
+      "nav_date": "21-Sep-2026",
       "aum": "₹108,324.55 Cr",
       "expense_ratio": "0.76%",
       "exit_load": "Exit load of 1% if redeemed within 1 year.",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.83%",
-        "1_week": "0.35%",
-        "1_month": "-1.89%",
-        "3_months": "2.56%",
-        "6_months": "10.39%",
-        "1_year": "5.99%",
-        "3_years": "17.22%",
-        "5_years": "18.85%",
-        "10_years": "17.4%",
+        "1_day": "-0.32%",
+        "1_week": "0.03%",
+        "1_month": "-2.5%",
+        "3_months": "1.84%",
+        "6_months": "12.56%",
+        "1_year": "5.41%",
+        "3_years": "17.62%",
+        "5_years": "19.11%",
+        "10_years": "17.37%",
         "since_inception": "19.3%"
       },
       "category_average_returns": {
@@ -61,10 +61,10 @@
         "sortino_ratio": "1.0191238399635578"
       },
       "sip_returns": {
-        "1_year": "8.717293741799939%",
-        "3_years": "11.17824769256472%",
-        "5_years": "18.508209189070573%",
-        "10_years": "19.707562372815918%"
+        "1_year": "7.9017735034550896%",
+        "3_years": "10.892777920157148%",
+        "5_years": "18.317266591797505%",
+        "10_years": "19.620236524978534%"
       }
     },
     "risk": {
@@ -129,7 +129,8 @@
       "pros": [
         "1Y and 10Y annualised returns higher than category average",
         "Lower expense ratio: 0.76%",
-        "Higher alpha: 3.2 \nThe fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y "
+        "Higher alpha: 3.2 \nThe fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y ",
+        "Lower Base expense ratio: 0.61%"
       ],
       "cons": [
         "3Y and 5Y annualised returns lower than category average"
@@ -138,7 +139,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-21T10:29:24.080984+00:00",
-  "fetched_at": "2026-09-21T10:29:24.080079+00:00",
+  "parse_timestamp": "2026-09-22T09:42:30.775346+00:00",
+  "fetched_at": "2026-09-22T09:42:30.774470+00:00",
   "http_status": 200
 }
