@@ -16,10 +16,10 @@
       "groww_rating": "3 out of 5"
     },
     "fund_details": {
-      "nav": "₹161.382",
-      "nav_date": "23-Sep-2026",
+      "nav": "₹159.921",
+      "nav_date": "24-Sep-2026",
       "aum": "₹41,890.86 Cr",
-      "expense_ratio": "0.77%",
+      "expense_ratio": "0.78%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
       "min_sip_investment": "₹100",
       "min_lumpsum_investment": "₹100",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.52%",
-        "1_week": "2.13%",
-        "1_month": "-0.05%",
-        "3_months": "2.14%",
-        "6_months": "18.62%",
-        "1_year": "-1.94%",
-        "3_years": "11.51%",
-        "5_years": "14.89%",
-        "10_years": "17.52%",
+        "1_day": "-0.91%",
+        "1_week": "0.64%",
+        "1_month": "-0.49%",
+        "3_months": "0.66%",
+        "6_months": "15.39%",
+        "1_year": "-2.34%",
+        "3_years": "11.16%",
+        "5_years": "14.62%",
+        "10_years": "17.41%",
         "since_inception": "16.3%"
       },
       "category_average_returns": {
@@ -61,11 +61,11 @@
         "sortino_ratio": "0.54"
       },
       "sip_returns": {
-        "1_year": "7.36%",
-        "3_years": "6.31%",
-        "5_years": "13.78%",
-        "10_years": "18.26%",
-        "since_inception": "18.49%"
+        "1_year": "5.48%",
+        "3_years": "5.69%",
+        "5_years": "13.39%",
+        "10_years": "18.08%",
+        "since_inception": "18.37%"
       }
     },
     "risk": {
@@ -128,9 +128,9 @@
     },
     "analysis": {
       "pros": [
-        "Lower expense ratio: 0.77%",
+        "Lower expense ratio: 0.78%",
         "1Y and 10Y annualised returns higher than category average",
-        "Lower Base expense ratio: 0.62%"
+        "Lower Base expense ratio: 0.63%"
       ],
       "cons": [
         "3Y and 5Y annualised returns lower than category average"
@@ -139,7 +139,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-24T09:46:27.561781+00:00",
-  "fetched_at": "2026-09-24T09:46:27.560966+00:00",
+  "parse_timestamp": "2026-09-25T10:04:43.743896+00:00",
+  "fetched_at": "2026-09-25T10:04:43.743484+00:00",
   "http_status": 200
 }

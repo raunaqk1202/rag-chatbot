@@ -15,8 +15,8 @@
       "risk_level": "Very High"
     },
     "fund_details": {
-      "nav": "₹38.002",
-      "nav_date": "23-Sep-2026",
+      "nav": "₹37.2349",
+      "nav_date": "24-Sep-2026",
       "aum": "₹4,698.50 Cr",
       "expense_ratio": "0.21%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
@@ -28,39 +28,40 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.03%",
-        "1_week": "0.7%",
-        "1_month": "-5.41%",
-        "3_months": "2.43%",
-        "6_months": "14.63%",
-        "1_year": "67.97%",
-        "3_years": "44.59%"
+        "1_day": "-2.02%",
+        "1_week": "-0.37%",
+        "1_month": "-6.93%",
+        "3_months": "1.12%",
+        "6_months": "1.25%",
+        "1_year": "64.33%",
+        "3_years": "43.56%"
       },
       "category_average_returns": {
-        "1_year": "154.77%",
-        "3_years": "47.07%"
+        "1_year": "85.50%",
+        "3_years": "47.15%"
       },
       "category_rankings": {
         "1_year": "Rank 10",
         "3_years": "Rank 5"
       },
       "risk_metrics": {
-        "sharpe_ratio": "1.1799402077",
-        "beta": "0.9739075785654",
-        "alpha": "-0.8860469666793",
-        "standard_deviation": "22.931348482653195",
-        "sortino_ratio": "2.7084629411633165"
+        "sharpe_ratio": "0.97",
+        "beta": "0.9",
+        "alpha": "0.88",
+        "standard_deviation": "39.6",
+        "sortino_ratio": "2.02"
       },
       "sip_returns": {
-        "1_year": "19.371094554694267%",
-        "3_years": "55.19680696265039%"
+        "1_year": "14.79%",
+        "3_years": "53.38%",
+        "since_inception": "45.76%"
       }
     },
     "risk": {
       "riskometer_category": "Very High",
       "nfo_riskometer": "Very High",
-      "standard_deviation": "22.931348482653195",
-      "beta": "0.9739075785654"
+      "standard_deviation": "39.6",
+      "beta": "0.9"
     },
     "benchmark": {
       "benchmark_index": "Domestic Price of Silver",
@@ -98,7 +99,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-24T09:46:30.547794+00:00",
-  "fetched_at": "2026-09-24T09:46:30.547056+00:00",
+  "parse_timestamp": "2026-09-25T10:04:46.507440+00:00",
+  "fetched_at": "2026-09-25T10:04:46.506973+00:00",
   "http_status": 200
 }
