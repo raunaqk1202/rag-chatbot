@@ -16,10 +16,10 @@
       "groww_rating": "5 out of 5"
     },
     "fund_details": {
-      "nav": "₹226.836",
-      "nav_date": "24-Sep-2026",
+      "nav": "₹226.38",
+      "nav_date": "25-Sep-2026",
       "aum": "₹108,324.55 Cr",
-      "expense_ratio": "0.75%",
+      "expense_ratio": "0.76%",
       "exit_load": "Exit load of 1% if redeemed within 1 year.",
       "min_sip_investment": "₹100",
       "min_lumpsum_investment": "₹100",
@@ -42,36 +42,37 @@
         "since_inception": "19.3%"
       },
       "category_average_returns": {
-        "1_year": "1.96%",
-        "3_years": "21.62%",
-        "5_years": "21.53%",
-        "10_years": "16.00%"
+        "1_year": "5.88%",
+        "3_years": "16.12%",
+        "5_years": "15.29%",
+        "10_years": "16.29%"
       },
       "category_rankings": {
         "1_year": "Rank 21",
         "3_years": "Rank 16",
-        "5_years": "Rank 4",
+        "5_years": "Rank 3",
         "10_years": "Rank 8"
       },
       "risk_metrics": {
-        "sharpe_ratio": "0.8548047726",
-        "beta": "0.8399685854966",
-        "alpha": "3.20372816764289",
-        "standard_deviation": "15.336868057150255",
-        "sortino_ratio": "1.0191238399635578"
+        "sharpe_ratio": "0.85",
+        "beta": "0.84",
+        "alpha": "3.2",
+        "standard_deviation": "15.34",
+        "sortino_ratio": "1.02"
       },
       "sip_returns": {
-        "1_year": "7.19287765336063%",
-        "3_years": "10.648622653413673%",
-        "5_years": "18.16495781266707%",
-        "10_years": "19.551178182931285%"
+        "1_year": "4.39%",
+        "3_years": "9.67%",
+        "5_years": "17.57%",
+        "10_years": "19.28%",
+        "since_inception": "19.4%"
       }
     },
     "risk": {
       "riskometer_category": "Very High",
       "nfo_riskometer": "Moderately High",
-      "standard_deviation": "15.336868057150255",
-      "beta": "0.8399685854966"
+      "standard_deviation": "15.34",
+      "beta": "0.84"
     },
     "benchmark": {
       "benchmark_index": "NIFTY Midcap 150 TRI",
@@ -128,7 +129,7 @@
     "analysis": {
       "pros": [
         "1Y and 10Y annualised returns higher than category average",
-        "Lower expense ratio: 0.75%",
+        "Lower expense ratio: 0.76%",
         "Higher alpha: 3.2 \nThe fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y ",
         "Lower Base expense ratio: 0.61%"
       ],
@@ -139,7 +140,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-25T10:04:42.430630+00:00",
-  "fetched_at": "2026-09-25T10:04:42.430030+00:00",
+  "parse_timestamp": "2026-09-26T09:45:47.686812+00:00",
+  "fetched_at": "2026-09-26T09:45:47.685989+00:00",
   "http_status": 200
 }

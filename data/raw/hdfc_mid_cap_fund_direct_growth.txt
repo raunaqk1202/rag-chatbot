@@ -1,6 +1,6 @@
 SCHEME: HDFC Mid Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-SCRAPED: 2026-09-25T10:04:42.430630+00:00
+SCRAPED: 2026-09-26T09:45:47.686812+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,10 +20,10 @@ Groww Rating: 5 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹226.836
-Nav Date: 24-Sep-2026
+Nav: ₹226.38
+Nav Date: 25-Sep-2026
 Aum: ₹108,324.55 Cr
-Expense Ratio: 0.75%
+Expense Ratio: 0.76%
 Exit Load: Exit load of 1% if redeemed within 1 year.
 Min Sip Investment: ₹100
 Min Lumpsum Investment: ₹100
@@ -49,37 +49,38 @@ Annualised Returns Cagr:
   Since Inception: 19.3%
 
 Category Average Returns:
-  1 Year: 1.96%
-  3 Years: 21.62%
-  5 Years: 21.53%
-  10 Years: 16.00%
+  1 Year: 5.88%
+  3 Years: 16.12%
+  5 Years: 15.29%
+  10 Years: 16.29%
 
 Category Rankings:
   1 Year: Rank 21
   3 Years: Rank 16
-  5 Years: Rank 4
+  5 Years: Rank 3
   10 Years: Rank 8
 
 Risk Metrics:
-  Sharpe Ratio: 0.8548047726
-  Beta: 0.8399685854966
-  Alpha: 3.20372816764289
-  Standard Deviation: 15.336868057150255
-  Sortino Ratio: 1.0191238399635578
+  Sharpe Ratio: 0.85
+  Beta: 0.84
+  Alpha: 3.2
+  Standard Deviation: 15.34
+  Sortino Ratio: 1.02
 
 Sip Returns:
-  1 Year: 7.19287765336063%
-  3 Years: 10.648622653413673%
-  5 Years: 18.16495781266707%
-  10 Years: 19.551178182931285%
+  1 Year: 4.39%
+  3 Years: 9.67%
+  5 Years: 17.57%
+  10 Years: 19.28%
+  Since Inception: 19.4%
 
 ============================================================
   RISK
 ============================================================
 Riskometer Category: Very High
 Nfo Riskometer: Moderately High
-Standard Deviation: 15.336868057150255
-Beta: 0.8399685854966
+Standard Deviation: 15.34
+Beta: 0.84
 
 ============================================================
   BENCHMARK
@@ -149,7 +150,7 @@ Website: http://www.hdfcfund.com
 
 Pros:
   - 1Y and 10Y annualised returns higher than category average
-  - Lower expense ratio: 0.75%
+  - Lower expense ratio: 0.76%
   - Higher alpha: 3.2 
 The fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y 
   - Lower Base expense ratio: 0.61%

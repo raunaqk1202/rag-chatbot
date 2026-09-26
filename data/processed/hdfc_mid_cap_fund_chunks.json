@@ -6,43 +6,43 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "fund_overview",
-      "scrape_date": "2026-09-25",
+      "scrape_date": "2026-09-26",
       "chunk_index": 0,
       "word_count": 63
     }
   },
   {
     "id": "hdfc_mid_cap_fund__fund_details",
-    "text": "HDFC Mid Cap Fund – Direct Growth: Fund Details. NAV: ₹226.836. NAV Date: 24-Sep-2026. AUM: ₹108,324.55 Cr. Expense Ratio: 0.75%. Exit Load: Exit load of 1% if redeemed within 1 year.. Minimum SIP Investment: ₹100. Minimum Lumpsum Investment: ₹100. Minimum Additional Investment: ₹100. Lock-in Period: No lock-in period. Stamp Duty: 0.005% (from July 1st, 2020). Portfolio Turnover: 13.0%.",
+    "text": "HDFC Mid Cap Fund – Direct Growth: Fund Details. NAV: ₹226.38. NAV Date: 25-Sep-2026. AUM: ₹108,324.55 Cr. Expense Ratio: 0.76%. Exit Load: Exit load of 1% if redeemed within 1 year.. Minimum SIP Investment: ₹100. Minimum Lumpsum Investment: ₹100. Minimum Additional Investment: ₹100. Lock-in Period: No lock-in period. Stamp Duty: 0.005% (from July 1st, 2020). Portfolio Turnover: 13.0%.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "fund_details",
-      "scrape_date": "2026-09-25",
+      "scrape_date": "2026-09-26",
       "chunk_index": 1,
       "word_count": 58
     }
   },
   {
     "id": "hdfc_mid_cap_fund__returns",
-    "text": "HDFC Mid Cap Fund – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: -1.83%, 1 Week: -1.17%, 1 Month: -4.34%, 3 Months: -0.47%, 6 Months: 11.81%, 1 Year: 5.74%, 3 Years: 16.85%, 5 Years: 18.37%, 10 Years: 17.06%, Since Inception: 19.3%. Category Average Returns: 1 Year: 1.96%, 3 Years: 21.62%, 5 Years: 21.53%, 10 Years: 16.00%. Category Rankings: 1 Year: Rank 21, 3 Years: Rank 16, 5 Years: Rank 4, 10 Years: Rank 8. Risk Metrics: Sharpe Ratio: 0.8548047726, Beta: 0.8399685854966, Alpha: 3.20372816764289, Standard Deviation: 15.336868057150255, Sortino Ratio: 1.0191238399635578. SIP Returns: 1 Year: 7.19287765336063%, 3 Years: 10.648622653413673%, 5 Years: 18.16495781266707%, 10 Years: 19.551178182931285%.",
+    "text": "HDFC Mid Cap Fund – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: -1.83%, 1 Week: -1.17%, 1 Month: -4.34%, 3 Months: -0.47%, 6 Months: 11.81%, 1 Year: 5.74%, 3 Years: 16.85%, 5 Years: 18.37%, 10 Years: 17.06%, Since Inception: 19.3%. Category Average Returns: 1 Year: 5.88%, 3 Years: 16.12%, 5 Years: 15.29%, 10 Years: 16.29%. Category Rankings: 1 Year: Rank 21, 3 Years: Rank 16, 5 Years: Rank 3, 10 Years: Rank 8. Risk Metrics: Sharpe Ratio: 0.85, Beta: 0.84, Alpha: 3.2, Standard Deviation: 15.34, Sortino Ratio: 1.02. SIP Returns: 1 Year: 4.39%, 3 Years: 9.67%, 5 Years: 17.57%, 10 Years: 19.28%, Since Inception: 19.4%.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "returns",
-      "scrape_date": "2026-09-25",
+      "scrape_date": "2026-09-26",
       "chunk_index": 2,
-      "word_count": 105
+      "word_count": 108
     }
   },
   {
     "id": "hdfc_mid_cap_fund__risk_and_benchmark",
-    "text": "HDFC Mid Cap Fund – Direct Growth: Risk & Benchmark. Riskometer Category: Very High. NFO Riskometer: Moderately High. Standard Deviation: 15.336868057150255. Beta: 0.8399685854966. Benchmark Index: NIFTY Midcap 150 TRI (NIFTY Midcap 150 Total Return Index).",
+    "text": "HDFC Mid Cap Fund – Direct Growth: Risk & Benchmark. Riskometer Category: Very High. NFO Riskometer: Moderately High. Standard Deviation: 15.34. Beta: 0.84. Benchmark Index: NIFTY Midcap 150 TRI (NIFTY Midcap 150 Total Return Index).",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "risk_and_benchmark",
-      "scrape_date": "2026-09-25",
+      "scrape_date": "2026-09-26",
       "chunk_index": 3,
       "word_count": 35
     }
@@ -54,7 +54,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "holdings",
-      "scrape_date": "2026-09-25",
+      "scrape_date": "2026-09-26",
       "chunk_index": 4,
       "word_count": 103
     }
@@ -66,7 +66,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "tax",
-      "scrape_date": "2026-09-25",
+      "scrape_date": "2026-09-26",
       "chunk_index": 5,
       "word_count": 65
     }
@@ -78,7 +78,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "fund_management",
-      "scrape_date": "2026-09-25",
+      "scrape_date": "2026-09-26",
       "chunk_index": 6,
       "word_count": 89
     }
@@ -90,19 +90,19 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "amc_info",
-      "scrape_date": "2026-09-25",
+      "scrape_date": "2026-09-26",
       "chunk_index": 7,
       "word_count": 29
     }
   },
   {
     "id": "hdfc_mid_cap_fund__analysis",
-    "text": "HDFC Mid Cap Fund – Direct Growth: Analysis – Pros & Cons. Pros: 1Y and 10Y annualised returns higher than category average; Lower expense ratio: 0.75%; Higher alpha: 3.2 \nThe fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y ; Lower Base expense ratio: 0.61%. Cons: 3Y and 5Y annualised returns lower than category average.",
+    "text": "HDFC Mid Cap Fund – Direct Growth: Analysis – Pros & Cons. Pros: 1Y and 10Y annualised returns higher than category average; Lower expense ratio: 0.76%; Higher alpha: 3.2 \nThe fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y ; Lower Base expense ratio: 0.61%. Cons: 3Y and 5Y annualised returns lower than category average.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
       "section": "analysis",
-      "scrape_date": "2026-09-25",
+      "scrape_date": "2026-09-26",
       "chunk_index": 8,
       "word_count": 65
     }
