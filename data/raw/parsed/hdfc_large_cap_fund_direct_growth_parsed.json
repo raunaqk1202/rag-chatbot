@@ -35,17 +35,17 @@
         "1_month": "-4.86%",
         "3_months": "-2.33%",
         "6_months": "2.69%",
-        "1_year": "-4.12%",
-        "3_years": "8.62%",
-        "5_years": "10.3%",
-        "10_years": "11.99%",
+        "1_year": "-3.26%",
+        "3_years": "8.71%",
+        "5_years": "10.32%",
+        "10_years": "12.0%",
         "since_inception": "13.08%"
       },
       "category_average_returns": {
-        "1_year": "-3.35%",
-        "3_years": "10.11%",
-        "5_years": "8.64%",
-        "10_years": "11.89%"
+        "1_year": "-2.32%",
+        "3_years": "10.27%",
+        "5_years": "8.71%",
+        "10_years": "11.93%"
       },
       "category_rankings": {
         "1_year": "Rank 51",
@@ -61,11 +61,11 @@
         "sortino_ratio": "0.53"
       },
       "sip_returns": {
-        "1_year": "-5.93%",
-        "3_years": "1.31%",
-        "5_years": "8.13%",
-        "10_years": "12.03%",
-        "since_inception": "12.49%"
+        "1_year": "-5.65%",
+        "3_years": "1.4%",
+        "5_years": "8.18%",
+        "10_years": "12.05%",
+        "since_inception": "12.51%"
       }
     },
     "risk": {
@@ -139,7 +139,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-26T09:45:46.347331+00:00",
-  "fetched_at": "2026-09-26T09:45:46.346487+00:00",
+  "parse_timestamp": "2026-09-27T10:26:01.311393+00:00",
+  "fetched_at": "2026-09-27T10:26:01.310177+00:00",
   "http_status": 200
 }
