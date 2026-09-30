@@ -16,8 +16,8 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹1170.112",
-      "nav_date": "28-Sep-2026",
+      "nav": "₹1165.784",
+      "nav_date": "29-Sep-2026",
       "aum": "₹39,933.37 Cr",
       "expense_ratio": "1.03%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-1.6%",
-        "1_week": "-3.01%",
-        "1_month": "-6.04%",
-        "3_months": "-3.89%",
-        "6_months": "3.14%",
-        "1_year": "-3.71%",
-        "3_years": "7.99%",
-        "5_years": "9.88%",
-        "10_years": "11.89%",
+        "1_day": "-0.37%",
+        "1_week": "-3.13%",
+        "1_month": "-6.38%",
+        "3_months": "-3.73%",
+        "6_months": "2.75%",
+        "1_year": "-4.19%",
+        "3_years": "7.77%",
+        "5_years": "9.65%",
+        "10_years": "12.14%",
         "since_inception": "13.08%"
       },
       "category_average_returns": {
@@ -48,10 +48,10 @@
         "10_years": "11.93%"
       },
       "category_rankings": {
-        "1_year": "Rank 51",
-        "3_years": "Rank 45",
-        "5_years": "Rank 17",
-        "10_years": "Rank 14"
+        "1_year": "Rank 43",
+        "3_years": "Rank 38",
+        "5_years": "Rank 19",
+        "10_years": "Rank 11"
       },
       "risk_metrics": {
         "sharpe_ratio": "0.44",
@@ -61,11 +61,11 @@
         "sortino_ratio": "0.53"
       },
       "sip_returns": {
-        "1_year": "-8.41%",
-        "3_years": "0.33%",
-        "5_years": "7.51%",
-        "10_years": "11.73%",
-        "since_inception": "12.28%"
+        "1_year": "-9.01%",
+        "3_years": "0.09%",
+        "5_years": "7.35%",
+        "10_years": "11.66%",
+        "since_inception": "12.23%"
       }
     },
     "risk": {
@@ -130,7 +130,7 @@
     "analysis": {
       "pros": [
         "Lower expense ratio: 1.03%",
-        "Lower Base expense ratio: 0.84%"
+        "Lower base expense ratio: 0.84%"
       ],
       "cons": [
         "Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y"
@@ -139,7 +139,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-09-29T11:12:26.021335+00:00",
-  "fetched_at": "2026-09-29T11:12:26.020466+00:00",
+  "parse_timestamp": "2026-09-30T11:00:07.124880+00:00",
+  "fetched_at": "2026-09-30T11:00:07.124023+00:00",
   "http_status": 200
 }

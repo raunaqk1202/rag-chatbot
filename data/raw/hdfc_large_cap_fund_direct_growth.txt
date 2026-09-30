@@ -1,6 +1,6 @@
 SCHEME: HDFC Large Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-SCRAPED: 2026-09-29T11:12:26.021335+00:00
+SCRAPED: 2026-09-30T11:00:07.124880+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹1170.112
-Nav Date: 28-Sep-2026
+Nav: ₹1165.784
+Nav Date: 29-Sep-2026
 Aum: ₹39,933.37 Cr
 Expense Ratio: 1.03%
 Exit Load: Exit load of 1% if redeemed within 1 year
@@ -37,15 +37,15 @@ Portfolio Turnover: 18.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -1.6%
-  1 Week: -3.01%
-  1 Month: -6.04%
-  3 Months: -3.89%
-  6 Months: 3.14%
-  1 Year: -3.71%
-  3 Years: 7.99%
-  5 Years: 9.88%
-  10 Years: 11.89%
+  1 Day: -0.37%
+  1 Week: -3.13%
+  1 Month: -6.38%
+  3 Months: -3.73%
+  6 Months: 2.75%
+  1 Year: -4.19%
+  3 Years: 7.77%
+  5 Years: 9.65%
+  10 Years: 12.14%
   Since Inception: 13.08%
 
 Category Average Returns:
@@ -55,10 +55,10 @@ Category Average Returns:
   10 Years: 11.93%
 
 Category Rankings:
-  1 Year: Rank 51
-  3 Years: Rank 45
-  5 Years: Rank 17
-  10 Years: Rank 14
+  1 Year: Rank 43
+  3 Years: Rank 38
+  5 Years: Rank 19
+  10 Years: Rank 11
 
 Risk Metrics:
   Sharpe Ratio: 0.44
@@ -68,11 +68,11 @@ Risk Metrics:
   Sortino Ratio: 0.53
 
 Sip Returns:
-  1 Year: -8.41%
-  3 Years: 0.33%
-  5 Years: 7.51%
-  10 Years: 11.73%
-  Since Inception: 12.28%
+  1 Year: -9.01%
+  3 Years: 0.09%
+  5 Years: 7.35%
+  10 Years: 11.66%
+  Since Inception: 12.23%
 
 ============================================================
   RISK
@@ -151,7 +151,7 @@ Website: http://www.hdfcfund.com
 
 Pros:
   - Lower expense ratio: 1.03%
-  - Lower Base expense ratio: 0.84%
+  - Lower base expense ratio: 0.84%
 
 Cons:
   - Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y
