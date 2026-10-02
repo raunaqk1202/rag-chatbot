@@ -1,6 +1,6 @@
 SCHEME: HDFC Small Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-SCRAPED: 2026-10-01T11:27:29.720363+00:00
+SCRAPED: 2026-10-02T10:57:46.501656+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,10 +20,10 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹156.267
-Nav Date: 30-Sep-2026
+Nav: ₹155.006
+Nav Date: 01-Oct-2026
 Aum: ₹41,890.86 Cr
-Expense Ratio: 0.78%
+Expense Ratio: 0.79%
 Exit Load: Exit load of 1% if redeemed within 1 year
 Min Sip Investment: ₹100
 Min Lumpsum Investment: ₹100
@@ -37,15 +37,15 @@ Portfolio Turnover: 6.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.21%
-  1 Week: -3.17%
-  1 Month: -2.91%
-  3 Months: -0.36%
-  6 Months: 15.43%
-  1 Year: -1.76%
-  3 Years: 9.98%
-  5 Years: 14.14%
-  10 Years: 17.31%
+  1 Day: -0.81%
+  1 Week: -3.07%
+  1 Month: -3.71%
+  3 Months: -1.25%
+  6 Months: 11.24%
+  1 Year: -2.94%
+  3 Years: 9.67%
+  5 Years: 13.86%
+  10 Years: 17.21%
   Since Inception: 16.3%
 
 Category Average Returns:
@@ -55,31 +55,31 @@ Category Average Returns:
   10 Years: 17.80%
 
 Category Rankings:
-  1 Year: Rank 46
-  3 Years: Rank 34
+  1 Year: Rank 41
+  3 Years: Rank 30
   5 Years: Rank 18
-  10 Years: Rank 6
+  10 Years: Rank 5
 
 Risk Metrics:
-  Sharpe Ratio: 0.38
+  Sharpe Ratio: 0.31
   Beta: 0.78
-  Alpha: -1.13
-  Standard Deviation: 17.46
-  Sortino Ratio: 0.54
+  Alpha: -1.05
+  Standard Deviation: 17.61
+  Sortino Ratio: 0.45
 
 Sip Returns:
-  1 Year: 0.89%
-  3 Years: 4.08%
-  5 Years: 12.37%
-  10 Years: 17.6%
-  Since Inception: 18.04%
+  1 Year: -0.19%
+  3 Years: 3.17%
+  5 Years: 11.96%
+  10 Years: 17.46%
+  Since Inception: 17.93%
 
 ============================================================
   RISK
 ============================================================
 Riskometer Category: Very High
 Nfo Riskometer: Moderately High Riskometer
-Standard Deviation: 17.46
+Standard Deviation: 17.61
 Beta: 0.78
 
 ============================================================
@@ -149,9 +149,9 @@ Website: http://www.hdfcfund.com
 ============================================================
 
 Pros:
-  - Lower expense ratio: 0.78%
+  - Lower expense ratio: 0.79%
   - 1Y and 10Y annualised returns higher than category average
-  - Lower Base expense ratio: 0.63%
+  - Lower base expense ratio: 0.64%
 
 Cons:
   - 3Y and 5Y annualised returns lower than category average

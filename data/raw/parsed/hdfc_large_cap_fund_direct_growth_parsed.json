@@ -16,10 +16,10 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹1161.706",
-      "nav_date": "30-Sep-2026",
+      "nav": "₹1151.92",
+      "nav_date": "01-Oct-2026",
       "aum": "₹39,933.37 Cr",
-      "expense_ratio": "1.03%",
+      "expense_ratio": "1.04%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
       "min_sip_investment": "₹100",
       "min_lumpsum_investment": "₹100",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-0.35%",
-        "1_week": "-3.79%",
-        "1_month": "-6.71%",
-        "3_months": "-4.09%",
-        "6_months": "4.91%",
-        "1_year": "-4.47%",
-        "3_years": "7.64%",
-        "5_years": "9.67%",
-        "10_years": "11.98%",
+        "1_day": "-0.84%",
+        "1_week": "-2.99%",
+        "1_month": "-6.9%",
+        "3_months": "-5.6%",
+        "6_months": "2.74%",
+        "1_year": "-6.15%",
+        "3_years": "7.33%",
+        "5_years": "9.55%",
+        "10_years": "11.88%",
         "since_inception": "13.08%"
       },
       "category_average_returns": {
@@ -48,30 +48,30 @@
         "10_years": "11.93%"
       },
       "category_rankings": {
-        "1_year": "Rank 53",
-        "3_years": "Rank 45",
-        "5_years": "Rank 21",
-        "10_years": "Rank 14"
+        "1_year": "Rank 48",
+        "3_years": "Rank 40",
+        "5_years": "Rank 18",
+        "10_years": "Rank 13"
       },
       "risk_metrics": {
-        "sharpe_ratio": "0.44",
+        "sharpe_ratio": "0.19",
         "beta": "0.95",
-        "alpha": "0.94",
-        "standard_deviation": "13.8",
-        "sortino_ratio": "0.53"
+        "alpha": "0.03",
+        "standard_deviation": "14.38",
+        "sortino_ratio": "0.24"
       },
       "sip_returns": {
-        "1_year": "-9.57%",
-        "3_years": "-0.14%",
-        "5_years": "7.2%",
-        "10_years": "11.59%",
-        "since_inception": "12.18%"
+        "1_year": "-11.79%",
+        "3_years": "-1.19%",
+        "5_years": "6.75%",
+        "10_years": "11.42%",
+        "since_inception": "12.07%"
       }
     },
     "risk": {
       "riskometer_category": "Very High",
       "nfo_riskometer": "Moderately High Riskometer",
-      "standard_deviation": "13.8",
+      "standard_deviation": "14.38",
       "beta": "0.95"
     },
     "benchmark": {
@@ -129,8 +129,8 @@
     },
     "analysis": {
       "pros": [
-        "Lower expense ratio: 1.03%",
-        "Lower Base expense ratio: 0.84%"
+        "Lower expense ratio: 1.04%",
+        "Lower base expense ratio: 0.85%"
       ],
       "cons": [
         "Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y"
@@ -139,7 +139,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-10-01T11:27:27.052096+00:00",
-  "fetched_at": "2026-10-01T11:27:27.051120+00:00",
+  "parse_timestamp": "2026-10-02T10:57:43.782364+00:00",
+  "fetched_at": "2026-10-02T10:57:43.781513+00:00",
   "http_status": 200
 }
