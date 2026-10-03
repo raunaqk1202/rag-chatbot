@@ -1,6 +1,6 @@
 SCHEME: HDFC Silver ETF FoF – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth
-SCRAPED: 2026-10-02T10:57:49.325042+00:00
+SCRAPED: 2026-10-03T10:17:10.790766+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -44,12 +44,12 @@ Annualised Returns Cagr:
   3 Years: 42.93%
 
 Category Average Returns:
-  1 Year: 68.51%
-  3 Years: 45.57%
+  1 Year: 52.31%
+  3 Years: 44.03%
 
 Category Rankings:
-  1 Year: Rank 7
-  3 Years: Rank 4
+  1 Year: Rank 9
+  3 Years: Rank 5
 
 Risk Metrics:
   Sharpe Ratio: 0.95
