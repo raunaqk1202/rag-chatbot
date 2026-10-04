@@ -130,7 +130,7 @@
       "pros": [
         "1Y and 10Y annualised returns higher than category average",
         "Lower expense ratio: 0.76%",
-        "Higher alpha: 3.2 \nThe fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y ",
+        "Higher alpha: 2.44 \nThe fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y ",
         "Lower base expense ratio: 0.61%"
       ],
       "cons": [
@@ -140,7 +140,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-10-03T10:17:06.244397+00:00",
-  "fetched_at": "2026-10-03T10:17:06.243763+00:00",
+  "parse_timestamp": "2026-10-04T11:01:14.349752+00:00",
+  "fetched_at": "2026-10-04T11:01:14.348914+00:00",
   "http_status": 200
 }

@@ -1,6 +1,6 @@
 SCHEME: HDFC Mid Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-SCRAPED: 2026-10-03T10:17:06.244397+00:00
+SCRAPED: 2026-10-04T11:01:14.349752+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -151,7 +151,7 @@ Website: http://www.hdfcfund.com
 Pros:
   - 1Y and 10Y annualised returns higher than category average
   - Lower expense ratio: 0.76%
-  - Higher alpha: 3.2 
+  - Higher alpha: 2.44 
 The fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y 
   - Lower base expense ratio: 0.61%
 
