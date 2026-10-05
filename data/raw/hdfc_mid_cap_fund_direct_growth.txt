@@ -1,6 +1,6 @@
 SCHEME: HDFC Mid Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-SCRAPED: 2026-10-04T11:01:14.349752+00:00
+SCRAPED: 2026-10-05T12:08:15.918594+00:00
 
 ============================================================
   FUND OVERVIEW
