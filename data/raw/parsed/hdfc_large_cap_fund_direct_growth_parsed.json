@@ -16,9 +16,9 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹1140.674",
-      "nav_date": "08-Oct-2026",
-      "aum": "₹39,933.37 Cr",
+      "nav": "₹1152.946",
+      "nav_date": "09-Oct-2026",
+      "aum": "₹37,293.95 Cr",
       "expense_ratio": "1.04%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
       "min_sip_investment": "₹100",
@@ -30,11 +30,11 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-1.78%",
-        "1_week": "-0.98%",
-        "1_month": "-6.37%",
-        "3_months": "-6.38%",
-        "6_months": "-3.79%",
+        "1_day": "1.08%",
+        "1_week": "0.09%",
+        "1_month": "-4.65%",
+        "3_months": "-6.08%",
+        "6_months": "-1.79%",
         "1_year": "-7.54%",
         "3_years": "7.16%",
         "5_years": "8.91%",
@@ -42,10 +42,10 @@
         "since_inception": "13.08%"
       },
       "category_average_returns": {
-        "1_year": "-5.08%",
-        "3_years": "9.05%",
-        "5_years": "8.36%",
-        "10_years": "11.82%"
+        "1_year": "-6.73%",
+        "3_years": "8.69%",
+        "5_years": "7.68%",
+        "10_years": "11.53%"
       },
       "category_rankings": {
         "1_year": "Rank 54",
@@ -80,35 +80,35 @@
     },
     "holdings": {
       "top_10_holdings": [
-        "ICICI Bank Ltd: 10.05% (Financial)",
-        "HDFC Bank Ltd: 6.88% (Financial)",
-        "Bharti Airtel Ltd: 6.23% (Technology)",
-        "Kotak Mahindra Bank Ltd: 5.71% (Financial)",
-        "Titan Company Ltd: 5.27% (Consumer Discretionary)",
-        "Reliance Industries Ltd: 4.78% (Energy & Utilities)",
-        "Torrent Pharmaceuticals Ltd: 4.04% (Healthcare)",
-        "Axis Bank Ltd: 3.49% (Financial)",
-        "Bajaj Finserv Ltd: 3.33% (Financial)",
-        "Bajaj Auto Ltd: 2.93% (Consumer Discretionary)"
+        "ICICI Bank Ltd: 9.79% (Financial)",
+        "HDFC Bank Ltd: 7.36% (Financial)",
+        "Bharti Airtel Ltd: 6.46% (Technology)",
+        "Kotak Mahindra Bank Ltd: 6.08% (Financial)",
+        "Titan Company Ltd: 5.07% (Consumer Discretionary)",
+        "Reliance Industries Ltd: 4.76% (Energy & Utilities)",
+        "Torrent Pharmaceuticals Ltd: 4.09% (Healthcare)",
+        "Axis Bank Ltd: 3.52% (Financial)",
+        "Bajaj Finserv Ltd: 3.05% (Financial)",
+        "Bajaj Auto Ltd: 2.81% (Consumer Discretionary)"
       ],
       "asset_allocation": {
-        "equity": "98.58%",
-        "debt": "0.48%",
-        "cash": "0.94%"
+        "equity": "98.37%",
+        "debt": "0.51%",
+        "cash": "1.12%"
       },
       "sector_allocation": {
-        "Financial": "39.07%",
-        "Consumer Discretionary": "13.09%",
-        "Technology": "12.78%",
-        "Healthcare": "9.95%",
-        "Industrials": "8.23%",
-        "Energy & Utilities": "6.61%",
-        "Consumer Staples": "5.12%",
-        "Materials": "3.36%",
-        "Real Estate": "0.37%"
+        "Financial": "39.27%",
+        "Technology": "12.89%",
+        "Consumer Discretionary": "12.26%",
+        "Healthcare": "10.09%",
+        "Industrials": "8.35%",
+        "Energy & Utilities": "6.69%",
+        "Consumer Staples": "5.05%",
+        "Materials": "3.39%",
+        "Real Estate": "0.38%"
       },
-      "portfolio_date": "2026-08-30",
-      "total_holdings": "47"
+      "portfolio_date": "2026-09-29",
+      "total_holdings": "46"
     },
     "tax": {
       "tax_implications": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
@@ -139,7 +139,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-10-09T11:43:35.336883+00:00",
-  "fetched_at": "2026-10-09T11:43:35.335955+00:00",
+  "parse_timestamp": "2026-10-10T11:01:59.839363+00:00",
+  "fetched_at": "2026-10-10T11:01:59.838531+00:00",
   "http_status": 200
 }

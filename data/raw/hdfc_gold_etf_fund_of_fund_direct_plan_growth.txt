@@ -1,6 +1,6 @@
 SCHEME: HDFC Gold ETF Fund of Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
-SCRAPED: 2026-10-09T11:43:39.825370+00:00
+SCRAPED: 2026-10-10T11:02:04.402783+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,9 +20,9 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹45.6158
-Nav Date: 08-Oct-2026
-Aum: ₹12,359.16 Cr
+Nav: ₹46.2688
+Nav Date: 09-Oct-2026
+Aum: ₹12,013.27 Cr
 Expense Ratio: 0.2%
 Exit Load: Exit load of 1%, if redeemed within 15 days.
 Min Sip Investment: ₹100
@@ -37,11 +37,11 @@ Portfolio Turnover: 1.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -0.14%
-  1 Week: -0.45%
-  1 Month: -3.98%
-  3 Months: 3.29%
-  6 Months: -2.71%
+  1 Day: 1.43%
+  1 Week: 0.98%
+  1 Month: -2.52%
+  3 Months: 3.67%
+  6 Months: -0.48%
   1 Year: 18.96%
   3 Years: 35.62%
   5 Years: 24.44%
@@ -49,13 +49,13 @@ Annualised Returns Cagr:
   Since Inception: 10.83%
 
 Category Average Returns:
-  1 Year: 27.77%
-  3 Years: 36.59%
-  5 Years: 25.75%
-  10 Years: 16.56%
+  1 Year: 22.49%
+  3 Years: 37.25%
+  5 Years: 25.47%
+  10 Years: 16.94%
 
 Category Rankings:
-  1 Year: Rank 10
+  1 Year: Rank 11
   3 Years: Rank 6
   5 Years: Rank 5
   10 Years: Rank 4
@@ -91,7 +91,7 @@ Benchmark Full Name: Domestic Price of Gold
 ============================================================
   HOLDINGS
 ============================================================
-Portfolio Date: 2026-08-30
+Portfolio Date: 2026-09-29
 Total Holdings: 0
 
 ============================================================

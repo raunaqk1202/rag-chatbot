@@ -16,9 +16,9 @@
       "groww_rating": "3 out of 5"
     },
     "fund_details": {
-      "nav": "₹153.729",
-      "nav_date": "08-Oct-2026",
-      "aum": "₹41,890.86 Cr",
+      "nav": "₹154.445",
+      "nav_date": "09-Oct-2026",
+      "aum": "₹40,800.81 Cr",
       "expense_ratio": "0.79%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
       "min_sip_investment": "₹100",
@@ -30,11 +30,11 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-1.54%",
-        "1_week": "-0.82%",
-        "1_month": "-4.27%",
-        "3_months": "-1.07%",
-        "6_months": "5.3%",
+        "1_day": "0.47%",
+        "1_week": "-0.36%",
+        "1_month": "-3.4%",
+        "3_months": "-1.97%",
+        "6_months": "6.09%",
         "1_year": "-4.58%",
         "3_years": "9.05%",
         "5_years": "12.9%",
@@ -42,10 +42,10 @@
         "since_inception": "16.3%"
       },
       "category_average_returns": {
-        "1_year": "9.90%",
-        "3_years": "15.18%",
-        "5_years": "15.72%",
-        "10_years": "17.61%"
+        "1_year": "8.29%",
+        "3_years": "14.58%",
+        "5_years": "14.69%",
+        "10_years": "17.17%"
       },
       "category_rankings": {
         "1_year": "Rank 46",
@@ -80,33 +80,33 @@
     },
     "holdings": {
       "top_10_holdings": [
-        "Firstsource Solutions Ltd: 3.71% (Industrials)",
-        "Aster DM Healthcare Ltd: 3.56% (Healthcare)",
-        "Gabriel India Ltd: 3.25% (Consumer Discretionary)",
-        "eClerx Services Ltd: 3.09% (Technology)",
-        "Bank Of Baroda: 2.67% (Financial)",
-        "Indian Bank: 2.08% (Financial)",
-        "Krishna Institute Of Medical Sciences Ltd: 2.01% (Healthcare)",
-        "Eris Lifesciences Ltd: 2.0% (Healthcare)",
-        "Apar Industries Ltd: 1.9% (Diversified)",
-        "Pearl Global Industries Ltd: 1.77% (Consumer Discretionary)"
+        "Firstsource Solutions Ltd: 3.68% (Industrials)",
+        "Aster DM Healthcare Ltd: 3.37% (Healthcare)",
+        "Gabriel India Ltd: 3.09% (Consumer Discretionary)",
+        "eClerx Services Ltd: 2.92% (Technology)",
+        "Bank Of Baroda: 2.65% (Financial)",
+        "Krishna Institute Of Medical Sciences Ltd: 2.04% (Healthcare)",
+        "Apar Industries Ltd: 1.92% (Diversified)",
+        "Indian Bank: 1.91% (Financial)",
+        "Pearl Global Industries Ltd: 1.9% (Consumer Discretionary)",
+        "Eris Lifesciences Ltd: 1.89% (Healthcare)"
       ],
       "asset_allocation": {
-        "equity": "89.64%",
-        "cash": "10.36%"
+        "equity": "90.07%",
+        "cash": "9.93%"
       },
       "sector_allocation": {
-        "Industrials": "21.62%",
-        "Consumer Discretionary": "20.59%",
-        "Financial": "12.37%",
-        "Healthcare": "11.28%",
-        "Materials": "8.02%",
-        "Technology": "7.24%",
-        "Consumer Staples": "4.72%",
-        "Diversified": "2.39%",
-        "Energy & Utilities": "1.41%"
+        "Industrials": "22.07%",
+        "Consumer Discretionary": "20.49%",
+        "Financial": "12.29%",
+        "Healthcare": "10.79%",
+        "Materials": "8.64%",
+        "Technology": "7.06%",
+        "Consumer Staples": "4.62%",
+        "Diversified": "2.38%",
+        "Energy & Utilities": "1.73%"
       },
-      "portfolio_date": "2026-08-30",
+      "portfolio_date": "2026-09-29",
       "total_holdings": "85"
     },
     "tax": {
@@ -139,7 +139,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-10-09T11:43:38.372883+00:00",
-  "fetched_at": "2026-10-09T11:43:38.371964+00:00",
+  "parse_timestamp": "2026-10-10T11:02:02.963581+00:00",
+  "fetched_at": "2026-10-10T11:02:02.962698+00:00",
   "http_status": 200
 }

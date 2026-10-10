@@ -16,9 +16,9 @@
       "groww_rating": "3 out of 5"
     },
     "fund_details": {
-      "nav": "₹45.6158",
-      "nav_date": "08-Oct-2026",
-      "aum": "₹12,359.16 Cr",
+      "nav": "₹46.2688",
+      "nav_date": "09-Oct-2026",
+      "aum": "₹12,013.27 Cr",
       "expense_ratio": "0.2%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
       "min_sip_investment": "₹100",
@@ -30,11 +30,11 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-0.14%",
-        "1_week": "-0.45%",
-        "1_month": "-3.98%",
-        "3_months": "3.29%",
-        "6_months": "-2.71%",
+        "1_day": "1.43%",
+        "1_week": "0.98%",
+        "1_month": "-2.52%",
+        "3_months": "3.67%",
+        "6_months": "-0.48%",
         "1_year": "18.96%",
         "3_years": "35.62%",
         "5_years": "24.44%",
@@ -42,13 +42,13 @@
         "since_inception": "10.83%"
       },
       "category_average_returns": {
-        "1_year": "27.77%",
-        "3_years": "36.59%",
-        "5_years": "25.75%",
-        "10_years": "16.56%"
+        "1_year": "22.49%",
+        "3_years": "37.25%",
+        "5_years": "25.47%",
+        "10_years": "16.94%"
       },
       "category_rankings": {
-        "1_year": "Rank 10",
+        "1_year": "Rank 11",
         "3_years": "Rank 6",
         "5_years": "Rank 5",
         "10_years": "Rank 4"
@@ -79,7 +79,7 @@
       "benchmark_full_name": "Domestic Price of Gold"
     },
     "holdings": {
-      "portfolio_date": "2026-08-30",
+      "portfolio_date": "2026-09-29",
       "total_holdings": "0"
     },
     "tax": {
@@ -111,7 +111,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-10-09T11:43:39.825370+00:00",
-  "fetched_at": "2026-10-09T11:43:39.824421+00:00",
+  "parse_timestamp": "2026-10-10T11:02:04.402783+00:00",
+  "fetched_at": "2026-10-10T11:02:04.401956+00:00",
   "http_status": 200
 }

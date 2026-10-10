@@ -16,9 +16,9 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹217.078",
-      "nav_date": "08-Oct-2026",
-      "aum": "₹108,324.55 Cr",
+      "nav": "₹219.816",
+      "nav_date": "09-Oct-2026",
+      "aum": "₹101,856.06 Cr",
       "expense_ratio": "0.76%",
       "exit_load": "Exit load of 1% if redeemed within 1 year.",
       "min_sip_investment": "₹100",
@@ -30,11 +30,11 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-1.72%",
-        "1_week": "-1.08%",
-        "1_month": "-7.13%",
-        "3_months": "-4.19%",
-        "6_months": "2.05%",
+        "1_day": "1.26%",
+        "1_week": "0.17%",
+        "1_month": "-5.36%",
+        "3_months": "-3.98%",
+        "6_months": "3.4%",
         "1_year": "0.69%",
         "3_years": "14.85%",
         "5_years": "16.62%",
@@ -42,10 +42,10 @@
         "since_inception": "19.3%"
       },
       "category_average_returns": {
-        "1_year": "3.72%",
-        "3_years": "14.33%",
-        "5_years": "14.50%",
-        "10_years": "15.95%"
+        "1_year": "1.18%",
+        "3_years": "14.00%",
+        "5_years": "13.48%",
+        "10_years": "15.50%"
       },
       "category_rankings": {
         "1_year": "Rank 24",
@@ -80,33 +80,33 @@
     },
     "holdings": {
       "top_10_holdings": [
-        "The Federal Bank Ltd: 4.21% (Financial)",
-        "AU Small Finance Bank Ltd: 3.98% (Financial)",
-        "Max Financial Services Ltd: 3.79% (Financial)",
-        "Ipca Laboratories Ltd: 3.3% (Healthcare)",
+        "The Federal Bank Ltd: 3.98% (Financial)",
+        "AU Small Finance Bank Ltd: 3.94% (Financial)",
+        "Max Financial Services Ltd: 3.52% (Financial)",
+        "Ipca Laboratories Ltd: 3.43% (Healthcare)",
         "Glenmark Pharmaceuticals Ltd: 3.07% (Healthcare)",
-        "Indian Bank: 3.06% (Financial)",
-        "Balkrishna Industries Ltd: 3.02% (Consumer Discretionary)",
-        "Coforge Ltd: 2.86% (Technology)",
-        "Fortis Healthcare Ltd: 2.69% (Healthcare)",
-        "Vishal Mega Mart Ltd.: 2.31% (Consumer Staples)"
+        "Balkrishna Industries Ltd: 2.98% (Consumer Discretionary)",
+        "Indian Bank: 2.92% (Financial)",
+        "Coforge Ltd: 2.68% (Technology)",
+        "Fortis Healthcare Ltd: 2.4% (Healthcare)",
+        "Marico Ltd: 2.37% (Consumer Staples)"
       ],
       "asset_allocation": {
-        "equity": "92.93%",
-        "cash": "7.07%"
+        "equity": "91.71%",
+        "cash": "8.29%"
       },
       "sector_allocation": {
-        "Financial": "27.37%",
-        "Healthcare": "15.25%",
-        "Consumer Discretionary": "12.91%",
-        "Technology": "11.57%",
-        "Consumer Staples": "9.11%",
-        "Industrials": "8.10%",
-        "Materials": "5.19%",
-        "Energy & Utilities": "3.12%",
-        "Diversified": "0.31%"
+        "Financial": "25.84%",
+        "Healthcare": "15.44%",
+        "Consumer Discretionary": "12.76%",
+        "Technology": "11.60%",
+        "Consumer Staples": "9.36%",
+        "Industrials": "7.91%",
+        "Materials": "5.32%",
+        "Energy & Utilities": "3.18%",
+        "Diversified": "0.30%"
       },
-      "portfolio_date": "2026-08-30",
+      "portfolio_date": "2026-09-29",
       "total_holdings": "79"
     },
     "tax": {
@@ -128,7 +128,7 @@
     },
     "analysis": {
       "pros": [
-        "10Y annualised returns higher than category average by 0.3%",
+        "10Y annualised returns higher than category average by 0.44%",
         "Lower expense ratio: 0.76%",
         "Higher alpha: 2.44 \nThe fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y ",
         "Lower base expense ratio: 0.61%"
@@ -140,7 +140,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-10-09T11:43:36.700498+00:00",
-  "fetched_at": "2026-10-09T11:43:36.699592+00:00",
+  "parse_timestamp": "2026-10-10T11:02:01.519386+00:00",
+  "fetched_at": "2026-10-10T11:02:01.518547+00:00",
   "http_status": 200
 }

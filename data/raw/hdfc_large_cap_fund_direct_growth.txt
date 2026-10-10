@@ -1,6 +1,6 @@
 SCHEME: HDFC Large Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-SCRAPED: 2026-10-09T11:43:35.336883+00:00
+SCRAPED: 2026-10-10T11:01:59.839363+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,9 +20,9 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹1140.674
-Nav Date: 08-Oct-2026
-Aum: ₹39,933.37 Cr
+Nav: ₹1152.946
+Nav Date: 09-Oct-2026
+Aum: ₹37,293.95 Cr
 Expense Ratio: 1.04%
 Exit Load: Exit load of 1% if redeemed within 1 year
 Min Sip Investment: ₹100
@@ -37,11 +37,11 @@ Portfolio Turnover: 18.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -1.78%
-  1 Week: -0.98%
-  1 Month: -6.37%
-  3 Months: -6.38%
-  6 Months: -3.79%
+  1 Day: 1.08%
+  1 Week: 0.09%
+  1 Month: -4.65%
+  3 Months: -6.08%
+  6 Months: -1.79%
   1 Year: -7.54%
   3 Years: 7.16%
   5 Years: 8.91%
@@ -49,10 +49,10 @@ Annualised Returns Cagr:
   Since Inception: 13.08%
 
 Category Average Returns:
-  1 Year: -5.08%
-  3 Years: 9.05%
-  5 Years: 8.36%
-  10 Years: 11.82%
+  1 Year: -6.73%
+  3 Years: 8.69%
+  5 Years: 7.68%
+  10 Years: 11.53%
 
 Category Rankings:
   1 Year: Rank 54
@@ -93,34 +93,34 @@ Benchmark Full Name: NIFTY 100 Total Return Index
 ============================================================
 
 Top 10 Holdings:
-  - ICICI Bank Ltd: 10.05% (Financial)
-  - HDFC Bank Ltd: 6.88% (Financial)
-  - Bharti Airtel Ltd: 6.23% (Technology)
-  - Kotak Mahindra Bank Ltd: 5.71% (Financial)
-  - Titan Company Ltd: 5.27% (Consumer Discretionary)
-  - Reliance Industries Ltd: 4.78% (Energy & Utilities)
-  - Torrent Pharmaceuticals Ltd: 4.04% (Healthcare)
-  - Axis Bank Ltd: 3.49% (Financial)
-  - Bajaj Finserv Ltd: 3.33% (Financial)
-  - Bajaj Auto Ltd: 2.93% (Consumer Discretionary)
+  - ICICI Bank Ltd: 9.79% (Financial)
+  - HDFC Bank Ltd: 7.36% (Financial)
+  - Bharti Airtel Ltd: 6.46% (Technology)
+  - Kotak Mahindra Bank Ltd: 6.08% (Financial)
+  - Titan Company Ltd: 5.07% (Consumer Discretionary)
+  - Reliance Industries Ltd: 4.76% (Energy & Utilities)
+  - Torrent Pharmaceuticals Ltd: 4.09% (Healthcare)
+  - Axis Bank Ltd: 3.52% (Financial)
+  - Bajaj Finserv Ltd: 3.05% (Financial)
+  - Bajaj Auto Ltd: 2.81% (Consumer Discretionary)
 
 Asset Allocation:
-  Equity: 98.58%
-  Debt: 0.48%
-  Cash: 0.94%
+  Equity: 98.37%
+  Debt: 0.51%
+  Cash: 1.12%
 
 Sector Allocation:
-  Financial: 39.07%
-  Consumer Discretionary: 13.09%
-  Technology: 12.78%
-  Healthcare: 9.95%
-  Industrials: 8.23%
-  Energy & Utilities: 6.61%
-  Consumer Staples: 5.12%
-  Materials: 3.36%
-  Real Estate: 0.37%
-Portfolio Date: 2026-08-30
-Total Holdings: 47
+  Financial: 39.27%
+  Technology: 12.89%
+  Consumer Discretionary: 12.26%
+  Healthcare: 10.09%
+  Industrials: 8.35%
+  Energy & Utilities: 6.69%
+  Consumer Staples: 5.05%
+  Materials: 3.39%
+  Real Estate: 0.38%
+Portfolio Date: 2026-09-29
+Total Holdings: 46
 
 ============================================================
   TAX
