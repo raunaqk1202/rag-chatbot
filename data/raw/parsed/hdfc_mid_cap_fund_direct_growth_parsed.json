@@ -19,7 +19,7 @@
       "nav": "₹219.816",
       "nav_date": "09-Oct-2026",
       "aum": "₹101,856.06 Cr",
-      "expense_ratio": "0.76%",
+      "expense_ratio": "0.75%",
       "exit_load": "Exit load of 1% if redeemed within 1 year.",
       "min_sip_investment": "₹100",
       "min_lumpsum_investment": "₹100",
@@ -35,21 +35,21 @@
         "1_month": "-5.36%",
         "3_months": "-3.98%",
         "6_months": "3.4%",
-        "1_year": "0.69%",
-        "3_years": "14.85%",
-        "5_years": "16.62%",
-        "10_years": "16.3%",
+        "1_year": "1.51%",
+        "3_years": "15.87%",
+        "5_years": "16.9%",
+        "10_years": "16.44%",
         "since_inception": "19.3%"
       },
       "category_average_returns": {
-        "1_year": "1.18%",
-        "3_years": "14.00%",
-        "5_years": "13.48%",
-        "10_years": "15.50%"
+        "1_year": "1.63%",
+        "3_years": "14.90%",
+        "5_years": "13.73%",
+        "10_years": "15.63%"
       },
       "category_rankings": {
-        "1_year": "Rank 24",
-        "3_years": "Rank 17",
+        "1_year": "Rank 23",
+        "3_years": "Rank 16",
         "5_years": "Rank 4",
         "10_years": "Rank 8"
       },
@@ -61,11 +61,11 @@
         "sortino_ratio": "0.77"
       },
       "sip_returns": {
-        "1_year": "-5.0%",
-        "3_years": "5.96%",
-        "5_years": "15.46%",
-        "10_years": "18.39%",
-        "since_inception": "18.76%"
+        "1_year": "-2.43%",
+        "3_years": "6.82%",
+        "5_years": "15.96%",
+        "10_years": "18.62%",
+        "since_inception": "18.91%"
       }
     },
     "risk": {
@@ -129,7 +129,7 @@
     "analysis": {
       "pros": [
         "10Y annualised returns higher than category average by 0.44%",
-        "Lower expense ratio: 0.76%",
+        "Lower expense ratio: 0.75%",
         "Higher alpha: 2.44 \nThe fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y ",
         "Lower base expense ratio: 0.61%"
       ],
@@ -140,7 +140,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-10-10T11:02:01.519386+00:00",
-  "fetched_at": "2026-10-10T11:02:01.518547+00:00",
+  "parse_timestamp": "2026-10-11T11:18:57.654849+00:00",
+  "fetched_at": "2026-10-11T11:18:57.653845+00:00",
   "http_status": 200
 }
