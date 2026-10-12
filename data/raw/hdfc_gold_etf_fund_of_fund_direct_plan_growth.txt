@@ -1,6 +1,6 @@
 SCHEME: HDFC Gold ETF Fund of Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
-SCRAPED: 2026-10-11T11:19:00.563926+00:00
+SCRAPED: 2026-10-12T12:54:09.822018+00:00
 
 ============================================================
   FUND OVERVIEW
