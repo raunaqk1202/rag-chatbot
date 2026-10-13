@@ -1,6 +1,6 @@
 SCHEME: HDFC Small Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-SCRAPED: 2026-10-12T12:54:08.504820+00:00
+SCRAPED: 2026-10-13T12:32:32.746629+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹154.445
-Nav Date: 09-Oct-2026
+Nav: ₹154.779
+Nav Date: 12-Oct-2026
 Aum: ₹40,800.81 Cr
 Expense Ratio: 0.79%
 Exit Load: Exit load of 1% if redeemed within 1 year
@@ -37,14 +37,14 @@ Portfolio Turnover: 6.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.47%
-  1 Week: -0.36%
-  1 Month: -3.4%
-  3 Months: -1.97%
-  6 Months: 6.09%
-  1 Year: -4.04%
-  3 Years: 9.71%
-  5 Years: 13.0%
+  1 Day: 0.22%
+  1 Week: -0.24%
+  1 Month: -3.0%
+  3 Months: -3.42%
+  6 Months: 4.74%
+  1 Year: -4.21%
+  3 Years: 9.07%
+  5 Years: 12.89%
   10 Years: 16.86%
   Since Inception: 16.3%
 
@@ -57,7 +57,7 @@ Category Average Returns:
 Category Rankings:
   1 Year: Rank 46
   3 Years: Rank 34
-  5 Years: Rank 18
+  5 Years: Rank 17
   10 Years: Rank 6
 
 Risk Metrics:
@@ -68,11 +68,11 @@ Risk Metrics:
   Sortino Ratio: 0.45
 
 Sip Returns:
-  1 Year: -0.94%
-  3 Years: 2.88%
-  5 Years: 11.7%
-  10 Years: 17.32%
-  Since Inception: 17.84%
+  1 Year: -0.48%
+  3 Years: 3.01%
+  5 Years: 11.76%
+  10 Years: 17.34%
+  Since Inception: 17.85%
 
 ============================================================
   RISK
@@ -139,7 +139,7 @@ Fund Managers:
   AMC INFO
 ============================================================
 Amc Name: HDFC Mutual Fund
-Total Amc Aum: ₹986,236.84 Cr
+Total Amc Aum: ₹934,075.66 Cr
 Contact Email: shareholders.relations@hdfcfund.com
 Contact Phone: 022 – 66316333
 Website: http://www.hdfcfund.com

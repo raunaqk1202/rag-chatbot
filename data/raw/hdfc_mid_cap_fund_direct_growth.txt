@@ -1,6 +1,6 @@
 SCHEME: HDFC Mid Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-SCRAPED: 2026-10-12T12:54:07.145257+00:00
+SCRAPED: 2026-10-13T12:32:31.320954+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹219.816
-Nav Date: 09-Oct-2026
+Nav: ₹219.3
+Nav Date: 12-Oct-2026
 Aum: ₹101,856.06 Cr
 Expense Ratio: 0.75%
 Exit Load: Exit load of 1% if redeemed within 1 year.
@@ -37,15 +37,15 @@ Portfolio Turnover: 13.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 1.26%
-  1 Week: 0.17%
-  1 Month: -5.36%
-  3 Months: -3.98%
-  6 Months: 3.4%
-  1 Year: 1.51%
-  3 Years: 15.87%
-  5 Years: 16.9%
-  10 Years: 16.44%
+  1 Day: -0.23%
+  1 Week: -0.54%
+  1 Month: -4.9%
+  3 Months: -5.46%
+  6 Months: 1.74%
+  1 Year: 0.9%
+  3 Years: 15.08%
+  5 Years: 16.55%
+  10 Years: 16.45%
   Since Inception: 19.3%
 
 Category Average Returns:
@@ -55,8 +55,8 @@ Category Average Returns:
   10 Years: 15.63%
 
 Category Rankings:
-  1 Year: Rank 23
-  3 Years: Rank 16
+  1 Year: Rank 25
+  3 Years: Rank 17
   5 Years: Rank 4
   10 Years: Rank 8
 
@@ -68,11 +68,11 @@ Risk Metrics:
   Sortino Ratio: 0.77
 
 Sip Returns:
-  1 Year: -2.43%
-  3 Years: 6.82%
-  5 Years: 15.96%
-  10 Years: 18.62%
-  Since Inception: 18.91%
+  1 Year: -2.87%
+  3 Years: 6.62%
+  5 Years: 15.82%
+  10 Years: 18.55%
+  Since Inception: 18.86%
 
 ============================================================
   RISK
@@ -139,7 +139,7 @@ Fund Managers:
   AMC INFO
 ============================================================
 Amc Name: HDFC Mutual Fund
-Total Amc Aum: ₹986,236.84 Cr
+Total Amc Aum: ₹934,075.66 Cr
 Contact Email: shareholders.relations@hdfcfund.com
 Contact Phone: 022 – 66316333
 Website: http://www.hdfcfund.com
@@ -149,7 +149,7 @@ Website: http://www.hdfcfund.com
 ============================================================
 
 Pros:
-  - 10Y annualised returns higher than category average by 0.44%
+  - 10Y annualised returns higher than category average by 0.45%
   - Lower expense ratio: 0.75%
   - Higher alpha: 2.44 
 The fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y 

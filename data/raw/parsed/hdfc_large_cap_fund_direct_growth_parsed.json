@@ -16,8 +16,8 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹1152.946",
-      "nav_date": "09-Oct-2026",
+      "nav": "₹1147.415",
+      "nav_date": "12-Oct-2026",
       "aum": "₹37,293.95 Cr",
       "expense_ratio": "1.04%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "1.08%",
-        "1_week": "0.09%",
-        "1_month": "-4.65%",
-        "3_months": "-6.08%",
-        "6_months": "-1.79%",
-        "1_year": "-6.83%",
-        "3_years": "7.8%",
-        "5_years": "9.13%",
-        "10_years": "11.64%",
+        "1_day": "-0.48%",
+        "1_week": "-0.83%",
+        "1_month": "-5.06%",
+        "3_months": "-7.23%",
+        "6_months": "-3.85%",
+        "1_year": "-7.56%",
+        "3_years": "7.04%",
+        "5_years": "8.84%",
+        "10_years": "11.59%",
         "since_inception": "13.08%"
       },
       "category_average_returns": {
@@ -49,8 +49,8 @@
       },
       "category_rankings": {
         "1_year": "Rank 53",
-        "3_years": "Rank 44",
-        "5_years": "Rank 20",
+        "3_years": "Rank 45",
+        "5_years": "Rank 21",
         "10_years": "Rank 14"
       },
       "risk_metrics": {
@@ -61,11 +61,11 @@
         "sortino_ratio": "0.24"
       },
       "sip_returns": {
-        "1_year": "-11.1%",
-        "3_years": "-1.11%",
-        "5_years": "6.73%",
-        "10_years": "11.39%",
-        "since_inception": "12.04%"
+        "1_year": "-11.82%",
+        "3_years": "-1.43%",
+        "5_years": "6.51%",
+        "10_years": "11.28%",
+        "since_inception": "11.97%"
       }
     },
     "risk": {
@@ -122,7 +122,7 @@
     },
     "amc_info": {
       "amc_name": "HDFC Mutual Fund",
-      "total_amc_aum": "₹986,236.84 Cr",
+      "total_amc_aum": "₹934,075.66 Cr",
       "contact_email": "shareholders.relations@hdfcfund.com",
       "contact_phone": "022 – 66316333",
       "website": "http://www.hdfcfund.com"
@@ -139,7 +139,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-10-12T12:54:05.793223+00:00",
-  "fetched_at": "2026-10-12T12:54:05.792187+00:00",
+  "parse_timestamp": "2026-10-13T12:32:29.913763+00:00",
+  "fetched_at": "2026-10-13T12:32:29.912913+00:00",
   "http_status": 200
 }
