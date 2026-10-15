@@ -1,6 +1,6 @@
 SCHEME: HDFC Gold ETF Fund of Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
-SCRAPED: 2026-10-14T09:59:18.452815+00:00
+SCRAPED: 2026-10-15T09:41:37.807707+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹45.64
-Nav Date: 13-Oct-2026
+Nav: ₹45.2018
+Nav Date: 14-Oct-2026
 Aum: ₹12,013.27 Cr
 Expense Ratio: 0.2%
 Exit Load: Exit load of 1%, if redeemed within 15 days.
@@ -37,15 +37,15 @@ Portfolio Turnover: 1.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -0.26%
-  1 Week: -0.42%
-  1 Month: -3.33%
-  3 Months: 3.56%
-  6 Months: -2.24%
-  1 Year: 17.86%
-  3 Years: 34.46%
-  5 Years: 24.22%
-  10 Years: 15.88%
+  1 Day: -0.96%
+  1 Week: -1.04%
+  1 Month: -4.25%
+  3 Months: 3.26%
+  6 Months: -3.18%
+  1 Year: 13.97%
+  3 Years: 33.99%
+  5 Years: 23.61%
+  10 Years: 15.84%
   Since Inception: 10.83%
 
 Category Average Returns:
@@ -56,9 +56,9 @@ Category Average Returns:
 
 Category Rankings:
   1 Year: Rank 11
-  3 Years: Rank 8
+  3 Years: Rank 6
   5 Years: Rank 5
-  10 Years: Rank 6
+  10 Years: Rank 2
 
 Risk Metrics:
   Sharpe Ratio: 1.4
@@ -68,11 +68,11 @@ Risk Metrics:
   Sortino Ratio: 2.23
 
 Sip Returns:
-  1 Year: 5.09%
-  3 Years: 33.25%
-  5 Years: 28.8%
-  10 Years: 20.57%
-  Since Inception: 16.49%
+  1 Year: 3.04%
+  3 Years: 32.44%
+  5 Years: 28.36%
+  10 Years: 20.38%
+  Since Inception: 16.36%
 
 ============================================================
   RISK
@@ -121,9 +121,9 @@ Website: http://www.hdfcfund.com
 ============================================================
 
 Pros:
-  - 3Y and 5Y annualised returns higher than category average
+  - 5Y annualised returns higher than category average by 2.66%
   - Lower expense ratio: 0.2%
   - Lower base expense ratio: 0.17%
 
 Cons:
-  - 1Y and 10Y annualised returns lower than category average
+  - Consistently lower annualised returns than category average for the past 1Y and 3Y

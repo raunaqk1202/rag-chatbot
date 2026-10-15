@@ -16,8 +16,8 @@
       "groww_rating": "3 out of 5"
     },
     "fund_details": {
-      "nav": "₹45.64",
-      "nav_date": "13-Oct-2026",
+      "nav": "₹45.2018",
+      "nav_date": "14-Oct-2026",
       "aum": "₹12,013.27 Cr",
       "expense_ratio": "0.2%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-0.26%",
-        "1_week": "-0.42%",
-        "1_month": "-3.33%",
-        "3_months": "3.56%",
-        "6_months": "-2.24%",
-        "1_year": "17.86%",
-        "3_years": "34.46%",
-        "5_years": "24.22%",
-        "10_years": "15.88%",
+        "1_day": "-0.96%",
+        "1_week": "-1.04%",
+        "1_month": "-4.25%",
+        "3_months": "3.26%",
+        "6_months": "-3.18%",
+        "1_year": "13.97%",
+        "3_years": "33.99%",
+        "5_years": "23.61%",
+        "10_years": "15.84%",
         "since_inception": "10.83%"
       },
       "category_average_returns": {
@@ -49,9 +49,9 @@
       },
       "category_rankings": {
         "1_year": "Rank 11",
-        "3_years": "Rank 8",
+        "3_years": "Rank 6",
         "5_years": "Rank 5",
-        "10_years": "Rank 6"
+        "10_years": "Rank 2"
       },
       "risk_metrics": {
         "sharpe_ratio": "1.4",
@@ -61,11 +61,11 @@
         "sortino_ratio": "2.23"
       },
       "sip_returns": {
-        "1_year": "5.09%",
-        "3_years": "33.25%",
-        "5_years": "28.8%",
-        "10_years": "20.57%",
-        "since_inception": "16.49%"
+        "1_year": "3.04%",
+        "3_years": "32.44%",
+        "5_years": "28.36%",
+        "10_years": "20.38%",
+        "since_inception": "16.36%"
       }
     },
     "risk": {
@@ -100,18 +100,18 @@
     },
     "analysis": {
       "pros": [
-        "3Y and 5Y annualised returns higher than category average",
+        "5Y annualised returns higher than category average by 2.66%",
         "Lower expense ratio: 0.2%",
         "Lower base expense ratio: 0.17%"
       ],
       "cons": [
-        "1Y and 10Y annualised returns lower than category average"
+        "Consistently lower annualised returns than category average for the past 1Y and 3Y"
       ]
     }
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-10-14T09:59:18.452815+00:00",
-  "fetched_at": "2026-10-14T09:59:18.451978+00:00",
+  "parse_timestamp": "2026-10-15T09:41:37.807707+00:00",
+  "fetched_at": "2026-10-15T09:41:37.806912+00:00",
   "http_status": 200
 }
