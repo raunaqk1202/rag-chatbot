@@ -1,6 +1,6 @@
 SCHEME: HDFC Gold ETF Fund of Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
-SCRAPED: 2026-10-15T09:41:37.807707+00:00
+SCRAPED: 2026-10-16T09:35:00.708654+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹45.2018
-Nav Date: 14-Oct-2026
+Nav: ₹45.1906
+Nav Date: 15-Oct-2026
 Aum: ₹12,013.27 Cr
 Expense Ratio: 0.2%
 Exit Load: Exit load of 1%, if redeemed within 15 days.
@@ -37,15 +37,15 @@ Portfolio Turnover: 1.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -0.96%
-  1 Week: -1.04%
-  1 Month: -4.25%
-  3 Months: 3.26%
-  6 Months: -3.18%
-  1 Year: 13.97%
-  3 Years: 33.99%
-  5 Years: 23.61%
-  10 Years: 15.84%
+  1 Day: -0.02%
+  1 Week: -0.93%
+  1 Month: -3.16%
+  3 Months: 2.87%
+  6 Months: -4.39%
+  1 Year: 13.59%
+  3 Years: 33.95%
+  5 Years: 23.59%
+  10 Years: 15.83%
   Since Inception: 10.83%
 
 Category Average Returns:
@@ -55,8 +55,8 @@ Category Average Returns:
   10 Years: 17.10%
 
 Category Rankings:
-  1 Year: Rank 11
-  3 Years: Rank 6
+  1 Year: Rank 13
+  3 Years: Rank 8
   5 Years: Rank 5
   10 Years: Rank 2
 
@@ -68,11 +68,11 @@ Risk Metrics:
   Sortino Ratio: 2.23
 
 Sip Returns:
-  1 Year: 3.04%
-  3 Years: 32.44%
-  5 Years: 28.36%
-  10 Years: 20.38%
-  Since Inception: 16.36%
+  1 Year: 2.97%
+  3 Years: 32.36%
+  5 Years: 28.32%
+  10 Years: 20.37%
+  Since Inception: 16.35%
 
 ============================================================
   RISK
@@ -121,7 +121,7 @@ Website: http://www.hdfcfund.com
 ============================================================
 
 Pros:
-  - 5Y annualised returns higher than category average by 2.66%
+  - 5Y annualised returns higher than category average by 2.64%
   - Lower expense ratio: 0.2%
   - Lower base expense ratio: 0.17%
 

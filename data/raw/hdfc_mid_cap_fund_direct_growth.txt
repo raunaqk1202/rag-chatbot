@@ -1,6 +1,6 @@
 SCHEME: HDFC Mid Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-SCRAPED: 2026-10-15T09:41:34.749133+00:00
+SCRAPED: 2026-10-16T09:34:57.956273+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹220.903
-Nav Date: 14-Oct-2026
+Nav: ₹221.574
+Nav Date: 15-Oct-2026
 Aum: ₹101,856.06 Cr
 Expense Ratio: 0.75%
 Exit Load: Exit load of 1% if redeemed within 1 year.
@@ -37,15 +37,15 @@ Portfolio Turnover: 13.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -0.18%
-  1 Week: 0.01%
-  1 Month: -4.21%
-  3 Months: -3.96%
-  6 Months: 3.37%
-  1 Year: 2.25%
-  3 Years: 15.35%
-  5 Years: 16.37%
-  10 Years: 16.58%
+  1 Day: 0.3%
+  1 Week: 2.07%
+  1 Month: -2.22%
+  3 Months: -3.89%
+  6 Months: 1.86%
+  1 Year: 1.59%
+  3 Years: 15.45%
+  5 Years: 16.43%
+  10 Years: 16.61%
   Since Inception: 19.3%
 
 Category Average Returns:
@@ -55,9 +55,9 @@ Category Average Returns:
   10 Years: 15.63%
 
 Category Rankings:
-  1 Year: Rank 26
-  3 Years: Rank 16
-  5 Years: Rank 4
+  1 Year: Rank 24
+  3 Years: Rank 13
+  5 Years: Rank 3
   10 Years: Rank 8
 
 Risk Metrics:
@@ -68,11 +68,11 @@ Risk Metrics:
   Sortino Ratio: 0.77
 
 Sip Returns:
-  1 Year: -1.38%
-  3 Years: 7.1%
-  5 Years: 16.08%
-  10 Years: 18.67%
-  Since Inception: 18.94%
+  1 Year: -0.77%
+  3 Years: 7.3%
+  5 Years: 16.19%
+  10 Years: 18.72%
+  Since Inception: 18.98%
 
 ============================================================
   RISK
@@ -149,11 +149,11 @@ Website: http://www.hdfcfund.com
 ============================================================
 
 Pros:
-  - 1Y and 10Y annualised returns higher than category average
+  - 10Y annualised returns higher than category average by 0.61%
   - Lower expense ratio: 0.75%
   - Higher alpha: 2.44 
 The fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y 
   - Lower base expense ratio: 0.61%
 
 Cons:
-  - 3Y and 5Y annualised returns lower than category average
+  - Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y

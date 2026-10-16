@@ -16,8 +16,8 @@
       "groww_rating": "3 out of 5"
     },
     "fund_details": {
-      "nav": "₹45.2018",
-      "nav_date": "14-Oct-2026",
+      "nav": "₹45.1906",
+      "nav_date": "15-Oct-2026",
       "aum": "₹12,013.27 Cr",
       "expense_ratio": "0.2%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-0.96%",
-        "1_week": "-1.04%",
-        "1_month": "-4.25%",
-        "3_months": "3.26%",
-        "6_months": "-3.18%",
-        "1_year": "13.97%",
-        "3_years": "33.99%",
-        "5_years": "23.61%",
-        "10_years": "15.84%",
+        "1_day": "-0.02%",
+        "1_week": "-0.93%",
+        "1_month": "-3.16%",
+        "3_months": "2.87%",
+        "6_months": "-4.39%",
+        "1_year": "13.59%",
+        "3_years": "33.95%",
+        "5_years": "23.59%",
+        "10_years": "15.83%",
         "since_inception": "10.83%"
       },
       "category_average_returns": {
@@ -48,8 +48,8 @@
         "10_years": "17.10%"
       },
       "category_rankings": {
-        "1_year": "Rank 11",
-        "3_years": "Rank 6",
+        "1_year": "Rank 13",
+        "3_years": "Rank 8",
         "5_years": "Rank 5",
         "10_years": "Rank 2"
       },
@@ -61,11 +61,11 @@
         "sortino_ratio": "2.23"
       },
       "sip_returns": {
-        "1_year": "3.04%",
-        "3_years": "32.44%",
-        "5_years": "28.36%",
-        "10_years": "20.38%",
-        "since_inception": "16.36%"
+        "1_year": "2.97%",
+        "3_years": "32.36%",
+        "5_years": "28.32%",
+        "10_years": "20.37%",
+        "since_inception": "16.35%"
       }
     },
     "risk": {
@@ -100,7 +100,7 @@
     },
     "analysis": {
       "pros": [
-        "5Y annualised returns higher than category average by 2.66%",
+        "5Y annualised returns higher than category average by 2.64%",
         "Lower expense ratio: 0.2%",
         "Lower base expense ratio: 0.17%"
       ],
@@ -111,7 +111,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-10-15T09:41:37.807707+00:00",
-  "fetched_at": "2026-10-15T09:41:37.806912+00:00",
+  "parse_timestamp": "2026-10-16T09:35:00.708654+00:00",
+  "fetched_at": "2026-10-16T09:35:00.707965+00:00",
   "http_status": 200
 }
