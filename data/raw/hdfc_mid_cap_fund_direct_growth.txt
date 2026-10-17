@@ -1,6 +1,6 @@
 SCHEME: HDFC Mid Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-SCRAPED: 2026-10-16T09:34:57.956273+00:00
+SCRAPED: 2026-10-17T09:05:16.392677+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,10 +20,10 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹221.574
-Nav Date: 15-Oct-2026
+Nav: ₹221.058
+Nav Date: 16-Oct-2026
 Aum: ₹101,856.06 Cr
-Expense Ratio: 0.75%
+Expense Ratio: 0.74%
 Exit Load: Exit load of 1% if redeemed within 1 year.
 Min Sip Investment: ₹100
 Min Lumpsum Investment: ₹100
@@ -37,11 +37,11 @@ Portfolio Turnover: 13.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.3%
-  1 Week: 2.07%
-  1 Month: -2.22%
-  3 Months: -3.89%
-  6 Months: 1.86%
+  1 Day: -0.23%
+  1 Week: 0.57%
+  1 Month: -2.92%
+  3 Months: -3.72%
+  6 Months: 1.3%
   1 Year: 1.59%
   3 Years: 15.45%
   5 Years: 16.43%
@@ -49,10 +49,10 @@ Annualised Returns Cagr:
   Since Inception: 19.3%
 
 Category Average Returns:
-  1 Year: 1.63%
-  3 Years: 14.90%
-  5 Years: 13.73%
-  10 Years: 15.63%
+  1 Year: 1.39%
+  3 Years: 14.32%
+  5 Years: 13.25%
+  10 Years: 15.76%
 
 Category Rankings:
   1 Year: Rank 24
@@ -149,11 +149,11 @@ Website: http://www.hdfcfund.com
 ============================================================
 
 Pros:
-  - 10Y annualised returns higher than category average by 0.61%
-  - Lower expense ratio: 0.75%
+  - 10Y annualised returns higher than category average by 0.58%
+  - Lower expense ratio: 0.74%
   - Higher alpha: 2.44 
 The fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y 
-  - Lower base expense ratio: 0.61%
+  - Lower base expense ratio: 0.6%
 
 Cons:
   - Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y
