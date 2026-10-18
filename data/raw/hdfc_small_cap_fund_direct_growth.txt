@@ -1,6 +1,6 @@
 SCHEME: HDFC Small Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-SCRAPED: 2026-10-17T09:05:18.656894+00:00
+SCRAPED: 2026-10-18T09:24:17.372455+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -42,23 +42,23 @@ Annualised Returns Cagr:
   1 Month: -1.88%
   3 Months: -3.5%
   6 Months: 2.79%
-  1 Year: -3.71%
-  3 Years: 9.22%
+  1 Year: -4.02%
+  3 Years: 9.21%
   5 Years: 12.71%
   10 Years: 16.95%
   Since Inception: 16.3%
 
 Category Average Returns:
-  1 Year: 8.28%
+  1 Year: 7.94%
   3 Years: 14.46%
-  5 Years: 14.29%
+  5 Years: 14.30%
   10 Years: 17.28%
 
 Category Rankings:
   1 Year: Rank 46
   3 Years: Rank 34
   5 Years: Rank 17
-  10 Years: Rank 6
+  10 Years: Rank 4
 
 Risk Metrics:
   Sharpe Ratio: 0.31
@@ -68,11 +68,11 @@ Risk Metrics:
   Sortino Ratio: 0.45
 
 Sip Returns:
-  1 Year: -0.13%
+  1 Year: -0.11%
   3 Years: 3.11%
-  5 Years: 11.79%
-  10 Years: 17.35%
-  Since Inception: 17.86%
+  5 Years: 11.78%
+  10 Years: 17.34%
+  Since Inception: 17.85%
 
 ============================================================
   RISK
