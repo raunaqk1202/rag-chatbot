@@ -90,6 +90,7 @@
     "analysis": {
       "pros": [
         "Lower expense ratio: 0.21%",
+        "1Y category rank: 4",
         "Lower base expense ratio: 0.18%"
       ],
       "cons": [
@@ -99,7 +100,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-10-18T09:24:20.193068+00:00",
-  "fetched_at": "2026-10-18T09:24:20.192175+00:00",
+  "parse_timestamp": "2026-10-19T10:36:34.938564+00:00",
+  "fetched_at": "2026-10-19T10:36:34.937790+00:00",
   "http_status": 200
 }
