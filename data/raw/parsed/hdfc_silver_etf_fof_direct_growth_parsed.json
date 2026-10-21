@@ -37,8 +37,8 @@
         "3_years": "40.39%"
       },
       "category_average_returns": {
-        "1_year": "29.08%",
-        "3_years": "42.46%"
+        "1_year": "25.83%",
+        "3_years": "41.66%"
       },
       "category_rankings": {
         "1_year": "Rank 8",
@@ -100,7 +100,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-10-20T09:52:14.254681+00:00",
-  "fetched_at": "2026-10-20T09:52:14.254123+00:00",
+  "parse_timestamp": "2026-10-21T09:54:19.205229+00:00",
+  "fetched_at": "2026-10-21T09:54:19.204395+00:00",
   "http_status": 200
 }
