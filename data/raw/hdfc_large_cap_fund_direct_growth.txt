@@ -1,6 +1,6 @@
 SCHEME: HDFC Large Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-SCRAPED: 2026-10-25T09:38:39.426051+00:00
+SCRAPED: 2026-10-26T10:50:26.719654+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -49,9 +49,9 @@ Annualised Returns Cagr:
   Since Inception: 13.08%
 
 Category Average Returns:
-  1 Year: -9.15%
+  1 Year: -9.14%
   3 Years: 9.56%
-  5 Years: 7.61%
+  5 Years: 7.62%
   10 Years: 11.57%
 
 Category Rankings:
