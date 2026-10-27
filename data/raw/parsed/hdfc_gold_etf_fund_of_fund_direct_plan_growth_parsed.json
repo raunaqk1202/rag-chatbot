@@ -16,8 +16,8 @@
       "groww_rating": "3 out of 5"
     },
     "fund_details": {
-      "nav": "₹43.6921",
-      "nav_date": "23-Oct-2026",
+      "nav": "₹43.7644",
+      "nav_date": "26-Oct-2026",
       "aum": "₹12,013.27 Cr",
       "expense_ratio": "0.2%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-1.25%",
-        "1_week": "-3.61%",
-        "1_month": "-7.14%",
-        "3_months": "-2.43%",
-        "6_months": "-6.61%",
-        "1_year": "13.55%",
-        "3_years": "30.86%",
-        "5_years": "22.86%",
-        "10_years": "15.49%",
+        "1_day": "0.17%",
+        "1_week": "-3.19%",
+        "1_month": "-6.76%",
+        "3_months": "-1.55%",
+        "6_months": "-6.33%",
+        "1_year": "15.8%",
+        "3_years": "30.68%",
+        "5_years": "22.78%",
+        "10_years": "15.58%",
         "since_inception": "10.83%"
       },
       "category_average_returns": {
@@ -48,10 +48,10 @@
         "10_years": "16.46%"
       },
       "category_rankings": {
-        "1_year": "Rank 18",
+        "1_year": "Rank 6",
         "3_years": "Rank 8",
         "5_years": "Rank 5",
-        "10_years": "Rank 4"
+        "10_years": "Rank 3"
       },
       "risk_metrics": {
         "sharpe_ratio": "1.4",
@@ -61,11 +61,11 @@
         "sortino_ratio": "2.23"
       },
       "sip_returns": {
-        "1_year": "-3.66%",
-        "3_years": "29.32%",
-        "5_years": "26.66%",
-        "10_years": "19.66%",
-        "since_inception": "15.88%"
+        "1_year": "-3.3%",
+        "3_years": "29.29%",
+        "5_years": "26.65%",
+        "10_years": "19.67%",
+        "since_inception": "15.89%"
       }
     },
     "risk": {
@@ -111,7 +111,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-10-26T10:50:30.865812+00:00",
-  "fetched_at": "2026-10-26T10:50:30.864947+00:00",
+  "parse_timestamp": "2026-10-27T10:17:46.958733+00:00",
+  "fetched_at": "2026-10-27T10:17:46.957806+00:00",
   "http_status": 200
 }
