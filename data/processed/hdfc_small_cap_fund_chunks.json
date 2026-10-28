@@ -6,31 +6,31 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "fund_overview",
-      "scrape_date": "2026-10-27",
+      "scrape_date": "2026-10-28",
       "chunk_index": 0,
       "word_count": 64
     }
   },
   {
     "id": "hdfc_small_cap_fund__fund_details",
-    "text": "HDFC Small Cap Fund – Direct Growth: Fund Details. NAV: ₹148.503. NAV Date: 26-Oct-2026. AUM: ₹40,800.81 Cr. Expense Ratio: 0.8%. Exit Load: Exit load of 1% if redeemed within 1 year. Minimum SIP Investment: ₹100. Minimum Lumpsum Investment: ₹100. Minimum Additional Investment: ₹100. Lock-in Period: No lock-in period. Stamp Duty: 0.005% (from July 1st, 2020). Portfolio Turnover: 6.0%.",
+    "text": "HDFC Small Cap Fund – Direct Growth: Fund Details. NAV: ₹150.714. NAV Date: 27-Oct-2026. AUM: ₹40,800.81 Cr. Expense Ratio: 0.8%. Exit Load: Exit load of 1% if redeemed within 1 year. Minimum SIP Investment: ₹100. Minimum Lumpsum Investment: ₹100. Minimum Additional Investment: ₹100. Lock-in Period: No lock-in period. Stamp Duty: 0.005% (from July 1st, 2020). Portfolio Turnover: 6.0%.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "fund_details",
-      "scrape_date": "2026-10-27",
+      "scrape_date": "2026-10-28",
       "chunk_index": 1,
       "word_count": 58
     }
   },
   {
     "id": "hdfc_small_cap_fund__returns",
-    "text": "HDFC Small Cap Fund – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: 0.07%, 1 Week: -3.41%, 1 Month: -7.08%, 3 Months: -5.8%, 6 Months: -0.91%, 1 Year: -8.43%, 3 Years: 9.42%, 5 Years: 12.86%, 10 Years: 16.3%, Since Inception: 16.3%. Category Average Returns: 1 Year: 0.10%, 3 Years: 13.35%, 5 Years: 13.85%, 10 Years: 16.29%. Category Rankings: 1 Year: Rank 46, 3 Years: Rank 34, 5 Years: Rank 15, 10 Years: Rank 4. Risk Metrics: Sharpe Ratio: 0.31, Beta: 0.78, Alpha: -1.05, Standard Deviation: 17.61, Sortino Ratio: 0.45. SIP Returns: 1 Year: -8.05%, 3 Years: 0.2%, 5 Years: 9.91%, 10 Years: 16.46%, Since Inception: 17.25%.",
+    "text": "HDFC Small Cap Fund – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: 1.49%, 1 Week: -1.97%, 1 Month: -5.7%, 3 Months: -5.56%, 6 Months: -1.05%, 1 Year: -8.18%, 3 Years: 9.31%, 5 Years: 12.88%, 10 Years: 16.59%, Since Inception: 16.3%. Category Average Returns: 1 Year: 0.10%, 3 Years: 13.35%, 5 Years: 13.85%, 10 Years: 16.29%. Category Rankings: 1 Year: Rank 46, 3 Years: Rank 33, 5 Years: Rank 16, 10 Years: Rank 5. Risk Metrics: Sharpe Ratio: 0.31, Beta: 0.78, Alpha: -1.05, Standard Deviation: 17.61, Sortino Ratio: 0.45. SIP Returns: 1 Year: -5.36%, 3 Years: 1.17%, 5 Years: 10.49%, 10 Years: 16.72%, Since Inception: 17.43%.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "returns",
-      "scrape_date": "2026-10-27",
+      "scrape_date": "2026-10-28",
       "chunk_index": 2,
       "word_count": 108
     }
@@ -42,7 +42,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "risk_and_benchmark",
-      "scrape_date": "2026-10-27",
+      "scrape_date": "2026-10-28",
       "chunk_index": 3,
       "word_count": 36
     }
@@ -54,7 +54,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "holdings",
-      "scrape_date": "2026-10-27",
+      "scrape_date": "2026-10-28",
       "chunk_index": 4,
       "word_count": 104
     }
@@ -66,7 +66,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "tax",
-      "scrape_date": "2026-10-27",
+      "scrape_date": "2026-10-28",
       "chunk_index": 5,
       "word_count": 65
     }
@@ -78,7 +78,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "fund_management",
-      "scrape_date": "2026-10-27",
+      "scrape_date": "2026-10-28",
       "chunk_index": 6,
       "word_count": 89
     }
@@ -90,19 +90,19 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "amc_info",
-      "scrape_date": "2026-10-27",
+      "scrape_date": "2026-10-28",
       "chunk_index": 7,
       "word_count": 29
     }
   },
   {
     "id": "hdfc_small_cap_fund__analysis",
-    "text": "HDFC Small Cap Fund – Direct Growth: Analysis – Pros & Cons. Pros: Lower expense ratio: 0.8%; 10Y annualised returns higher than category average by 0.23%; Lower base expense ratio: 0.65%. Cons: Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y.",
+    "text": "HDFC Small Cap Fund – Direct Growth: Analysis – Pros & Cons. Pros: Lower expense ratio: 0.8%; 10Y annualised returns higher than category average by 0.52%; Lower base expense ratio: 0.65%. Cons: Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
       "scheme_name": "HDFC Small Cap Fund – Direct Growth",
       "section": "analysis",
-      "scrape_date": "2026-10-27",
+      "scrape_date": "2026-10-28",
       "chunk_index": 8,
       "word_count": 46
     }
