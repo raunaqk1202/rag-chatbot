@@ -6,31 +6,31 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "fund_overview",
-      "scrape_date": "2026-10-28",
+      "scrape_date": "2026-10-29",
       "chunk_index": 0,
       "word_count": 63
     }
   },
   {
     "id": "hdfc_large_cap_fund__fund_details",
-    "text": "HDFC Large Cap Fund – Direct Growth: Fund Details. NAV: ₹1148.345. NAV Date: 27-Oct-2026. AUM: ₹37,293.95 Cr. Expense Ratio: 1.02%. Exit Load: Exit load of 1% if redeemed within 1 year. Minimum SIP Investment: ₹100. Minimum Lumpsum Investment: ₹100. Minimum Additional Investment: ₹100. Lock-in Period: No lock-in period. Stamp Duty: 0.005% (from July 1st, 2020). Portfolio Turnover: 18.0%.",
+    "text": "HDFC Large Cap Fund – Direct Growth: Fund Details. NAV: ₹1147.897. NAV Date: 28-Oct-2026. AUM: ₹37,293.95 Cr. Expense Ratio: 1.02%. Exit Load: Exit load of 1% if redeemed within 1 year. Minimum SIP Investment: ₹100. Minimum Lumpsum Investment: ₹100. Minimum Additional Investment: ₹100. Lock-in Period: No lock-in period. Stamp Duty: 0.005% (from July 1st, 2020). Portfolio Turnover: 18.0%.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "fund_details",
-      "scrape_date": "2026-10-28",
+      "scrape_date": "2026-10-29",
       "chunk_index": 1,
       "word_count": 58
     }
   },
   {
     "id": "hdfc_large_cap_fund__returns",
-    "text": "HDFC Large Cap Fund – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: 0.52%, 1 Week: -0.89%, 1 Month: -3.43%, 3 Months: -6.61%, 6 Months: -4.14%, 1 Year: -9.39%, 3 Years: 8.24%, 5 Years: 8.52%, 10 Years: 11.7%, Since Inception: 13.08%. Category Average Returns: 1 Year: -9.14%, 3 Years: 9.56%, 5 Years: 7.62%, 10 Years: 11.57%. Category Rankings: 1 Year: Rank 55, 3 Years: Rank 50, 5 Years: Rank 22, 10 Years: Rank 15. Risk Metrics: Sharpe Ratio: 0.19, Beta: 0.95, Alpha: 0.03, Standard Deviation: 14.38, Sortino Ratio: 0.24. SIP Returns: 1 Year: -10.79%, 3 Years: -1.34%, 5 Years: 6.44%, 10 Years: 11.21%, Since Inception: 11.92%.",
+    "text": "HDFC Large Cap Fund – Direct Growth: Returns & Performance. Annualised Returns (CAGR): 1 Day: -0.04%, 1 Week: -0.21%, 1 Month: -1.9%, 3 Months: -6.61%, 6 Months: -3.56%, 1 Year: -9.28%, 3 Years: 8.22%, 5 Years: 9.05%, 10 Years: 11.64%, Since Inception: 13.08%. Category Average Returns: 1 Year: -9.14%, 3 Years: 9.56%, 5 Years: 7.62%, 10 Years: 11.57%. Category Rankings: 1 Year: Rank 56, 3 Years: Rank 50, 5 Years: Rank 21, 10 Years: Rank 13. Risk Metrics: Sharpe Ratio: 0.19, Beta: 0.95, Alpha: 0.03, Standard Deviation: 14.38, Sortino Ratio: 0.24. SIP Returns: 1 Year: -10.8%, 3 Years: -1.36%, 5 Years: 6.42%, 10 Years: 11.2%, Since Inception: 11.91%.",
     "metadata": {
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "returns",
-      "scrape_date": "2026-10-28",
+      "scrape_date": "2026-10-29",
       "chunk_index": 2,
       "word_count": 108
     }
@@ -42,7 +42,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "risk_and_benchmark",
-      "scrape_date": "2026-10-28",
+      "scrape_date": "2026-10-29",
       "chunk_index": 3,
       "word_count": 34
     }
@@ -54,7 +54,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "holdings",
-      "scrape_date": "2026-10-28",
+      "scrape_date": "2026-10-29",
       "chunk_index": 4,
       "word_count": 106
     }
@@ -66,7 +66,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "tax",
-      "scrape_date": "2026-10-28",
+      "scrape_date": "2026-10-29",
       "chunk_index": 5,
       "word_count": 65
     }
@@ -78,7 +78,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "fund_management",
-      "scrape_date": "2026-10-28",
+      "scrape_date": "2026-10-29",
       "chunk_index": 6,
       "word_count": 102
     }
@@ -90,7 +90,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "amc_info",
-      "scrape_date": "2026-10-28",
+      "scrape_date": "2026-10-29",
       "chunk_index": 7,
       "word_count": 29
     }
@@ -102,7 +102,7 @@
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "scheme_name": "HDFC Large Cap Fund – Direct Growth",
       "section": "analysis",
-      "scrape_date": "2026-10-28",
+      "scrape_date": "2026-10-29",
       "chunk_index": 8,
       "word_count": 38
     }
