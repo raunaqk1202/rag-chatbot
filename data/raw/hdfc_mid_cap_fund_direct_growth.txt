@@ -1,6 +1,6 @@
 SCHEME: HDFC Mid Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-SCRAPED: 2026-10-29T11:22:30.974712+00:00
+SCRAPED: 2026-10-30T11:15:05.467583+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹216.183
-Nav Date: 28-Oct-2026
+Nav: ₹217.641
+Nav Date: 29-Oct-2026
 Aum: ₹101,856.06 Cr
 Expense Ratio: 0.74%
 Exit Load: Exit load of 1% if redeemed within 1 year.
@@ -37,15 +37,15 @@ Portfolio Turnover: 13.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.03%
-  1 Week: -0.73%
-  1 Month: -3.13%
-  3 Months: -6.38%
-  6 Months: -1.83%
-  1 Year: -2.54%
-  3 Years: 15.69%
-  5 Years: 17.02%
-  10 Years: 16.31%
+  1 Day: 0.67%
+  1 Week: 0.53%
+  1 Month: -1.68%
+  3 Months: -6.51%
+  6 Months: -0.89%
+  1 Year: -2.19%
+  3 Years: 15.93%
+  5 Years: 17.25%
+  10 Years: 16.38%
   Since Inception: 19.3%
 
 Category Average Returns:
@@ -56,7 +56,7 @@ Category Average Returns:
 
 Category Rankings:
   1 Year: Rank 24
-  3 Years: Rank 13
+  3 Years: Rank 14
   5 Years: Rank 4
   10 Years: Rank 7
 
@@ -68,11 +68,11 @@ Risk Metrics:
   Sortino Ratio: 0.77
 
 Sip Returns:
-  1 Year: -5.24%
-  3 Years: 5.47%
-  5 Years: 14.97%
-  10 Years: 18.15%
-  Since Inception: 18.59%
+  1 Year: -4.0%
+  3 Years: 5.91%
+  5 Years: 15.23%
+  10 Years: 18.26%
+  Since Inception: 18.67%
 
 ============================================================
   RISK
@@ -149,7 +149,7 @@ Website: http://www.hdfcfund.com
 ============================================================
 
 Pros:
-  - 10Y annualised returns higher than category average by 0.31%
+  - 10Y annualised returns higher than category average by 0.38%
   - Lower expense ratio: 0.74%
   - Higher alpha: 2.44 
 The fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y 
