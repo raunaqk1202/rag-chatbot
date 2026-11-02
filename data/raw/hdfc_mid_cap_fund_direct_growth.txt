@@ -1,6 +1,6 @@
 SCHEME: HDFC Mid Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-SCRAPED: 2026-11-01T11:44:56.876217+00:00
+SCRAPED: 2026-11-02T13:15:00.765285+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -72,7 +72,7 @@ Sip Returns:
   3 Years: 5.39%
   5 Years: 14.9%
   10 Years: 18.11%
-  Since Inception: 18.56%
+  Since Inception: 18.58%
 
 ============================================================
   RISK

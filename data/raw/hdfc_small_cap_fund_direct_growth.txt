@@ -1,6 +1,6 @@
 SCHEME: HDFC Small Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-SCRAPED: 2026-11-01T11:44:58.360377+00:00
+SCRAPED: 2026-11-02T13:15:02.226300+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -72,7 +72,7 @@ Sip Returns:
   3 Years: 0.25%
   5 Years: 9.9%
   10 Years: 16.44%
-  Since Inception: 17.23%
+  Since Inception: 17.24%
 
 ============================================================
   RISK

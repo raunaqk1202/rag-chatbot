@@ -1,6 +1,6 @@
 SCHEME: HDFC Large Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-SCRAPED: 2026-11-01T11:44:55.441056+00:00
+SCRAPED: 2026-11-02T13:14:59.310646+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -72,7 +72,7 @@ Sip Returns:
   3 Years: -0.4%
   5 Years: 6.99%
   10 Years: 11.47%
-  Since Inception: 12.09%
+  Since Inception: 12.1%
 
 ============================================================
   RISK

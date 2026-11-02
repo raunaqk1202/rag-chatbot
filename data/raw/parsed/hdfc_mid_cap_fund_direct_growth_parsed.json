@@ -65,7 +65,7 @@
         "3_years": "5.39%",
         "5_years": "14.9%",
         "10_years": "18.11%",
-        "since_inception": "18.56%"
+        "since_inception": "18.58%"
       }
     },
     "risk": {
@@ -140,7 +140,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-11-01T11:44:56.876217+00:00",
-  "fetched_at": "2026-11-01T11:44:56.875408+00:00",
+  "parse_timestamp": "2026-11-02T13:15:00.765285+00:00",
+  "fetched_at": "2026-11-02T13:15:00.764452+00:00",
   "http_status": 200
 }

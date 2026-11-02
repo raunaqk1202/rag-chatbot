@@ -1,6 +1,6 @@
 SCHEME: HDFC Silver ETF FoF – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth
-SCRAPED: 2026-11-01T11:45:01.185942+00:00
+SCRAPED: 2026-11-02T13:15:05.287540+00:00
 
 ============================================================
   FUND OVERVIEW
