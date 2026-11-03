@@ -1,6 +1,6 @@
 SCHEME: HDFC Gold ETF Fund of Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
-SCRAPED: 2026-11-02T13:15:03.812596+00:00
+SCRAPED: 2026-11-03T12:41:29.233183+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹43.4533
-Nav Date: 30-Oct-2026
+Nav: ₹42.5256
+Nav Date: 02-Nov-2026
 Aum: ₹12,013.27 Cr
 Expense Ratio: 0.2%
 Exit Load: Exit load of 1%, if redeemed within 15 days.
@@ -37,15 +37,15 @@ Portfolio Turnover: 1.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -0.94%
-  1 Week: -0.55%
-  1 Month: -5.3%
-  3 Months: -1.84%
-  6 Months: -6.67%
-  1 Year: 15.13%
-  3 Years: 30.26%
-  5 Years: 22.65%
-  10 Years: 15.36%
+  1 Day: -2.13%
+  1 Week: -2.83%
+  1 Month: -7.19%
+  3 Months: -3.73%
+  6 Months: -8.66%
+  1 Year: 12.6%
+  3 Years: 29.52%
+  5 Years: 22.11%
+  10 Years: 15.09%
   Since Inception: 10.83%
 
 Category Average Returns:
@@ -55,31 +55,31 @@ Category Average Returns:
   10 Years: 16.26%
 
 Category Rankings:
-  1 Year: Rank 11
-  3 Years: Rank 6
-  5 Years: Rank 4
-  10 Years: Rank 2
+  1 Year: Rank 8
+  3 Years: Rank 4
+  5 Years: Rank 3
+  10 Years: Rank 3
 
 Risk Metrics:
-  Sharpe Ratio: 1.4
+  Sharpe Ratio: 1.19
   Beta: 0.91
-  Alpha: 1.0
-  Standard Deviation: 18.88
-  Sortino Ratio: 2.23
+  Alpha: 0.68
+  Standard Deviation: 19.34
+  Sortino Ratio: 1.91
 
 Sip Returns:
-  1 Year: -4.52%
-  3 Years: 28.54%
-  5 Years: 26.24%
-  10 Years: 19.5%
-  Since Inception: 15.69%
+  1 Year: -11.84%
+  3 Years: 26.6%
+  5 Years: 25.4%
+  10 Years: 19.17%
+  Since Inception: 15.48%
 
 ============================================================
   RISK
 ============================================================
 Riskometer Category: High
 Nfo Riskometer: Moderately High Riskometer
-Standard Deviation: 18.88
+Standard Deviation: 19.34
 Beta: 0.91
 
 ============================================================

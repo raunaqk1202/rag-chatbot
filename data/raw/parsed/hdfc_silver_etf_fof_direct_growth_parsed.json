@@ -15,8 +15,8 @@
       "risk_level": "Very High"
     },
     "fund_details": {
-      "nav": "₹29.8798",
-      "nav_date": "30-Oct-2026",
+      "nav": "₹29.5892",
+      "nav_date": "02-Nov-2026",
       "aum": "₹4,497.00 Cr",
       "expense_ratio": "0.21%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
@@ -28,40 +28,40 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "-3.68%",
-        "1_week": "-5.68%",
-        "1_month": "-17.43%",
-        "3_months": "-16.28%",
-        "6_months": "-24.07%",
-        "1_year": "20.45%",
-        "3_years": "34.06%"
+        "1_day": "-0.97%",
+        "1_week": "-7.17%",
+        "1_month": "-17.88%",
+        "3_months": "-17.06%",
+        "6_months": "-24.81%",
+        "1_year": "19.17%",
+        "3_years": "33.78%"
       },
       "category_average_returns": {
         "1_year": "25.99%",
         "3_years": "35.40%"
       },
       "category_rankings": {
-        "1_year": "Rank 12",
-        "3_years": "Rank 6"
+        "1_year": "Rank 10",
+        "3_years": "Rank 5"
       },
       "risk_metrics": {
-        "sharpe_ratio": "0.95",
-        "beta": "0.9",
-        "alpha": "0.92",
-        "standard_deviation": "39.77",
-        "sortino_ratio": "1.98"
+        "sharpe_ratio": "0.77",
+        "beta": "0.91",
+        "alpha": "0.13",
+        "standard_deviation": "41.56",
+        "sortino_ratio": "1.51"
       },
       "sip_returns": {
-        "1_year": "-30.11%",
-        "3_years": "33.06%",
-        "since_inception": "31.3%"
+        "1_year": "-38.8%",
+        "3_years": "31.98%",
+        "since_inception": "30.65%"
       }
     },
     "risk": {
       "riskometer_category": "Very High",
       "nfo_riskometer": "Very High",
-      "standard_deviation": "39.77",
-      "beta": "0.9"
+      "standard_deviation": "41.56",
+      "beta": "0.91"
     },
     "benchmark": {
       "benchmark_index": "Domestic Price of Silver",
@@ -99,7 +99,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-11-02T13:15:05.287540+00:00",
-  "fetched_at": "2026-11-02T13:15:05.286710+00:00",
+  "parse_timestamp": "2026-11-03T12:41:30.630562+00:00",
+  "fetched_at": "2026-11-03T12:41:30.629609+00:00",
   "http_status": 200
 }

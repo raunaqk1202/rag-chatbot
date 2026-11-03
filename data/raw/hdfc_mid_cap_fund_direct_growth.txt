@@ -1,6 +1,6 @@
 SCHEME: HDFC Mid Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-SCRAPED: 2026-11-02T13:15:00.765285+00:00
+SCRAPED: 2026-11-03T12:41:25.409128+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹215.986
-Nav Date: 30-Oct-2026
+Nav: ₹218.226
+Nav Date: 02-Nov-2026
 Aum: ₹101,856.06 Cr
 Expense Ratio: 0.74%
 Exit Load: Exit load of 1% if redeemed within 1 year.
@@ -37,15 +37,15 @@ Portfolio Turnover: 13.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -0.76%
-  1 Week: 1.2%
-  1 Month: -2.08%
-  3 Months: -7.2%
-  6 Months: -0.8%
-  1 Year: -2.5%
-  3 Years: 15.54%
-  5 Years: 17.07%
-  10 Years: 16.29%
+  1 Day: 1.04%
+  1 Week: 1.67%
+  1 Month: -0.55%
+  3 Months: -6.54%
+  6 Months: 0.23%
+  1 Year: -1.48%
+  3 Years: 15.51%
+  5 Years: 16.86%
+  10 Years: 16.54%
   Since Inception: 19.3%
 
 Category Average Returns:
@@ -56,31 +56,31 @@ Category Average Returns:
 
 Category Rankings:
   1 Year: Rank 22
-  3 Years: Rank 14
+  3 Years: Rank 15
   5 Years: Rank 4
   10 Years: Rank 7
 
 Risk Metrics:
-  Sharpe Ratio: 0.62
-  Beta: 0.86
-  Alpha: 2.44
-  Standard Deviation: 16.13
-  Sortino Ratio: 0.77
+  Sharpe Ratio: 0.64
+  Beta: 0.85
+  Alpha: 2.76
+  Standard Deviation: 16.09
+  Sortino Ratio: 0.79
 
 Sip Returns:
-  1 Year: -5.35%
-  3 Years: 5.39%
-  5 Years: 14.9%
-  10 Years: 18.11%
-  Since Inception: 18.58%
+  1 Year: -3.65%
+  3 Years: 5.4%
+  5 Years: 15.19%
+  10 Years: 18.33%
+  Since Inception: 18.68%
 
 ============================================================
   RISK
 ============================================================
 Riskometer Category: Very High
 Nfo Riskometer: Moderately High
-Standard Deviation: 16.13
-Beta: 0.86
+Standard Deviation: 16.09
+Beta: 0.85
 
 ============================================================
   BENCHMARK
@@ -149,7 +149,7 @@ Website: http://www.hdfcfund.com
 ============================================================
 
 Pros:
-  - 10Y annualised returns higher than category average by 0.29%
+  - 10Y annualised returns higher than category average by 0.54%
   - Lower expense ratio: 0.74%
   - Higher alpha: 2.44 
 The fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y 

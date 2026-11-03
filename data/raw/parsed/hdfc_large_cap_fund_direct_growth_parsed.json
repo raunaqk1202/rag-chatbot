@@ -16,8 +16,8 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹1164.952",
-      "nav_date": "30-Oct-2026",
+      "nav": "₹1176.334",
+      "nav_date": "02-Nov-2026",
       "aum": "₹37,293.95 Cr",
       "expense_ratio": "1.02%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.27%",
-        "1_week": "2.75%",
-        "1_month": "0.28%",
-        "3_months": "-6.12%",
-        "6_months": "-1.8%",
-        "1_year": "-7.3%",
-        "3_years": "8.76%",
-        "5_years": "9.57%",
-        "10_years": "11.8%",
+        "1_day": "0.98%",
+        "1_week": "2.97%",
+        "1_month": "2.12%",
+        "3_months": "-5.75%",
+        "6_months": "-0.84%",
+        "1_year": "-6.36%",
+        "3_years": "8.86%",
+        "5_years": "9.48%",
+        "10_years": "12.11%",
         "since_inception": "13.08%"
       },
       "category_average_returns": {
@@ -48,30 +48,30 @@
         "10_years": "11.90%"
       },
       "category_rankings": {
-        "1_year": "Rank 54",
+        "1_year": "Rank 56",
         "3_years": "Rank 49",
-        "5_years": "Rank 18",
+        "5_years": "Rank 20",
         "10_years": "Rank 12"
       },
       "risk_metrics": {
-        "sharpe_ratio": "0.19",
+        "sharpe_ratio": "0.27",
         "beta": "0.95",
-        "alpha": "0.03",
-        "standard_deviation": "14.38",
-        "sortino_ratio": "0.24"
+        "alpha": "-0.13",
+        "standard_deviation": "14.24",
+        "sortino_ratio": "0.32"
       },
       "sip_returns": {
-        "1_year": "-8.17%",
-        "3_years": "-0.4%",
-        "5_years": "6.99%",
-        "10_years": "11.47%",
-        "since_inception": "12.1%"
+        "1_year": "-6.29%",
+        "3_years": "-0.34%",
+        "5_years": "7.27%",
+        "10_years": "11.62%",
+        "since_inception": "12.21%"
       }
     },
     "risk": {
       "riskometer_category": "Very High",
       "nfo_riskometer": "Moderately High Riskometer",
-      "standard_deviation": "14.38",
+      "standard_deviation": "14.24",
       "beta": "0.95"
     },
     "benchmark": {
@@ -139,7 +139,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-11-02T13:14:59.310646+00:00",
-  "fetched_at": "2026-11-02T13:14:59.309827+00:00",
+  "parse_timestamp": "2026-11-03T12:41:23.861465+00:00",
+  "fetched_at": "2026-11-03T12:41:23.860549+00:00",
   "http_status": 200
 }

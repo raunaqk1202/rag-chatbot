@@ -1,6 +1,6 @@
 SCHEME: HDFC Large Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-SCRAPED: 2026-11-02T13:14:59.310646+00:00
+SCRAPED: 2026-11-03T12:41:23.861465+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹1164.952
-Nav Date: 30-Oct-2026
+Nav: ₹1176.334
+Nav Date: 02-Nov-2026
 Aum: ₹37,293.95 Cr
 Expense Ratio: 1.02%
 Exit Load: Exit load of 1% if redeemed within 1 year
@@ -37,15 +37,15 @@ Portfolio Turnover: 18.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.27%
-  1 Week: 2.75%
-  1 Month: 0.28%
-  3 Months: -6.12%
-  6 Months: -1.8%
-  1 Year: -7.3%
-  3 Years: 8.76%
-  5 Years: 9.57%
-  10 Years: 11.8%
+  1 Day: 0.98%
+  1 Week: 2.97%
+  1 Month: 2.12%
+  3 Months: -5.75%
+  6 Months: -0.84%
+  1 Year: -6.36%
+  3 Years: 8.86%
+  5 Years: 9.48%
+  10 Years: 12.11%
   Since Inception: 13.08%
 
 Category Average Returns:
@@ -55,31 +55,31 @@ Category Average Returns:
   10 Years: 11.90%
 
 Category Rankings:
-  1 Year: Rank 54
+  1 Year: Rank 56
   3 Years: Rank 49
-  5 Years: Rank 18
+  5 Years: Rank 20
   10 Years: Rank 12
 
 Risk Metrics:
-  Sharpe Ratio: 0.19
+  Sharpe Ratio: 0.27
   Beta: 0.95
-  Alpha: 0.03
-  Standard Deviation: 14.38
-  Sortino Ratio: 0.24
+  Alpha: -0.13
+  Standard Deviation: 14.24
+  Sortino Ratio: 0.32
 
 Sip Returns:
-  1 Year: -8.17%
-  3 Years: -0.4%
-  5 Years: 6.99%
-  10 Years: 11.47%
-  Since Inception: 12.1%
+  1 Year: -6.29%
+  3 Years: -0.34%
+  5 Years: 7.27%
+  10 Years: 11.62%
+  Since Inception: 12.21%
 
 ============================================================
   RISK
 ============================================================
 Riskometer Category: Very High
 Nfo Riskometer: Moderately High Riskometer
-Standard Deviation: 14.38
+Standard Deviation: 14.24
 Beta: 0.95
 
 ============================================================
