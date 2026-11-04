@@ -16,8 +16,8 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹1176.334",
-      "nav_date": "02-Nov-2026",
+      "nav": "₹1197.555",
+      "nav_date": "03-Nov-2026",
       "aum": "₹37,293.95 Cr",
       "expense_ratio": "1.02%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -30,11 +30,11 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.98%",
-        "1_week": "2.97%",
-        "1_month": "2.12%",
-        "3_months": "-5.75%",
-        "6_months": "-0.84%",
+        "1_day": "1.8%",
+        "1_week": "4.29%",
+        "1_month": "3.96%",
+        "3_months": "-5.51%",
+        "6_months": "0.95%",
         "1_year": "-6.36%",
         "3_years": "8.86%",
         "5_years": "9.48%",
@@ -42,14 +42,14 @@
         "since_inception": "13.08%"
       },
       "category_average_returns": {
-        "1_year": "-7.17%",
-        "3_years": "10.54%",
-        "5_years": "8.51%",
-        "10_years": "11.90%"
+        "1_year": "-5.18%",
+        "3_years": "10.96%",
+        "5_years": "8.55%",
+        "10_years": "12.24%"
       },
       "category_rankings": {
-        "1_year": "Rank 56",
-        "3_years": "Rank 49",
+        "1_year": "Rank 57",
+        "3_years": "Rank 50",
         "5_years": "Rank 20",
         "10_years": "Rank 12"
       },
@@ -133,13 +133,14 @@
         "Lower base expense ratio: 0.84%"
       ],
       "cons": [
-        "Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y"
+        "Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y",
+        "Lower alpha: -0.13 \nThe fund has generated returns lower than benchmark - NIFTY 100 Total Return Index - in the last 3Y "
       ]
     }
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-11-03T12:41:23.861465+00:00",
-  "fetched_at": "2026-11-03T12:41:23.860549+00:00",
+  "parse_timestamp": "2026-11-04T12:50:26.919912+00:00",
+  "fetched_at": "2026-11-04T12:50:26.918978+00:00",
   "http_status": 200
 }

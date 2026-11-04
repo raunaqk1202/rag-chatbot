@@ -16,8 +16,8 @@
       "groww_rating": "2 out of 5"
     },
     "fund_details": {
-      "nav": "₹150.528",
-      "nav_date": "02-Nov-2026",
+      "nav": "₹150.219",
+      "nav_date": "03-Nov-2026",
       "aum": "₹40,800.81 Cr",
       "expense_ratio": "0.8%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -30,11 +30,11 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "1.29%",
-        "1_week": "1.36%",
-        "1_month": "-2.89%",
-        "3_months": "-6.36%",
-        "6_months": "-0.09%",
+        "1_day": "-0.21%",
+        "1_week": "-0.33%",
+        "1_month": "-3.09%",
+        "3_months": "-8.24%",
+        "6_months": "-0.3%",
         "1_year": "-8.17%",
         "3_years": "9.26%",
         "5_years": "12.9%",
@@ -42,15 +42,15 @@
         "since_inception": "16.3%"
       },
       "category_average_returns": {
-        "1_year": "1.39%",
-        "3_years": "13.90%",
-        "5_years": "14.48%",
-        "10_years": "16.57%"
+        "1_year": "2.92%",
+        "3_years": "14.01%",
+        "5_years": "14.18%",
+        "10_years": "16.84%"
       },
       "category_rankings": {
-        "1_year": "Rank 44",
-        "3_years": "Rank 33",
-        "5_years": "Rank 15",
+        "1_year": "Rank 45",
+        "3_years": "Rank 34",
+        "5_years": "Rank 16",
         "10_years": "Rank 4"
       },
       "risk_metrics": {
@@ -129,7 +129,7 @@
     "analysis": {
       "pros": [
         "Lower expense ratio: 0.8%",
-        "10Y annualised returns higher than category average by 0.66%",
+        "10Y annualised returns higher than category average by 0.78%",
         "Lower base expense ratio: 0.65%"
       ],
       "cons": [
@@ -140,7 +140,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-11-03T12:41:27.266333+00:00",
-  "fetched_at": "2026-11-03T12:41:27.265407+00:00",
+  "parse_timestamp": "2026-11-04T12:50:29.830573+00:00",
+  "fetched_at": "2026-11-04T12:50:29.829652+00:00",
   "http_status": 200
 }

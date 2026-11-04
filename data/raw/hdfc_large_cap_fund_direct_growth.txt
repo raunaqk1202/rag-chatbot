@@ -1,6 +1,6 @@
 SCHEME: HDFC Large Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-SCRAPED: 2026-11-03T12:41:23.861465+00:00
+SCRAPED: 2026-11-04T12:50:26.919912+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹1176.334
-Nav Date: 02-Nov-2026
+Nav: ₹1197.555
+Nav Date: 03-Nov-2026
 Aum: ₹37,293.95 Cr
 Expense Ratio: 1.02%
 Exit Load: Exit load of 1% if redeemed within 1 year
@@ -37,11 +37,11 @@ Portfolio Turnover: 18.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.98%
-  1 Week: 2.97%
-  1 Month: 2.12%
-  3 Months: -5.75%
-  6 Months: -0.84%
+  1 Day: 1.8%
+  1 Week: 4.29%
+  1 Month: 3.96%
+  3 Months: -5.51%
+  6 Months: 0.95%
   1 Year: -6.36%
   3 Years: 8.86%
   5 Years: 9.48%
@@ -49,14 +49,14 @@ Annualised Returns Cagr:
   Since Inception: 13.08%
 
 Category Average Returns:
-  1 Year: -7.17%
-  3 Years: 10.54%
-  5 Years: 8.51%
-  10 Years: 11.90%
+  1 Year: -5.18%
+  3 Years: 10.96%
+  5 Years: 8.55%
+  10 Years: 12.24%
 
 Category Rankings:
-  1 Year: Rank 56
-  3 Years: Rank 49
+  1 Year: Rank 57
+  3 Years: Rank 50
   5 Years: Rank 20
   10 Years: Rank 12
 
@@ -155,3 +155,5 @@ Pros:
 
 Cons:
   - Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y
+  - Lower alpha: -0.13 
+The fund has generated returns lower than benchmark - NIFTY 100 Total Return Index - in the last 3Y

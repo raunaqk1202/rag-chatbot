@@ -1,6 +1,6 @@
 SCHEME: HDFC Small Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-SCRAPED: 2026-11-03T12:41:27.266333+00:00
+SCRAPED: 2026-11-04T12:50:29.830573+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 2 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹150.528
-Nav Date: 02-Nov-2026
+Nav: ₹150.219
+Nav Date: 03-Nov-2026
 Aum: ₹40,800.81 Cr
 Expense Ratio: 0.8%
 Exit Load: Exit load of 1% if redeemed within 1 year
@@ -37,11 +37,11 @@ Portfolio Turnover: 6.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 1.29%
-  1 Week: 1.36%
-  1 Month: -2.89%
-  3 Months: -6.36%
-  6 Months: -0.09%
+  1 Day: -0.21%
+  1 Week: -0.33%
+  1 Month: -3.09%
+  3 Months: -8.24%
+  6 Months: -0.3%
   1 Year: -8.17%
   3 Years: 9.26%
   5 Years: 12.9%
@@ -49,15 +49,15 @@ Annualised Returns Cagr:
   Since Inception: 16.3%
 
 Category Average Returns:
-  1 Year: 1.39%
-  3 Years: 13.90%
-  5 Years: 14.48%
-  10 Years: 16.57%
+  1 Year: 2.92%
+  3 Years: 14.01%
+  5 Years: 14.18%
+  10 Years: 16.84%
 
 Category Rankings:
-  1 Year: Rank 44
-  3 Years: Rank 33
-  5 Years: Rank 15
+  1 Year: Rank 45
+  3 Years: Rank 34
+  5 Years: Rank 16
   10 Years: Rank 4
 
 Risk Metrics:
@@ -150,7 +150,7 @@ Website: http://www.hdfcfund.com
 
 Pros:
   - Lower expense ratio: 0.8%
-  - 10Y annualised returns higher than category average by 0.66%
+  - 10Y annualised returns higher than category average by 0.78%
   - Lower base expense ratio: 0.65%
 
 Cons:
