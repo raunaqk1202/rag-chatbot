@@ -2,7 +2,7 @@
   {
     "scheme_name": "HDFC Large Cap Fund – Direct Growth",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-    "last_scraped": "2026-11-05T13:00:10.589708+00:00",
+    "last_scraped": "2026-11-06T12:47:14.058308+00:00",
     "status": "success",
     "sections_extracted": 10,
     "js_rendered_flag": false,
@@ -13,18 +13,18 @@
   {
     "scheme_name": "HDFC Mid Cap Fund – Direct Growth",
     "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-    "last_scraped": "2026-11-05T13:00:11.926037+00:00",
+    "last_scraped": "2026-11-06T12:47:15.593384+00:00",
     "status": "success",
     "sections_extracted": 10,
     "js_rendered_flag": false,
     "raw_file": "data/raw/hdfc_mid_cap_fund_direct_growth.txt",
-    "raw_file_size_bytes": 5188,
+    "raw_file_size_bytes": 5187,
     "chunk_count": 9
   },
   {
     "scheme_name": "HDFC Small Cap Fund – Direct Growth",
     "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-    "last_scraped": "2026-11-05T13:00:13.809265+00:00",
+    "last_scraped": "2026-11-06T12:47:17.349133+00:00",
     "status": "success",
     "sections_extracted": 10,
     "js_rendered_flag": false,
@@ -35,7 +35,7 @@
   {
     "scheme_name": "HDFC Gold ETF Fund of Fund – Direct Growth",
     "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-    "last_scraped": "2026-11-05T13:00:15.361513+00:00",
+    "last_scraped": "2026-11-06T12:47:18.959391+00:00",
     "status": "success",
     "sections_extracted": 10,
     "js_rendered_flag": false,
@@ -46,7 +46,7 @@
   {
     "scheme_name": "HDFC Silver ETF FoF – Direct Growth",
     "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-    "last_scraped": "2026-11-05T13:00:16.805950+00:00",
+    "last_scraped": "2026-11-06T12:47:20.480702+00:00",
     "status": "success",
     "sections_extracted": 10,
     "js_rendered_flag": false,

@@ -16,8 +16,8 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹223.138",
-      "nav_date": "04-Nov-2026",
+      "nav": "₹226.142",
+      "nav_date": "05-Nov-2026",
       "aum": "₹101,856.06 Cr",
       "expense_ratio": "0.74%",
       "exit_load": "Exit load of 1% if redeemed within 1 year.",
@@ -30,11 +30,11 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "1.38%",
-        "1_week": "3.22%",
-        "1_month": "1.68%",
-        "3_months": "-5.17%",
-        "6_months": "2.11%",
+        "1_day": "1.35%",
+        "1_week": "3.91%",
+        "1_month": "2.56%",
+        "3_months": "-4.17%",
+        "6_months": "3.38%",
         "1_year": "-0.16%",
         "3_years": "16.14%",
         "5_years": "17.55%",
@@ -42,10 +42,10 @@
         "since_inception": "19.3%"
       },
       "category_average_returns": {
-        "1_year": "-1.14%",
-        "3_years": "14.61%",
-        "5_years": "13.44%",
-        "10_years": "15.62%"
+        "1_year": "0.98%",
+        "3_years": "15.26%",
+        "5_years": "14.05%",
+        "10_years": "16.19%"
       },
       "category_rankings": {
         "1_year": "Rank 27",
@@ -128,7 +128,7 @@
     },
     "analysis": {
       "pros": [
-        "10Y annualised returns higher than category average by 1.11%",
+        "10Y annualised returns higher than category average by 1.26%",
         "Lower expense ratio: 0.74%",
         "Higher alpha: 2.76 \nThe fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y ",
         "Lower base expense ratio: 0.6%"
@@ -140,7 +140,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-11-05T13:00:11.926037+00:00",
-  "fetched_at": "2026-11-05T13:00:11.925159+00:00",
+  "parse_timestamp": "2026-11-06T12:47:15.593384+00:00",
+  "fetched_at": "2026-11-06T12:47:15.592529+00:00",
   "http_status": 200
 }
