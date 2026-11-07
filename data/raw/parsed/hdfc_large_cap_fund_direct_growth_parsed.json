@@ -16,8 +16,8 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹1233.613",
-      "nav_date": "05-Nov-2026",
+      "nav": "₹1257.172",
+      "nav_date": "06-Nov-2026",
       "aum": "₹37,293.95 Cr",
       "expense_ratio": "1.01%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -30,28 +30,28 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "2.2%",
-        "1_week": "6.18%",
-        "1_month": "6.62%",
-        "3_months": "-2.07%",
-        "6_months": "3.92%",
-        "1_year": "-3.9%",
-        "3_years": "9.58%",
-        "5_years": "10.07%",
-        "10_years": "12.6%",
+        "1_day": "1.91%",
+        "1_week": "7.92%",
+        "1_month": "7.58%",
+        "3_months": "-0.23%",
+        "6_months": "4.16%",
+        "1_year": "-1.79%",
+        "3_years": "10.36%",
+        "5_years": "10.55%",
+        "10_years": "12.84%",
         "since_inception": "13.08%"
       },
       "category_average_returns": {
-        "1_year": "-2.80%",
-        "3_years": "11.54%",
-        "5_years": "9.07%",
-        "10_years": "12.64%"
+        "1_year": "-0.72%",
+        "3_years": "12.32%",
+        "5_years": "9.53%",
+        "10_years": "12.87%"
       },
       "category_rankings": {
-        "1_year": "Rank 56",
+        "1_year": "Rank 55",
         "3_years": "Rank 50",
         "5_years": "Rank 20",
-        "10_years": "Rank 13"
+        "10_years": "Rank 12"
       },
       "risk_metrics": {
         "sharpe_ratio": "0.27",
@@ -61,11 +61,11 @@
         "sortino_ratio": "0.32"
       },
       "sip_returns": {
-        "1_year": "-0.85%",
-        "3_years": "1.43%",
-        "5_years": "8.32%",
-        "10_years": "12.1%",
-        "since_inception": "12.53%"
+        "1_year": "3.85%",
+        "3_years": "2.92%",
+        "5_years": "9.2%",
+        "10_years": "12.51%",
+        "since_inception": "12.81%"
       }
     },
     "risk": {
@@ -140,7 +140,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-11-06T12:47:14.058308+00:00",
-  "fetched_at": "2026-11-06T12:47:14.057473+00:00",
+  "parse_timestamp": "2026-11-07T11:35:00.819972+00:00",
+  "fetched_at": "2026-11-07T11:35:00.819295+00:00",
   "http_status": 200
 }
