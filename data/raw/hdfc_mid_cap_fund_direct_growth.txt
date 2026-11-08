@@ -1,6 +1,6 @@
 SCHEME: HDFC Mid Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-SCRAPED: 2026-11-07T11:35:02.897124+00:00
+SCRAPED: 2026-11-08T11:47:39.385332+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -42,22 +42,22 @@ Annualised Returns Cagr:
   1 Month: 1.81%
   3 Months: -4.18%
   6 Months: 1.58%
-  1 Year: 1.18%
-  3 Years: 16.64%
-  5 Years: 17.85%
-  10 Years: 17.26%
+  1 Year: 2.21%
+  3 Years: 16.38%
+  5 Years: 17.83%
+  10 Years: 17.25%
   Since Inception: 19.3%
 
 Category Average Returns:
-  1 Year: 2.73%
-  3 Years: 15.91%
-  5 Years: 14.43%
-  10 Years: 16.38%
+  1 Year: 3.54%
+  3 Years: 15.50%
+  5 Years: 14.37%
+  10 Years: 16.35%
 
 Category Rankings:
-  1 Year: Rank 29
+  1 Year: Rank 28
   3 Years: Rank 16
-  5 Years: Rank 4
+  5 Years: Rank 3
   10 Years: Rank 7
 
 Risk Metrics:
@@ -68,11 +68,11 @@ Risk Metrics:
   Sortino Ratio: 0.79
 
 Sip Returns:
-  1 Year: 4.02%
-  3 Years: 7.87%
-  5 Years: 16.63%
-  10 Years: 18.97%
-  Since Inception: 19.11%
+  1 Year: 3.9%
+  3 Years: 7.82%
+  5 Years: 16.6%
+  10 Years: 18.95%
+  Since Inception: 19.1%
 
 ============================================================
   RISK
