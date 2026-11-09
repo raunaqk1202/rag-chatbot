@@ -42,8 +42,8 @@
         "since_inception": "10.83%"
       },
       "category_average_returns": {
-        "1_year": "19.52%",
-        "3_years": "32.55%",
+        "1_year": "19.55%",
+        "3_years": "32.56%",
         "5_years": "24.07%",
         "10_years": "16.25%"
       },
@@ -111,7 +111,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-11-08T11:47:42.364832+00:00",
-  "fetched_at": "2026-11-08T11:47:42.363927+00:00",
+  "parse_timestamp": "2026-11-09T13:41:59.456544+00:00",
+  "fetched_at": "2026-11-09T13:41:59.455627+00:00",
   "http_status": 200
 }

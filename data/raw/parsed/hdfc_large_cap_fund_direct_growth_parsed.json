@@ -45,7 +45,7 @@
         "1_year": "1.24%",
         "3_years": "12.54%",
         "5_years": "9.82%",
-        "10_years": "13.02%"
+        "10_years": "13.03%"
       },
       "category_rankings": {
         "1_year": "Rank 54",
@@ -140,7 +140,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-11-08T11:47:38.005486+00:00",
-  "fetched_at": "2026-11-08T11:47:38.004652+00:00",
+  "parse_timestamp": "2026-11-09T13:41:55.276521+00:00",
+  "fetched_at": "2026-11-09T13:41:55.275467+00:00",
   "http_status": 200
 }
