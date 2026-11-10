@@ -1,6 +1,6 @@
 SCHEME: HDFC Gold ETF Fund of Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
-SCRAPED: 2026-11-09T13:41:59.456544+00:00
+SCRAPED: 2026-11-10T13:19:38.871663+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 3 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹43.806
-Nav Date: 06-Nov-2026
+Nav: ₹44.0717
+Nav Date: 09-Nov-2026
 Aum: ₹12,013.27 Cr
 Expense Ratio: 0.2%
 Exit Load: Exit load of 1%, if redeemed within 15 days.
@@ -37,15 +37,15 @@ Portfolio Turnover: 1.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: -1.63%
-  1 Week: 0.81%
-  1 Month: -4.42%
-  3 Months: -5.08%
-  6 Months: -6.32%
-  1 Year: 15.96%
-  3 Years: 30.83%
-  5 Years: 23.0%
-  10 Years: 15.36%
+  1 Day: 0.61%
+  1 Week: 3.64%
+  1 Month: -4.75%
+  3 Months: -5.26%
+  6 Months: -6.08%
+  1 Year: 16.72%
+  3 Years: 31.71%
+  5 Years: 22.91%
+  10 Years: 15.39%
   Since Inception: 10.83%
 
 Category Average Returns:
@@ -55,10 +55,10 @@ Category Average Returns:
   10 Years: 16.25%
 
 Category Rankings:
-  1 Year: Rank 14
-  3 Years: Rank 6
+  1 Year: Rank 12
+  3 Years: Rank 7
   5 Years: Rank 7
-  10 Years: Rank 2
+  10 Years: Rank 3
 
 Risk Metrics:
   Sharpe Ratio: 1.19
@@ -68,11 +68,11 @@ Risk Metrics:
   Sortino Ratio: 1.91
 
 Sip Returns:
-  1 Year: -5.74%
-  3 Years: 28.69%
-  5 Years: 26.57%
-  10 Years: 19.69%
-  Since Inception: 15.84%
+  1 Year: -4.44%
+  3 Years: 28.99%
+  5 Years: 26.74%
+  10 Years: 19.77%
+  Since Inception: 15.9%
 
 ============================================================
   RISK
