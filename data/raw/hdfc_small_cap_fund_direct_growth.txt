@@ -1,6 +1,6 @@
 SCHEME: HDFC Small Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-SCRAPED: 2026-11-10T13:19:37.134579+00:00
+SCRAPED: 2026-11-11T12:31:25.851438+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -49,10 +49,10 @@ Annualised Returns Cagr:
   Since Inception: 16.3%
 
 Category Average Returns:
-  1 Year: 6.82%
-  3 Years: 14.24%
-  5 Years: 14.76%
-  10 Years: 17.43%
+  1 Year: 7.95%
+  3 Years: 14.33%
+  5 Years: 14.42%
+  10 Years: 17.65%
 
 Category Rankings:
   1 Year: Rank 46

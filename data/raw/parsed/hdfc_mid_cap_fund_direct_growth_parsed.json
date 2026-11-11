@@ -42,10 +42,10 @@
         "since_inception": "19.3%"
       },
       "category_average_returns": {
-        "1_year": "3.54%",
-        "3_years": "15.50%",
-        "5_years": "14.37%",
-        "10_years": "16.35%"
+        "1_year": "3.82%",
+        "3_years": "15.27%",
+        "5_years": "13.90%",
+        "10_years": "16.50%"
       },
       "category_rankings": {
         "1_year": "Rank 28",
@@ -140,7 +140,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-11-10T13:19:35.556100+00:00",
-  "fetched_at": "2026-11-10T13:19:35.555124+00:00",
+  "parse_timestamp": "2026-11-11T12:31:24.306119+00:00",
+  "fetched_at": "2026-11-11T12:31:24.305139+00:00",
   "http_status": 200
 }
