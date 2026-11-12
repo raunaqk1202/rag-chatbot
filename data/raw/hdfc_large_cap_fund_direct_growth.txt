@@ -1,6 +1,6 @@
 SCHEME: HDFC Large Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-SCRAPED: 2026-11-11T12:31:22.827803+00:00
+SCRAPED: 2026-11-12T13:36:09.549641+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,9 +20,9 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹1260.671
-Nav Date: 09-Nov-2026
-Aum: ₹37,293.95 Cr
+Nav: ₹1269.861
+Nav Date: 11-Nov-2026
+Aum: ₹37,466.30 Cr
 Expense Ratio: 1.0%
 Exit Load: Exit load of 1% if redeemed within 1 year
 Min Sip Investment: ₹100
@@ -37,11 +37,11 @@ Portfolio Turnover: 18.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.28%
-  1 Week: 7.17%
-  1 Month: 9.34%
-  3 Months: 0.71%
-  6 Months: 4.59%
+  1 Day: 0.73%
+  1 Week: 5.2%
+  1 Month: 10.14%
+  3 Months: 1.61%
+  6 Months: 7.13%
   1 Year: 1.19%
   3 Years: 10.75%
   5 Years: 10.72%
@@ -93,34 +93,34 @@ Benchmark Full Name: NIFTY 100 Total Return Index
 ============================================================
 
 Top 10 Holdings:
-  - ICICI Bank Ltd: 9.79% (Financial)
-  - HDFC Bank Ltd: 7.36% (Financial)
-  - Bharti Airtel Ltd: 6.46% (Technology)
-  - Kotak Mahindra Bank Ltd: 6.08% (Financial)
-  - Titan Company Ltd: 5.07% (Consumer Discretionary)
-  - Reliance Industries Ltd: 4.76% (Energy & Utilities)
-  - Torrent Pharmaceuticals Ltd: 4.09% (Healthcare)
-  - Axis Bank Ltd: 3.52% (Financial)
-  - Bajaj Finserv Ltd: 3.05% (Financial)
-  - Bajaj Auto Ltd: 2.81% (Consumer Discretionary)
+  - ICICI Bank Ltd: 10.3% (Financial)
+  - Bharti Airtel Ltd: 7.23% (Technology)
+  - HDFC Bank Ltd: 7.17% (Financial)
+  - Kotak Mahindra Bank Ltd: 6.7% (Financial)
+  - Titan Company Ltd: 4.88% (Consumer Discretionary)
+  - Torrent Pharmaceuticals Ltd: 3.92% (Healthcare)
+  - Axis Bank Ltd: 3.48% (Financial)
+  - Reliance Industries Ltd: 3.12% (Energy & Utilities)
+  - Bajaj Finserv Ltd: 2.93% (Financial)
+  - Zomato Ltd: 2.78% (Technology)
 
 Asset Allocation:
-  Equity: 98.37%
-  Debt: 0.51%
-  Cash: 1.12%
+  Equity: 96.07%
+  Debt: 0.50%
+  Cash: 3.43%
 
 Sector Allocation:
-  Financial: 39.27%
-  Technology: 12.89%
-  Consumer Discretionary: 12.26%
-  Healthcare: 10.09%
-  Industrials: 8.35%
-  Energy & Utilities: 6.69%
-  Consumer Staples: 5.05%
-  Materials: 3.39%
-  Real Estate: 0.38%
-Portfolio Date: 2026-09-29
-Total Holdings: 46
+  Financial: 39.18%
+  Technology: 14.00%
+  Consumer Discretionary: 11.80%
+  Healthcare: 9.74%
+  Industrials: 8.16%
+  Energy & Utilities: 5.00%
+  Consumer Staples: 4.86%
+  Materials: 2.94%
+  Real Estate: 0.39%
+Portfolio Date: 2026-10-30
+Total Holdings: 45
 
 ============================================================
   TAX

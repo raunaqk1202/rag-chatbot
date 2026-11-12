@@ -1,6 +1,6 @@
 SCHEME: HDFC Small Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-SCRAPED: 2026-11-11T12:31:25.851438+00:00
+SCRAPED: 2026-11-12T13:36:12.281498+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,9 +20,9 @@ Groww Rating: 2 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹153.631
-Nav Date: 09-Nov-2026
-Aum: ₹40,800.81 Cr
+Nav: ₹155.255
+Nav Date: 11-Nov-2026
+Aum: ₹38,960.36 Cr
 Expense Ratio: 0.79%
 Exit Load: Exit load of 1% if redeemed within 1 year
 Min Sip Investment: ₹100
@@ -37,11 +37,11 @@ Portfolio Turnover: 6.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.96%
-  1 Week: 2.06%
-  1 Month: -0.53%
-  3 Months: -6.14%
-  6 Months: -2.1%
+  1 Day: 1.06%
+  1 Week: 1.76%
+  1 Month: 0.52%
+  3 Months: -5.05%
+  6 Months: -0.18%
   1 Year: -5.08%
   3 Years: 9.35%
   5 Years: 12.9%
@@ -93,33 +93,33 @@ Benchmark Full Name: BSE 250 SmallCap Total Return Index
 ============================================================
 
 Top 10 Holdings:
-  - Firstsource Solutions Ltd: 3.68% (Industrials)
-  - Aster DM Healthcare Ltd: 3.37% (Healthcare)
-  - Gabriel India Ltd: 3.09% (Consumer Discretionary)
-  - eClerx Services Ltd: 2.92% (Technology)
-  - Bank Of Baroda: 2.65% (Financial)
-  - Krishna Institute Of Medical Sciences Ltd: 2.04% (Healthcare)
-  - Apar Industries Ltd: 1.92% (Diversified)
-  - Indian Bank: 1.91% (Financial)
-  - Pearl Global Industries Ltd: 1.9% (Consumer Discretionary)
-  - Eris Lifesciences Ltd: 1.89% (Healthcare)
+  - Firstsource Solutions Ltd: 4.41% (Industrials)
+  - Aster DM Healthcare Ltd: 3.45% (Healthcare)
+  - Gabriel India Ltd: 3.36% (Consumer Discretionary)
+  - Bank Of Baroda: 2.87% (Financial)
+  - eClerx Services Ltd: 2.62% (Technology)
+  - PVR Ltd: 2.21% (Consumer Discretionary)
+  - Indian Bank: 2.15% (Financial)
+  - Krishna Institute Of Medical Sciences Ltd: 2.01% (Healthcare)
+  - Eris Lifesciences Ltd: 1.92% (Healthcare)
+  - Pearl Global Industries Ltd: 1.87% (Consumer Discretionary)
 
 Asset Allocation:
-  Equity: 90.07%
-  Cash: 9.93%
+  Equity: 90.18%
+  Cash: 9.82%
 
 Sector Allocation:
-  Industrials: 22.07%
-  Consumer Discretionary: 20.49%
-  Financial: 12.29%
-  Healthcare: 10.79%
-  Materials: 8.64%
-  Technology: 7.06%
-  Consumer Staples: 4.62%
-  Diversified: 2.38%
-  Energy & Utilities: 1.73%
-Portfolio Date: 2026-09-29
-Total Holdings: 85
+  Industrials: 21.97%
+  Consumer Discretionary: 20.77%
+  Financial: 12.85%
+  Healthcare: 11.13%
+  Materials: 8.32%
+  Technology: 6.69%
+  Consumer Staples: 4.37%
+  Diversified: 2.23%
+  Energy & Utilities: 1.85%
+Portfolio Date: 2026-10-30
+Total Holdings: 88
 
 ============================================================
   TAX

@@ -16,9 +16,9 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹1260.671",
-      "nav_date": "09-Nov-2026",
-      "aum": "₹37,293.95 Cr",
+      "nav": "₹1269.861",
+      "nav_date": "11-Nov-2026",
+      "aum": "₹37,466.30 Cr",
       "expense_ratio": "1.0%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
       "min_sip_investment": "₹100",
@@ -30,11 +30,11 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.28%",
-        "1_week": "7.17%",
-        "1_month": "9.34%",
-        "3_months": "0.71%",
-        "6_months": "4.59%",
+        "1_day": "0.73%",
+        "1_week": "5.2%",
+        "1_month": "10.14%",
+        "3_months": "1.61%",
+        "6_months": "7.13%",
         "1_year": "1.19%",
         "3_years": "10.75%",
         "5_years": "10.72%",
@@ -80,35 +80,35 @@
     },
     "holdings": {
       "top_10_holdings": [
-        "ICICI Bank Ltd: 9.79% (Financial)",
-        "HDFC Bank Ltd: 7.36% (Financial)",
-        "Bharti Airtel Ltd: 6.46% (Technology)",
-        "Kotak Mahindra Bank Ltd: 6.08% (Financial)",
-        "Titan Company Ltd: 5.07% (Consumer Discretionary)",
-        "Reliance Industries Ltd: 4.76% (Energy & Utilities)",
-        "Torrent Pharmaceuticals Ltd: 4.09% (Healthcare)",
-        "Axis Bank Ltd: 3.52% (Financial)",
-        "Bajaj Finserv Ltd: 3.05% (Financial)",
-        "Bajaj Auto Ltd: 2.81% (Consumer Discretionary)"
+        "ICICI Bank Ltd: 10.3% (Financial)",
+        "Bharti Airtel Ltd: 7.23% (Technology)",
+        "HDFC Bank Ltd: 7.17% (Financial)",
+        "Kotak Mahindra Bank Ltd: 6.7% (Financial)",
+        "Titan Company Ltd: 4.88% (Consumer Discretionary)",
+        "Torrent Pharmaceuticals Ltd: 3.92% (Healthcare)",
+        "Axis Bank Ltd: 3.48% (Financial)",
+        "Reliance Industries Ltd: 3.12% (Energy & Utilities)",
+        "Bajaj Finserv Ltd: 2.93% (Financial)",
+        "Zomato Ltd: 2.78% (Technology)"
       ],
       "asset_allocation": {
-        "equity": "98.37%",
-        "debt": "0.51%",
-        "cash": "1.12%"
+        "equity": "96.07%",
+        "debt": "0.50%",
+        "cash": "3.43%"
       },
       "sector_allocation": {
-        "Financial": "39.27%",
-        "Technology": "12.89%",
-        "Consumer Discretionary": "12.26%",
-        "Healthcare": "10.09%",
-        "Industrials": "8.35%",
-        "Energy & Utilities": "6.69%",
-        "Consumer Staples": "5.05%",
-        "Materials": "3.39%",
-        "Real Estate": "0.38%"
+        "Financial": "39.18%",
+        "Technology": "14.00%",
+        "Consumer Discretionary": "11.80%",
+        "Healthcare": "9.74%",
+        "Industrials": "8.16%",
+        "Energy & Utilities": "5.00%",
+        "Consumer Staples": "4.86%",
+        "Materials": "2.94%",
+        "Real Estate": "0.39%"
       },
-      "portfolio_date": "2026-09-29",
-      "total_holdings": "46"
+      "portfolio_date": "2026-10-30",
+      "total_holdings": "45"
     },
     "tax": {
       "tax_implications": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
@@ -140,7 +140,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-11-11T12:31:22.827803+00:00",
-  "fetched_at": "2026-11-11T12:31:22.826360+00:00",
+  "parse_timestamp": "2026-11-12T13:36:09.549641+00:00",
+  "fetched_at": "2026-11-12T13:36:09.548768+00:00",
   "http_status": 200
 }

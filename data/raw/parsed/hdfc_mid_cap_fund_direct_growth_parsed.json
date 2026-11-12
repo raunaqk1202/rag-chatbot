@@ -16,9 +16,9 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹227.102",
-      "nav_date": "09-Nov-2026",
-      "aum": "₹101,856.06 Cr",
+      "nav": "₹229.552",
+      "nav_date": "11-Nov-2026",
+      "aum": "₹100,687.07 Cr",
       "expense_ratio": "0.74%",
       "exit_load": "Exit load of 1% if redeemed within 1 year.",
       "min_sip_investment": "₹100",
@@ -30,11 +30,11 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.47%",
-        "1_week": "4.07%",
-        "1_month": "3.31%",
-        "3_months": "-4.06%",
-        "6_months": "1.43%",
+        "1_day": "1.08%",
+        "1_week": "2.87%",
+        "1_month": "4.43%",
+        "3_months": "-3.18%",
+        "6_months": "3.75%",
         "1_year": "2.48%",
         "3_years": "16.04%",
         "5_years": "17.25%",
@@ -80,33 +80,33 @@
     },
     "holdings": {
       "top_10_holdings": [
-        "The Federal Bank Ltd: 3.98% (Financial)",
-        "AU Small Finance Bank Ltd: 3.94% (Financial)",
-        "Max Financial Services Ltd: 3.52% (Financial)",
-        "Ipca Laboratories Ltd: 3.43% (Healthcare)",
-        "Glenmark Pharmaceuticals Ltd: 3.07% (Healthcare)",
-        "Balkrishna Industries Ltd: 2.98% (Consumer Discretionary)",
-        "Indian Bank: 2.92% (Financial)",
-        "Coforge Ltd: 2.68% (Technology)",
-        "Fortis Healthcare Ltd: 2.4% (Healthcare)",
-        "Marico Ltd: 2.37% (Consumer Staples)"
+        "The Federal Bank Ltd: 4.31% (Financial)",
+        "Ipca Laboratories Ltd: 3.47% (Healthcare)",
+        "AU Small Finance Bank Ltd: 3.47% (Financial)",
+        "Indian Bank: 3.17% (Financial)",
+        "Coforge Ltd: 3.17% (Technology)",
+        "Max Financial Services Ltd: 3.11% (Financial)",
+        "Glenmark Pharmaceuticals Ltd: 3.06% (Healthcare)",
+        "Balkrishna Industries Ltd: 2.95% (Consumer Discretionary)",
+        "Marico Ltd: 2.54% (Consumer Staples)",
+        "Fortis Healthcare Ltd: 2.42% (Healthcare)"
       ],
       "asset_allocation": {
-        "equity": "91.71%",
-        "cash": "8.29%"
+        "equity": "93.09%",
+        "cash": "6.91%"
       },
       "sector_allocation": {
-        "Financial": "25.84%",
-        "Healthcare": "15.44%",
-        "Consumer Discretionary": "12.76%",
-        "Technology": "11.60%",
-        "Consumer Staples": "9.36%",
-        "Industrials": "7.91%",
-        "Materials": "5.32%",
-        "Energy & Utilities": "3.18%",
-        "Diversified": "0.30%"
+        "Financial": "25.36%",
+        "Healthcare": "15.95%",
+        "Technology": "13.08%",
+        "Consumer Discretionary": "12.87%",
+        "Consumer Staples": "9.69%",
+        "Industrials": "7.36%",
+        "Materials": "5.17%",
+        "Energy & Utilities": "3.35%",
+        "Diversified": "0.26%"
       },
-      "portfolio_date": "2026-09-29",
+      "portfolio_date": "2026-10-30",
       "total_holdings": "79"
     },
     "tax": {
@@ -140,7 +140,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-11-11T12:31:24.306119+00:00",
-  "fetched_at": "2026-11-11T12:31:24.305139+00:00",
+  "parse_timestamp": "2026-11-12T13:36:10.904774+00:00",
+  "fetched_at": "2026-11-12T13:36:10.903860+00:00",
   "http_status": 200
 }

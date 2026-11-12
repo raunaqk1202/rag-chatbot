@@ -16,9 +16,9 @@
       "groww_rating": "2 out of 5"
     },
     "fund_details": {
-      "nav": "₹153.631",
-      "nav_date": "09-Nov-2026",
-      "aum": "₹40,800.81 Cr",
+      "nav": "₹155.255",
+      "nav_date": "11-Nov-2026",
+      "aum": "₹38,960.36 Cr",
       "expense_ratio": "0.79%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
       "min_sip_investment": "₹100",
@@ -30,11 +30,11 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.96%",
-        "1_week": "2.06%",
-        "1_month": "-0.53%",
-        "3_months": "-6.14%",
-        "6_months": "-2.1%",
+        "1_day": "1.06%",
+        "1_week": "1.76%",
+        "1_month": "0.52%",
+        "3_months": "-5.05%",
+        "6_months": "-0.18%",
         "1_year": "-5.08%",
         "3_years": "9.35%",
         "5_years": "12.9%",
@@ -80,34 +80,34 @@
     },
     "holdings": {
       "top_10_holdings": [
-        "Firstsource Solutions Ltd: 3.68% (Industrials)",
-        "Aster DM Healthcare Ltd: 3.37% (Healthcare)",
-        "Gabriel India Ltd: 3.09% (Consumer Discretionary)",
-        "eClerx Services Ltd: 2.92% (Technology)",
-        "Bank Of Baroda: 2.65% (Financial)",
-        "Krishna Institute Of Medical Sciences Ltd: 2.04% (Healthcare)",
-        "Apar Industries Ltd: 1.92% (Diversified)",
-        "Indian Bank: 1.91% (Financial)",
-        "Pearl Global Industries Ltd: 1.9% (Consumer Discretionary)",
-        "Eris Lifesciences Ltd: 1.89% (Healthcare)"
+        "Firstsource Solutions Ltd: 4.41% (Industrials)",
+        "Aster DM Healthcare Ltd: 3.45% (Healthcare)",
+        "Gabriel India Ltd: 3.36% (Consumer Discretionary)",
+        "Bank Of Baroda: 2.87% (Financial)",
+        "eClerx Services Ltd: 2.62% (Technology)",
+        "PVR Ltd: 2.21% (Consumer Discretionary)",
+        "Indian Bank: 2.15% (Financial)",
+        "Krishna Institute Of Medical Sciences Ltd: 2.01% (Healthcare)",
+        "Eris Lifesciences Ltd: 1.92% (Healthcare)",
+        "Pearl Global Industries Ltd: 1.87% (Consumer Discretionary)"
       ],
       "asset_allocation": {
-        "equity": "90.07%",
-        "cash": "9.93%"
+        "equity": "90.18%",
+        "cash": "9.82%"
       },
       "sector_allocation": {
-        "Industrials": "22.07%",
-        "Consumer Discretionary": "20.49%",
-        "Financial": "12.29%",
-        "Healthcare": "10.79%",
-        "Materials": "8.64%",
-        "Technology": "7.06%",
-        "Consumer Staples": "4.62%",
-        "Diversified": "2.38%",
-        "Energy & Utilities": "1.73%"
+        "Industrials": "21.97%",
+        "Consumer Discretionary": "20.77%",
+        "Financial": "12.85%",
+        "Healthcare": "11.13%",
+        "Materials": "8.32%",
+        "Technology": "6.69%",
+        "Consumer Staples": "4.37%",
+        "Diversified": "2.23%",
+        "Energy & Utilities": "1.85%"
       },
-      "portfolio_date": "2026-09-29",
-      "total_holdings": "85"
+      "portfolio_date": "2026-10-30",
+      "total_holdings": "88"
     },
     "tax": {
       "tax_implications": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
@@ -140,7 +140,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-11-11T12:31:25.851438+00:00",
-  "fetched_at": "2026-11-11T12:31:25.850433+00:00",
+  "parse_timestamp": "2026-11-12T13:36:12.281498+00:00",
+  "fetched_at": "2026-11-12T13:36:12.280466+00:00",
   "http_status": 200
 }
