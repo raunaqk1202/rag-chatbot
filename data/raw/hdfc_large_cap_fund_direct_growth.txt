@@ -1,6 +1,6 @@
 SCHEME: HDFC Large Cap Fund – Direct Growth
 SOURCE: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-SCRAPED: 2026-11-12T13:36:09.549641+00:00
+SCRAPED: 2026-11-13T12:55:26.445617+00:00
 
 ============================================================
   FUND OVERVIEW
@@ -20,8 +20,8 @@ Groww Rating: 4 out of 5
 ============================================================
   FUND DETAILS
 ============================================================
-Nav: ₹1269.861
-Nav Date: 11-Nov-2026
+Nav: ₹1274.093
+Nav Date: 12-Nov-2026
 Aum: ₹37,466.30 Cr
 Expense Ratio: 1.0%
 Exit Load: Exit load of 1% if redeemed within 1 year
@@ -37,15 +37,15 @@ Portfolio Turnover: 18.0%
 ============================================================
 
 Annualised Returns Cagr:
-  1 Day: 0.73%
-  1 Week: 5.2%
-  1 Month: 10.14%
-  3 Months: 1.61%
-  6 Months: 7.13%
-  1 Year: 1.19%
-  3 Years: 10.75%
-  5 Years: 10.72%
-  10 Years: 13.02%
+  1 Day: 0.33%
+  1 Week: 3.28%
+  1 Month: 11.04%
+  3 Months: 1.97%
+  6 Months: 9.61%
+  1 Year: 0.48%
+  3 Years: 11.01%
+  5 Years: 10.96%
+  10 Years: 13.12%
   Since Inception: 13.08%
 
 Category Average Returns:
@@ -55,10 +55,10 @@ Category Average Returns:
   10 Years: 13.09%
 
 Category Rankings:
-  1 Year: Rank 54
+  1 Year: Rank 56
   3 Years: Rank 50
-  5 Years: Rank 19
-  10 Years: Rank 12
+  5 Years: Rank 17
+  10 Years: Rank 15
 
 Risk Metrics:
   Sharpe Ratio: 0.27
@@ -68,11 +68,11 @@ Risk Metrics:
   Sortino Ratio: 0.32
 
 Sip Returns:
-  1 Year: 8.51%
-  3 Years: 4.39%
-  5 Years: 10.05%
-  10 Years: 12.9%
-  Since Inception: 13.07%
+  1 Year: 10.7%
+  3 Years: 5.1%
+  5 Years: 10.45%
+  10 Years: 13.08%
+  Since Inception: 13.2%
 
 ============================================================
   RISK
@@ -140,7 +140,7 @@ Fund Managers:
   AMC INFO
 ============================================================
 Amc Name: HDFC Mutual Fund
-Total Amc Aum: ₹934,075.66 Cr
+Total Amc Aum: ₹933,671.14 Cr
 Contact Email: shareholders.relations@hdfcfund.com
 Contact Phone: 022 – 66316333
 Website: http://www.hdfcfund.com

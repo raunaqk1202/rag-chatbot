@@ -15,9 +15,9 @@
       "risk_level": "Very High"
     },
     "fund_details": {
-      "nav": "₹30.5099",
-      "nav_date": "11-Nov-2026",
-      "aum": "₹4,497.00 Cr",
+      "nav": "₹29.5917",
+      "nav_date": "12-Nov-2026",
+      "aum": "₹3,787.89 Cr",
       "expense_ratio": "0.21%",
       "exit_load": "Exit load of 1%, if redeemed within 15 days.",
       "min_sip_investment": "₹100",
@@ -28,21 +28,21 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.16%",
-        "1_week": "0.18%",
-        "1_month": "-15.66%",
-        "3_months": "-20.62%",
-        "6_months": "-26.94%",
-        "1_year": "23.35%",
-        "3_years": "35.96%"
+        "1_day": "-3.01%",
+        "1_week": "-3.73%",
+        "1_month": "-17.83%",
+        "3_months": "-24.13%",
+        "6_months": "-32.1%",
+        "1_year": "13.24%",
+        "3_years": "34.26%"
       },
       "category_average_returns": {
         "1_year": "26.76%",
         "3_years": "37.06%"
       },
       "category_rankings": {
-        "1_year": "Rank 7",
-        "3_years": "Rank 4"
+        "1_year": "Rank 10",
+        "3_years": "Rank 5"
       },
       "risk_metrics": {
         "sharpe_ratio": "0.77",
@@ -52,9 +52,9 @@
         "sortino_ratio": "1.51"
       },
       "sip_returns": {
-        "1_year": "-33.25%",
-        "3_years": "33.84%",
-        "since_inception": "31.96%"
+        "1_year": "-36.93%",
+        "3_years": "31.39%",
+        "since_inception": "30.25%"
       }
     },
     "risk": {
@@ -82,7 +82,7 @@
     },
     "amc_info": {
       "amc_name": "HDFC Mutual Fund",
-      "total_amc_aum": "₹934,075.66 Cr",
+      "total_amc_aum": "₹933,671.14 Cr",
       "contact_email": "shareholders.relations@hdfcfund.com",
       "contact_phone": "022 – 66316333",
       "website": "http://www.hdfcfund.com"
@@ -99,7 +99,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-11-12T13:36:15.019108+00:00",
-  "fetched_at": "2026-11-12T13:36:15.018115+00:00",
+  "parse_timestamp": "2026-11-13T12:55:31.853397+00:00",
+  "fetched_at": "2026-11-13T12:55:31.852566+00:00",
   "http_status": 200
 }

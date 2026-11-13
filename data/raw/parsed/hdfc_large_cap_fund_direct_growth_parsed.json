@@ -16,8 +16,8 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹1269.861",
-      "nav_date": "11-Nov-2026",
+      "nav": "₹1274.093",
+      "nav_date": "12-Nov-2026",
       "aum": "₹37,466.30 Cr",
       "expense_ratio": "1.0%",
       "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -30,15 +30,15 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.73%",
-        "1_week": "5.2%",
-        "1_month": "10.14%",
-        "3_months": "1.61%",
-        "6_months": "7.13%",
-        "1_year": "1.19%",
-        "3_years": "10.75%",
-        "5_years": "10.72%",
-        "10_years": "13.02%",
+        "1_day": "0.33%",
+        "1_week": "3.28%",
+        "1_month": "11.04%",
+        "3_months": "1.97%",
+        "6_months": "9.61%",
+        "1_year": "0.48%",
+        "3_years": "11.01%",
+        "5_years": "10.96%",
+        "10_years": "13.12%",
         "since_inception": "13.08%"
       },
       "category_average_returns": {
@@ -48,10 +48,10 @@
         "10_years": "13.09%"
       },
       "category_rankings": {
-        "1_year": "Rank 54",
+        "1_year": "Rank 56",
         "3_years": "Rank 50",
-        "5_years": "Rank 19",
-        "10_years": "Rank 12"
+        "5_years": "Rank 17",
+        "10_years": "Rank 15"
       },
       "risk_metrics": {
         "sharpe_ratio": "0.27",
@@ -61,11 +61,11 @@
         "sortino_ratio": "0.32"
       },
       "sip_returns": {
-        "1_year": "8.51%",
-        "3_years": "4.39%",
-        "5_years": "10.05%",
-        "10_years": "12.9%",
-        "since_inception": "13.07%"
+        "1_year": "10.7%",
+        "3_years": "5.1%",
+        "5_years": "10.45%",
+        "10_years": "13.08%",
+        "since_inception": "13.2%"
       }
     },
     "risk": {
@@ -122,7 +122,7 @@
     },
     "amc_info": {
       "amc_name": "HDFC Mutual Fund",
-      "total_amc_aum": "₹934,075.66 Cr",
+      "total_amc_aum": "₹933,671.14 Cr",
       "contact_email": "shareholders.relations@hdfcfund.com",
       "contact_phone": "022 – 66316333",
       "website": "http://www.hdfcfund.com"
@@ -140,7 +140,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-11-12T13:36:09.549641+00:00",
-  "fetched_at": "2026-11-12T13:36:09.548768+00:00",
+  "parse_timestamp": "2026-11-13T12:55:26.445617+00:00",
+  "fetched_at": "2026-11-13T12:55:26.444652+00:00",
   "http_status": 200
 }
