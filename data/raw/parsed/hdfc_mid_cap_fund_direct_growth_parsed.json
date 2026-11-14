@@ -16,10 +16,10 @@
       "groww_rating": "4 out of 5"
     },
     "fund_details": {
-      "nav": "₹230.663",
-      "nav_date": "12-Nov-2026",
+      "nav": "₹229.697",
+      "nav_date": "13-Nov-2026",
       "aum": "₹100,687.07 Cr",
-      "expense_ratio": "0.74%",
+      "expense_ratio": "0.73%",
       "exit_load": "Exit load of 1% if redeemed within 1 year.",
       "min_sip_investment": "₹100",
       "min_lumpsum_investment": "₹100",
@@ -30,11 +30,11 @@
     },
     "returns": {
       "annualised_returns_cagr": {
-        "1_day": "0.48%",
-        "1_week": "2.0%",
-        "1_month": "5.18%",
-        "3_months": "-2.63%",
-        "6_months": "6.48%",
+        "1_day": "-0.42%",
+        "1_week": "1.62%",
+        "1_month": "3.8%",
+        "3_months": "-3.11%",
+        "6_months": "5.99%",
         "1_year": "2.7%",
         "3_years": "16.44%",
         "5_years": "17.64%",
@@ -42,10 +42,10 @@
         "since_inception": "19.3%"
       },
       "category_average_returns": {
-        "1_year": "3.82%",
-        "3_years": "15.27%",
-        "5_years": "13.90%",
-        "10_years": "16.50%"
+        "1_year": "4.23%",
+        "3_years": "15.82%",
+        "5_years": "14.38%",
+        "10_years": "16.94%"
       },
       "category_rankings": {
         "1_year": "Rank 30",
@@ -129,9 +129,9 @@
     "analysis": {
       "pros": [
         "1Y and 10Y annualised returns higher than category average",
-        "Lower expense ratio: 0.74%",
+        "Lower expense ratio: 0.73%",
         "Higher alpha: 2.76 \nThe fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y ",
-        "Lower base expense ratio: 0.6%"
+        "Lower base expense ratio: 0.59%"
       ],
       "cons": [
         "3Y and 5Y annualised returns lower than category average"
@@ -140,7 +140,7 @@
   },
   "sections_extracted": 10,
   "js_rendered_flag": false,
-  "parse_timestamp": "2026-11-13T12:55:27.839870+00:00",
-  "fetched_at": "2026-11-13T12:55:27.839019+00:00",
+  "parse_timestamp": "2026-11-14T11:59:06.217645+00:00",
+  "fetched_at": "2026-11-14T11:59:06.216850+00:00",
   "http_status": 200
 }
